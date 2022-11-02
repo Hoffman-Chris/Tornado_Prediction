@@ -1,0 +1,1442 @@
+,Unnamed: 0,Year,mo,dy,st,start_municipality,end_municipality,County,end_county,len,mag,inj,fat,slat,slon,count
+0,151,1950,6,25,WI,Town of Grow,,Rusk County,,0.5,1,0,0,45.42,-91.0,1
+1,152,1950,6,25,WI,Town of Hackett,Town of Knox,Price County,Price County,8.4,2,0,0,45.57,-90.3,1
+2,153,1950,6,25,WI,Town of Unity,Town of Holton,Clark County,Marathon County,7.8,2,0,1,44.83,-90.35,1
+3,154,1950,6,25,WI,Town of Woodboro,Town of Pine Lake,Oneida County,Oneida County,13.1,4,12,2,45.58,-89.58,1
+4,156,1950,6,25,WI,Town of Berlin,,Green Lake County,Green Lake County,0.1,3,0,0,43.95,-88.95,1
+5,348,1951,6,19,WI,Town of Lomira,,Dodge County,,1.0,2,0,0,43.62,-88.5,1
+6,421,1951,7,3,WI,Town of Westford,,Richland County,,0.5,2,0,0,43.48,-90.23,1
+7,458,1951,9,12,WI,Town of Waterville,Town of Elk Mound,Pepin County,Dunn County,24.4,3,1,0,44.63,-92.08,1
+8,460,1951,9,26,WI,Town of Belmont,Town of Lebanon,Portage County,Waupaca County,26.4,4,3,6,44.33,-89.3,1
+9,461,1951,9,26,WI,Town of Wyocena,Town of Courtland,Columbia County,Columbia County,9.0,4,9,1,43.47,-89.25,1
+10,649,1952,6,23,WI,,Town of Bone Lake,Polk County,Polk County,18.2,3,6,2,45.42,-92.63,1
+11,905,1953,5,10,WI,,,,,0.0,4,0,0,0.0,0.0,1
+12,906,1953,5,10,WI,Town of Milton,Town of Ogema,Buffalo County,Price County,113.7,4,5,0,44.2,-91.85,1
+13,907,1953,5,10,WI,,,,,0.0,2,0,0,0.0,0.0,1
+14,908,1953,5,10,WI,Town of Clifton,Town of Wascott,Pierce County,Douglas County,105.7,2,27,4,44.83,-92.67,1
+15,1005,1953,6,20,WI,Town of Three Lakes,,Oneida County,,2.0,1,0,0,45.78,-89.13,1
+16,1283,1954,4,15,WI,Town of Neshkoro,Town of Warren,Marquette County,Waushara County,5.9,2,0,0,43.98,-89.18,1
+17,1304,1954,4,26,WI,Town of Holland,Town of Gale,La Crosse County,Trempealeau County,5.6,1,0,0,44.0,-91.25,1
+18,1306,1954,4,26,WI,,Town of North Lancaster,Grant County,Grant County,1.3,1,0,0,42.83,-90.8,1
+19,1387,1954,4,7,WI,Town of Pulaski,Town of Clyde,Iowa County,Iowa County,6.4,2,4,0,43.13,-90.38,1
+20,1388,1954,4,7,WI,Town of Fond du Lac,Town of Fond du Lac,Fond du Lac County,Fond du Lac County,1.9,2,0,0,43.7,-88.53,1
+21,1389,1954,4,7,WI,,,Waukesha County,Waukesha County,0.1,1,0,0,43.1,-88.52,1
+22,1550,1954,6,18,WI,Town of Curran,Town of Adams,Jackson County,Jackson County,10.2,2,0,0,44.38,-91.03,1
+23,1556,1954,6,20,WI,,,Marathon County,Marathon County,6.1,2,0,0,44.88,-89.62,1
+24,1557,1954,6,20,WI,,,Calumet County,,0.5,2,0,0,43.95,-88.3,1
+25,1576,1954,6,29,WI,,Town of Union,Pierce County,Pierce County,6.2,2,0,0,44.62,-92.37,1
+26,1636,1954,7,30,WI,Town of West Point,Town of Springvale,Columbia County,Columbia County,25.2,2,0,0,43.32,-89.58,1
+27,1662,1954,8,15,WI,Town of Richmond,,Saint Croix County,Saint Croix County,3.0,2,0,0,45.12,-92.58,1
+28,1840,1955,4,18,WI,Town of Prairie du Chien,,Crawford County,Crawford County,13.1,1,0,0,43.08,-91.13,1
+29,1842,1955,4,18,WI,Town of Mineral Point,Town of Brigham,Iowa County,Iowa County,17.3,2,0,0,42.83,-90.13,1
+30,1843,1955,4,18,WI,,Town of Brooklyn,Dane County,Green County,9.2,2,0,0,42.88,-89.58,1
+31,1846,1955,4,18,WI,Town of Sugar Creek,Town of Sugar Creek,Walworth County,Walworth County,3.3,2,1,0,42.75,-88.67,1
+32,2056,1955,5,28,WI,Town of Center,,Rock County,,0.1,1,0,0,42.72,-89.23,1
+33,2057,1955,5,28,WI,Town of Larrabee,Town of Larrabee,Waupaca County,Waupaca County,2.7,1,4,0,44.62,-88.8,1
+34,2065,1955,5,3,WI,Town of Rock Falls,Town of Birch,Lincoln County,Lincoln County,6.8,3,2,0,45.33,-89.72,1
+35,2245,1955,7,22,WI,,,Pierce County,,2.0,1,0,0,44.78,-92.13,1
+36,2254,1955,7,31,WI,Town of Springfield,Town of Newton,Marquette County,Marquette County,2.7,2,0,0,43.97,-89.5,1
+37,2513,1956,4,3,WI,Town of Clyde,Town of Pulaski,Iowa County,Iowa County,3.0,2,0,0,43.1,-90.25,1
+38,2515,1956,4,3,WI,Town of Pine Grove,Town of Amherst,Portage County,Portage County,18.2,2,2,2,44.25,-89.52,1
+39,2517,1956,4,3,WI,Town of Berlin,,Green Lake County,Winnebago County,11.5,4,50,7,43.93,-88.97,1
+40,2714,1956,7,16,WI,,,Waukesha County,Waukesha County,3.3,0,0,0,42.92,-88.28,1
+41,2738,1956,7,21,WI,Town of Calamus,,Dodge County,,0.1,0,0,0,43.43,-88.93,1
+42,2754,1956,7,1,WI,Town of Clay Banks,,Door County,,10.6,2,0,0,44.73,-87.38,1
+43,3039,1957,4,19,WI,Town of Onalaska,Town of Hamilton,La Crosse County,La Crosse County,0.1,2,0,0,43.97,-91.17,1
+44,3040,1957,4,19,WI,Town of Lisbon,Town of Finley,Juneau County,Juneau County,21.1,4,0,1,43.87,-90.18,1
+45,3041,1957,4,19,WI,Town of Pine Grove,Town of Lanark,Portage County,Portage County,12.6,1,0,0,44.28,-89.52,1
+46,3042,1957,4,19,WI,Town of Richford,Town of Bloomfield,Waushara County,Waushara County,22.8,2,1,0,44.07,-89.4,1
+47,3044,1957,4,19,WI,,Town of Burlington,Walworth County,Racine County,2.7,2,2,0,42.65,-88.33,1
+48,3047,1957,4,19,WI,Town of Wellington,Town of Fountain,Monroe County,Juneau County,9.0,3,0,0,43.73,-90.43,1
+49,3426,1957,5,25,WI,Town of Bloomington,Town of Fennimore,Grant County,Grant County,15.6,2,0,0,42.9,-90.92,1
+50,3516,1957,6,14,WI,Town of Florence,Mastodon Township,Florence County,Iron County,7.8,1,0,0,45.92,-88.33,1
+51,3623,1957,7,11,WI,Town of Morrison,,Brown County,,0.1,1,0,0,44.3,-87.87,1
+52,3624,1957,7,11,WI,Town of Manitowoc Rapids,,Manitowoc County,,0.1,1,0,0,44.12,-87.78,1
+53,3660,1957,7,4,WI,Town of Oak Grove,Town of Oak Grove,Barron County,Barron County,1.3,2,4,0,45.6,-91.77,1
+54,3706,1957,9,19,WI,Town of Forest,Town of Hillsboro,Vernon County,Vernon County,4.1,1,0,0,43.65,-90.52,1
+55,3723,1958,10,9,WI,,,Saint Croix County,Saint Croix County,0.1,2,0,0,45.02,-92.73,1
+56,3724,1958,10,9,WI,,,Dane County,,1.0,0,0,0,43.17,-89.37,1
+57,3913,1958,5,17,WI,Town of Wausaukee,Town of Wausaukee,Marinette County,Marinette County,4.7,2,0,0,45.35,-88.0,1
+58,3920,1958,5,24,WI,,Town of Waterville,Washington County,Pepin County,44.3,3,6,0,44.97,-92.77,1
+59,3934,1958,5,31,WI,Town of Willow Springs,Town of Willow Springs,Lafayette County,Lafayette County,1.3,2,0,0,42.72,-90.15,1
+60,4035,1958,6,22,WI,,,Clark County,Clark County,0.1,1,0,0,44.95,-90.33,1
+61,4038,1958,6,22,WI,,,Saint Croix County,,0.1,0,0,0,45.05,-92.75,1
+62,4060,1958,6,30,WI,Town of Russell,,Lincoln County,,2.0,2,0,0,45.3,-89.52,1
+63,4074,1958,6,4,WI,Town of Eau Galle,Town of Grant,Saint Croix County,Dunn County,33.7,5,74,21,44.9,-92.33,1
+64,4075,1958,6,4,WI,Town of Wheaton,Town of Anson,Chippewa County,Chippewa County,11.1,4,50,3,44.93,-91.47,1
+65,4077,1958,6,4,WI,,Town of Delmar,Chippewa County,Chippewa County,4.3,3,3,0,44.95,-91.17,1
+66,4078,1958,6,4,WI,Town of Lincoln,Town of Cassel,Eau Claire County,Marathon County,59.2,4,3,4,44.77,-91.27,1
+67,4079,1958,6,4,WI,Town of Hubbard,Town of Winter,Rusk County,Sawyer County,13.8,2,0,0,45.58,-91.1,1
+68,4129,1958,7,14,WI,Town of Prairie Farm,,Barron County,,1.0,2,0,0,45.27,-91.98,1
+69,4132,1958,7,14,WI,,,Iron County,,1.5,2,0,0,46.17,-90.07,1
+70,4246,1958,8,30,WI,Town of Middle Inlet,,Marinette County,,1.5,1,0,0,45.33,-87.83,1
+71,4263,1958,8,7,WI,,,Milwaukee County,,1.0,2,4,0,43.12,-88.0,1
+72,4311,1959,10,8,WI,Town of Ixonia,,Waukesha County,,1.0,2,0,0,43.2,-88.52,1
+73,4312,1959,10,8,WI,Town of Norway,,Racine County,,2.2,2,2,0,42.77,-88.07,1
+74,4463,1959,5,10,WI,Town of Lewiston,,Columbia County,,2.2,1,0,0,43.57,-89.5,1
+75,4465,1959,5,10,WI,,,Brown County,Brown County,4.3,2,3,0,44.48,-88.05,1
+76,4491,1959,5,19,WI,,Town of South Lancaster,Grant County,Grant County,4.9,2,0,0,42.8,-90.8,1
+77,4527,1959,5,26,WI,,Town of Foster,Trempealeau County,Clark County,34.3,3,2,0,44.0,-91.42,1
+78,4528,1959,5,26,WI,Town of Big Bend,,Rusk County,,2.2,2,0,0,45.33,-91.3,1
+79,4546,1959,5,28,WI,Town of West Point,,Columbia County,,0.1,0,0,0,43.3,-89.7,1
+80,4547,1959,5,28,WI,Town of Marquette,,Green Lake County,,0.1,0,0,0,43.75,-89.1,1
+81,4548,1959,5,28,WI,Town of Oshkosh,,Winnebago County,,0.1,1,0,0,44.1,-88.57,1
+82,4549,1959,5,28,WI,Town of Lawrence,,Brown County,,0.1,0,0,0,44.38,-88.13,1
+83,4550,1959,5,28,WI,Town of Wrightstown,,Brown County,,0.1,0,0,0,44.3,-88.1,1
+84,4586,1959,5,4,WI,Town of Lafayette,,Chippewa County,,0.3,0,0,0,44.9,-91.33,1
+85,4587,1959,5,4,WI,Town of Emmet,,Marathon County,,1.0,1,0,0,44.8,-89.9,1
+86,4588,1959,5,4,WI,Town of Hixton,,Jackson County,,1.0,2,0,0,44.32,-90.88,1
+87,4589,1959,5,4,WI,Town of Neva,,Langlade County,,1.0,0,0,0,45.25,-89.17,1
+88,4635,1959,5,5,WI,Town of Mondovi,,Buffalo County,,0.3,0,0,0,44.58,-91.67,1
+89,4636,1959,5,6,WI,Town of Union,,Waupaca County,Outagamie County,7.2,2,0,0,44.52,-88.87,1
+90,4637,1959,5,6,WI,Town of Bovina,,Outagamie County,,0.1,2,0,0,44.47,-88.55,1
+91,4675,1959,6,11,WI,,,Brown County,,0.5,1,0,0,44.45,-88.03,1
+92,4680,1959,6,11,WI,,,Waukesha County,,2.0,1,0,0,42.88,-88.47,1
+93,4709,1959,6,26,WI,Town of Woodmohr,,Chippewa County,,0.1,0,0,0,45.1,-91.4,1
+94,4738,1959,6,6,WI,Town of Whitewater,,Walworth County,,0.1,0,0,0,42.8,-88.7,1
+95,4799,1959,7,8,WI,Town of Harris,Town of Crystal Lake,Marquette County,Marquette County,5.2,2,0,0,43.88,-89.4,1
+96,4802,1959,7,8,WI,Town of Niagra,,Marinette County,,1.0,2,3,0,45.78,-88.0,1
+97,4829,1959,8,28,WI,,,Outagamie County,,1.0,0,0,0,44.3,-88.4,1
+98,4849,1959,9,22,WI,Town of Butler,,Clark County,,0.5,0,0,0,44.85,-90.82,1
+99,4870,1959,9,26,WI,,,Milwaukee County,,1.5,2,3,0,42.95,-87.97,1
+100,4871,1959,9,26,WI,,,Racine County,Racine County,19.4,1,2,0,42.73,-88.22,1
+101,4903,1959,9,6,WI,Town of Grantsburg,Town of Wood River,Burnett County,Burnett County,3.8,1,0,0,45.8,-92.75,1
+102,4925,1960,11,15,WI,Town of Sherman,Town of Cassel,Clark County,Marathon County,36.0,2,0,0,44.63,-90.38,1
+103,4932,1960,11,15,WI,Town of Union,Town of Union,Rock County,Rock County,3.0,2,0,0,42.78,-89.33,1
+104,5056,1960,4,23,WI,Town of Winter,Town of Winter,Sawyer County,Sawyer County,1.9,1,0,0,45.67,-90.75,1
+105,5057,1960,4,24,WI,Town of Eaton,,Manitowoc County,,1.0,1,0,0,44.03,-88.02,1
+106,5167,1960,5,21,WI,Town of Dellona,Town of Lyndon,Sauk County,Juneau County,4.6,0,0,0,43.6,-89.9,1
+107,5168,1960,5,21,WI,Town of Metomen,,Fond du Lac County,,2.0,0,0,0,43.8,-88.8,1
+108,5369,1960,6,28,WI,Town of Naples,Town of Unity,Buffalo County,Trempealeau County,12.2,2,0,0,44.57,-91.58,1
+109,5464,1960,8,20,WI,,,Iowa County,,1.0,0,0,0,43.0,-90.0,1
+110,5479,1960,8,27,WI,Town of Medford,,Taylor County,,2.0,1,0,0,45.18,-90.33,1
+111,5481,1960,8,28,WI,Town of Lafayette,,Monroe County,,0.5,2,0,0,44.07,-90.8,1
+112,5501,1960,8,8,WI,Town of Lowell,Town of Shields,Dodge County,Dodge County,4.1,1,0,0,43.32,-88.87,1
+113,5838,1961,5,14,WI,,,La Crosse County,,1.0,2,0,0,43.8,-91.22,1
+114,6166,1961,8,14,WI,Town of Chippewa,Town of Lake,Ashland County,Price County,4.5,2,0,0,46.0,-90.52,1
+115,6184,1961,8,2,WI,Town of Grantsburg,,Burnett County,,0.5,0,0,0,45.75,-92.7,1
+116,6216,1961,9,22,WI,Town of Lima,,Rock County,Walworth County,6.9,2,1,0,42.77,-88.83,1
+117,6217,1961,9,22,WI,Town of Osceola,,Fond du Lac County,Sheboygan County,12.6,2,0,0,43.65,-88.25,1
+118,6233,1961,9,2,WI,,Town of New Haven,Saint Croix County,Dunn County,5.4,1,0,0,45.07,-92.17,1
+119,6235,1961,9,3,WI,Town of Wien,,Marathon County,,2.0,2,0,0,44.87,-90.02,1
+120,6236,1961,9,3,WI,,,Marathon County,,2.0,1,0,0,45.03,-90.08,1
+121,6240,1961,9,3,WI,Town of Corning,,Lincoln County,,1.0,1,0,0,45.2,-89.92,1
+122,6245,1962,10,10,WI,,Town of Hiles,Jackson County,Wood County,3.3,1,0,0,44.33,-90.33,1
+123,6252,1962,10,4,WI,,,Milwaukee County,,0.5,1,0,0,42.95,-88.05,1
+124,6639,1962,6,17,WI,,,Fond du Lac County,,1.0,2,0,0,43.83,-88.83,1
+125,6661,1962,6,23,WI,Town of Thorp,Town of Withee,Clark County,Clark County,2.3,2,0,0,44.97,-90.83,1
+126,6662,1962,6,23,WI,,Town of Humboldt,,Brown County,3.3,0,0,0,44.58,-87.92,1
+127,6666,1962,6,23,WI,Town of Amherst,,Portage County,,0.1,0,0,0,44.47,-89.35,1
+128,6791,1962,7,22,WI,,,Milwaukee County,,0.1,2,0,0,43.0,-87.97,1
+129,6796,1962,7,24,WI,Town of Corning,,Lincoln County,,1.0,2,0,0,45.2,-89.92,1
+130,6843,1962,8,15,WI,Town of Cumberland,Town of Arthur,Barron County,Chippewa County,50.9,1,0,0,45.5,-92.0,1
+131,7186,1963,6,13,WI,Town of Lomira,Town of Lomira,Dodge County,Dodge County,3.8,1,0,0,43.63,-88.48,1
+132,7253,1963,6,8,WI,,Town of Rubicon,Dodge County,Dodge County,4.1,2,0,0,43.35,-88.6,1
+133,7294,1963,7,19,WI,,Town of Linn,Kenosha County,Walworth County,10.6,3,0,0,42.58,-88.25,1
+134,7333,1963,8,16,WI,Town of West Point,Town of Lodi,Columbia County,Columbia County,9.6,3,13,0,43.3,-89.72,1
+135,7334,1963,8,16,WI,Town of West Point,Town of Lodi,Columbia County,Columbia County,9.6,3,13,0,43.3,-89.72,1
+136,7335,1963,8,16,WI,Town of West Point,Town of Lodi,Columbia County,Columbia County,9.6,3,13,0,43.3,-89.72,1
+137,7360,1963,9,19,WI,Town of Nokomis,,Oneida County,,0.5,1,0,0,45.57,-89.68,1
+138,7374,1963,9,2,WI,Town of Argyle,Town of Adams,Lafayette County,Green County,9.9,2,0,0,42.72,-89.98,1
+139,7375,1963,9,2,WI,Town of Arena,,Iowa County,Dane County,22.5,2,1,0,43.17,-89.88,1
+140,7376,1963,9,2,WI,Town of Buffalo,Town of Adams,Marquette County,Green County,70.7,1,0,0,43.67,-89.33,1
+141,7686,1964,5,23,WI,,,Buffalo County,,0.5,1,0,0,44.47,-91.68,1
+142,7687,1964,5,23,WI,,Town of Mentor,Trempealeau County,Clark County,21.9,2,0,0,44.45,-91.33,1
+143,7712,1964,5,30,WI,,,Brown County,,1.0,0,0,0,44.47,-87.92,1
+144,7724,1964,5,4,WI,Town of Little Falls,Town of Manchester,Monroe County,Jackson County,9.7,2,2,0,44.12,-90.95,1
+145,7726,1964,5,4,WI,Town of Saint Germain,,Vilas County,,2.2,1,0,0,45.92,-89.52,1
+147,7730,1964,5,4,WI,Town of Fountain,Town of Clearfield,Juneau County,Juneau County,7.7,2,0,0,43.85,-90.28,1
+148,7731,1964,5,4,WI,Town of Cutler,,Juneau County,,1.0,1,0,0,44.03,-90.15,1
+149,7732,1964,5,5,WI,Town of Maple Plain,,Barron County,,0.3,1,0,0,45.57,-92.13,1
+150,7771,1964,5,7,WI,Town of Kingston,Town of Remington,Juneau County,Wood County,3.3,2,1,0,44.23,-90.22,1
+151,7781,1964,5,7,WI,,,Wood County,,0.5,2,14,0,44.4,-89.83,1
+152,7793,1964,5,8,WI,Town of Guenther,Town of Norrie,Marathon County,Marathon County,12.3,2,0,0,44.7,-89.58,1
+153,7794,1964,5,8,WI,Town of Larrabee,Town of Larrabee,Waupaca County,Waupaca County,3.3,2,1,0,44.58,-88.85,1
+154,7795,1964,5,8,WI,Town of Kildare,Town of Lincoln,Juneau County,Adams County,23.5,2,0,0,43.75,-89.97,1
+155,7796,1964,5,8,WI,Town of Kickapoo,,Vernon County,Vernon County,20.3,2,2,0,43.43,-90.72,1
+156,7798,1964,5,8,WI,,Town of Wrightstown,Winnebago County,Brown County,30.6,2,5,0,44.12,-88.72,1
+157,7869,1964,6,18,WI,Town of Stanley,Town of Sumner,Barron County,Barron County,4.1,2,2,0,45.43,-91.75,1
+158,7876,1964,6,20,WI,Town of Mondovi,,Buffalo County,,1.0,1,0,0,44.6,-91.67,1
+159,7938,1964,6,9,WI,,,Shawano County,,0.1,1,0,0,44.77,-88.62,1
+160,7939,1964,6,9,WI,Town of Brazeau,Town of Beaver,Oconto County,Marinette County,3.0,2,0,0,45.1,-88.05,1
+161,7968,1964,7,28,WI,,,Saint Croix County,,0.5,1,0,0,45.08,-92.78,1
+162,7986,1964,7,6,WI,Town of Chelsea,Town of Medford,Taylor County,Taylor County,3.3,2,2,0,45.22,-90.43,1
+163,7987,1964,7,6,WI,Town of Polk,,Washington County,,0.3,1,0,0,43.33,-88.2,1
+164,8029,1964,8,22,WI,Town of Lowell,,Dodge County,,1.0,1,0,0,43.33,-88.87,1
+165,8030,1964,8,22,WI,Town of Fond du Lac,,Fond du Lac County,,2.0,2,2,0,43.8,-88.4,1
+166,8031,1964,8,22,WI,Town of Pine Grove,Town of Buena Vista,Portage County,Portage County,6.4,2,0,0,44.3,-89.6,1
+167,8032,1964,8,22,WI,,,Fond du Lac County,,1.0,2,0,0,43.77,-88.45,1
+168,8033,1964,8,22,WI,Town of Port Washington,,Ozaukee County,,2.2,4,30,0,43.38,-87.92,1
+169,8034,1964,8,22,WI,,,Milwaukee County,,2.0,1,0,0,42.87,-87.93,1
+170,8056,1964,8,28,WI,Town of Maple Plain,Town of Roosevelt,Barron County,Burnett County,5.9,1,0,0,45.6,-92.1,1
+171,8096,1964,9,3,WI,Town of Richwood,Town of Richland,Richland County,Richland County,17.1,3,4,0,43.2,-90.63,1
+172,8097,1964,9,3,WI,Town of Herman,Town of Hartford,Dodge County,Washington County,3.3,1,0,0,43.38,-88.47,1
+173,8098,1964,9,3,WI,,,Milwaukee County,,0.1,2,0,0,43.12,-88.03,1
+175,8270,1965,4,11,WI,,,Jefferson County,Jefferson County,14.5,2,28,3,43.03,-88.88,1
+176,8271,1965,4,11,WI,Town of Utica,Town of Clayton,Crawford County,Crawford County,13.3,1,0,0,43.3,-90.9,1
+177,8274,1965,4,11,WI,,Town of Geneva,Walworth County,Walworth County,1.9,1,0,0,42.57,-88.55,1
+178,8275,1965,4,11,WI,Town of Richmond,,Walworth County,,1.0,1,0,0,42.72,-88.7,1
+179,8278,1965,4,11,WI,Town of Adrian,,Monroe County,,2.0,1,0,0,43.97,-90.58,1
+180,8428,1965,5,15,WI,Town of Mineral Point,,Iowa County,,1.0,2,1,0,42.92,-90.07,1
+181,8429,1965,5,15,WI,Town of Marshfield,,Fond du Lac County,,0.8,1,0,0,43.87,-88.22,1
+182,8517,1965,5,24,WI,,,Eau Claire County,,0.2,1,0,0,44.85,-91.45,1
+183,8551,1965,5,25,WI,,,Sauk County,,0.3,2,8,0,43.53,-90.0,1
+184,8593,1965,5,5,WI,Town of Grantsburg,Town of Lincoln,Burnett County,Burnett County,14.3,2,0,0,45.77,-92.77,1
+185,8594,1965,5,5,WI,Town of Onalaska,,La Crosse County,La Crosse County,22.2,3,1,0,43.92,-91.35,1
+186,8599,1965,5,5,WI,Town of Maple Plain,Town of Lakeland,Barron County,Barron County,4.5,2,0,0,45.58,-92.08,1
+187,8612,1965,5,7,WI,,,Washburn County,,1.0,2,0,0,45.73,-91.93,1
+188,8623,1965,5,8,WI,,,Waukesha County,,2.0,1,0,0,43.03,-88.23,1
+189,8706,1965,6,20,WI,Town of Harris,,Marquette County,,0.1,1,0,0,43.88,-89.4,1
+190,8747,1965,6,27,WI,,,Waukesha County,,0.5,1,0,0,43.1,-88.37,1
+191,8839,1965,7,15,WI,Town of River Falls,,Pierce County,,1.0,1,0,0,44.82,-92.52,1
+192,8840,1965,7,15,WI,Town of Lafayette,,Monroe County,,1.0,1,0,0,44.07,-90.77,1
+193,8860,1965,7,23,WI,Town of Komensky,,Jackson County,,0.5,1,0,0,44.4,-90.6,1
+194,8894,1965,7,8,WI,,,Calumet County,Calumet County,0.1,2,0,0,44.17,-88.3,1
+195,9024,1965,9,9,WI,Town of La Prairie,,Rock County,,1.0,1,0,0,42.58,-88.95,1
+196,9118,1966,3,21,WI,,,Walworth County,Racine County,33.1,2,1,0,42.6,-88.7,1
+197,9162,1966,4,19,WI,,Town of Plymouth,Vernon County,Juneau County,8.6,2,0,0,43.63,-90.33,1
+198,9273,1966,5,23,WI,Town of Ashippun,Town of Ashippun,Waukesha County,Dodge County,4.3,2,3,0,43.2,-88.53,1
+199,9392,1966,6,4,WI,Town of How,Town of Bagley,Oconto County,Oconto County,5.4,2,0,0,45.02,-88.38,1
+200,9393,1966,6,4,WI,Town of Maple Valley,Town of Spruce,Oconto County,Oconto County,4.9,2,0,0,44.95,-88.33,1
+201,9394,1966,6,4,WI,Town of Gillett,Town of Oconto Falls,Oconto County,Oconto County,4.7,2,0,0,44.88,-88.3,1
+202,9439,1966,7,10,WI,Town of Lincoln,,Polk County,,2.0,2,2,0,45.33,-92.33,1
+203,9440,1966,7,10,WI,Town of Hayward,,Sawyer County,,1.0,1,0,0,46.0,-91.5,1
+204,9441,1966,7,10,WI,,,Pierce County,,2.0,1,2,0,44.75,-92.5,1
+205,9442,1966,7,10,WI,Town of Garden Valley,,Jackson County,Jackson County,7.9,2,3,0,44.43,-91.0,1
+206,9443,1966,7,10,WI,,,La Crosse County,,1.0,1,0,0,43.88,-91.23,1
+207,9444,1966,7,10,WI,,,La Crosse County,,1.0,1,1,0,43.88,-91.25,1
+208,9445,1966,7,10,WI,Town of Coloma,Town of Wautoma,Waushara County,Waushara County,15.5,1,3,0,44.07,-89.57,1
+209,9446,1966,7,10,WI,,,Dane County,,0.1,1,0,0,43.05,-89.48,1
+210,9447,1966,7,10,WI,,,Waukesha County,,1.0,1,0,0,43.08,-88.25,1
+211,9448,1966,7,10,WI,,,Racine County,,0.5,1,0,0,42.75,-88.22,1
+212,9457,1966,7,13,WI,Town of Platteville,Town of Platteville,Grant County,Grant County,2.7,2,0,0,42.72,-90.5,1
+213,9480,1966,7,25,WI,,,Door County,,2.0,0,0,0,45.15,-87.17,1
+214,9509,1966,7,3,WI,Town of Taft,,Taylor County,,0.1,2,1,0,45.13,-90.8,1
+215,9510,1966,7,3,WI,Town of Black Brook,,Polk County,Saint Croix County,3.0,0,0,0,45.22,-92.42,1
+216,9553,1966,8,15,WI,Town of Washington,Town of Fort Winnebago,Sauk County,Columbia County,34.2,2,1,0,43.42,-90.13,1
+217,9589,1966,8,8,WI,Town of Sheboygan Falls,,Sheboygan County,Sheboygan County,8.9,1,1,0,43.83,-87.9,1
+218,9755,1967,1,24,WI,Town of Decatur,Town of Harmony,Green County,Rock County,24.9,3,0,0,42.6,-89.37,1
+219,9802,1967,3,31,WI,Town of Plymouth,,Juneau County,,2.0,1,0,0,43.75,-90.3,1
+220,9803,1967,3,31,WI,,Town of Christiana,Vernon County,Vernon County,1.9,1,0,0,43.65,-90.87,1
+221,9804,1967,3,31,WI,,Town of Summit,Sauk County,Juneau County,1.9,2,0,0,43.63,-90.18,1
+222,9855,1967,4,16,WI,Town of Wayne,Town of Albany,Lafayette County,Green County,27.8,3,0,0,42.52,-89.93,1
+223,9991,1967,5,18,WI,Town of Utica,,Crawford County,,0.3,1,0,0,43.33,-90.9,1
+224,9993,1967,5,18,WI,,,Rock County,,0.3,1,0,0,42.5,-88.95,1
+225,9994,1967,5,18,WI,Town of Dodgeville,,Iowa County,,0.3,1,0,0,42.95,-90.07,1
+226,9996,1967,5,18,WI,,,Waukesha County,Waukesha County,4.7,2,0,0,43.02,-88.5,1
+227,10093,1967,6,10,WI,,,Walworth County,,0.1,1,0,0,42.63,-88.63,1
+228,10119,1967,6,11,WI,,,Dane County,Dane County,1.3,2,0,0,43.18,-89.27,1
+229,10121,1967,6,11,WI,Town of Gratiot,,Lafayette County,,0.5,1,0,0,42.57,-90.05,1
+230,10140,1967,6,12,WI,Town of Farmington,,Polk County,,0.5,2,0,0,45.3,-92.7,1
+231,10142,1967,6,12,WI,Town of Watertown,,Jefferson County,,0.5,0,0,0,43.12,-88.72,1
+232,10187,1967,6,15,WI,Town of Trempealeau,Town of Gale,Trempealeau County,Trempealeau County,1.3,1,0,0,44.07,-91.4,1
+233,10191,1967,6,15,WI,Town of Farmington,,La Crosse County,,1.0,0,0,0,44.02,-91.05,1
+234,10241,1967,6,30,WI,Town of Fremont,Town of Lincoln,Clark County,Wood County,4.1,1,0,0,44.65,-90.4,1
+235,10242,1967,6,30,WI,Town of Chilton,Town of Eaton,Calumet County,Manitowoc County,5.9,2,1,0,44.03,-88.17,1
+236,10275,1967,6,7,WI,Town of Bloomington,,Grant County,,0.3,0,0,0,42.88,-90.92,1
+237,10288,1967,6,8,WI,Town of Hillsboro,Town of Wonewoc,Vernon County,Juneau County,8.7,1,0,0,43.7,-90.42,1
+238,10320,1967,7,22,WI,Town of Almena,Town of Lake Holcombe,Barron County,Chippewa County,49.1,2,6,0,45.4,-92.1,1
+239,10321,1967,7,22,WI,Town of Gilman,Town of Rock Elm,Pierce County,Pierce County,9.2,2,3,0,44.82,-92.38,1
+240,10322,1967,7,22,WI,Town of Loyal,Town of Auburndale,Clark County,Wood County,21.4,2,2,0,44.7,-90.5,1
+241,10323,1967,7,23,WI,Town of Friendship,Town of Fond du Lac,Fond du Lac County,Fond du Lac County,6.5,1,0,0,43.88,-88.5,1
+242,10342,1967,7,29,WI,,,Green County,,2.0,1,0,0,42.53,-89.67,1
+243,10345,1967,7,1,WI,Town of Schleswig,,Manitowoc County,,0.5,1,0,0,43.92,-87.97,1
+244,10348,1967,7,2,WI,,,Calumet County,,0.5,1,0,0,44.18,-88.07,1
+245,10409,1967,8,1,WI,Town of Auburn,Town of Auburn,Chippewa County,Chippewa County,2.7,1,0,0,45.17,-91.62,1
+246,10410,1967,8,1,WI,,,Richland County,,2.0,1,0,0,43.37,-90.27,1
+247,10411,1967,8,2,WI,,,Dane County,Dane County,0.1,3,5,2,43.13,-89.45,1
+248,10684,1968,3,27,WI,Town of Arcadia,Town of Pigeon,Trempealeau County,Trempealeau County,5.7,2,1,0,44.3,-91.35,1
+249,10718,1968,4,20,WI,,,Dane County,,0.1,2,0,0,43.1,-89.35,1
+250,10720,1968,4,20,WI,Kekoskee,,Dodge County,,2.0,1,0,0,43.55,-88.53,1
+251,10876,1968,5,18,WI,Town of West Point,,Columbia County,,0.5,1,0,0,43.32,-89.6,1
+252,10897,1968,5,27,WI,Town of Linn,,Walworth County,,1.0,0,0,0,42.57,-88.45,1
+253,11034,1968,6,30,WI,Town of Caswell,,Forest County,,1.0,2,0,0,45.67,-88.7,1
+254,11035,1968,6,30,WI,Town of Beecher,,Marinette County,,0.5,1,0,0,45.58,-87.98,1
+255,11038,1968,6,30,WI,Town of Gordon,Town of Kelly,Douglas County,Bayfield County,39.0,2,2,0,46.25,-91.78,1
+256,11104,1968,7,21,WI,Town of Hartford,,Washington County,,2.0,2,0,0,43.37,-88.3,1
+257,11119,1968,7,30,WI,Town of Balsam Lake,,Polk County,,2.0,1,0,0,45.4,-92.52,1
+258,11145,1968,8,16,WI,,,Outagamie County,,2.0,2,0,0,44.25,-88.25,1
+259,11149,1968,8,16,WI,Town of Maple Grove,,Shawano County,,1.0,2,1,0,44.6,-88.25,1
+260,11156,1968,8,19,WI,Town of Pound,Town of Peshtigo,Marinette County,Marinette County,21.8,4,3,2,45.08,-88.08,1
+261,11157,1968,8,19,WI,Town of Frankfort,,Marathon County,Marathon County,14.3,2,5,0,44.87,-90.12,1
+262,11158,1968,8,19,WI,Town of Green Lake,Town of Empire,Green Lake County,Fond du Lac County,28.7,2,2,0,43.75,-88.97,1
+263,11176,1968,8,5,WI,Town of Seymour,Town of Seymour,Outagamie County,Outagamie County,1.9,1,0,0,44.55,-88.37,1
+264,11184,1968,8,6,WI,Town of Freeman,Town of Freeman,Crawford County,Crawford County,5.2,0,0,0,43.35,-91.17,1
+265,11185,1968,8,6,WI,Town of Sterling,Town of Kickapoo,Vernon County,Vernon County,14.9,0,0,0,43.43,-90.97,1
+266,11186,1968,8,6,WI,Town of Whitestown,,Vernon County,,0.5,0,0,0,43.67,-90.63,1
+267,11187,1968,8,6,WI,Town of Ridgeville,,Monroe County,,0.5,0,0,0,43.83,-90.62,1
+268,11453,1969,5,28,WI,Town of Lake,,Price County,,2.0,1,0,0,45.97,-90.52,1
+270,11460,1969,5,31,WI,,,Dane County,,1.0,0,0,0,43.07,-89.23,1
+271,11461,1969,5,31,WI,Town of Hartford,Town of Hartford,Washington County,Washington County,1.9,1,0,0,43.3,-88.4,1
+272,11528,1969,6,12,WI,Town of Sylvester,,Green County,,0.3,2,0,0,42.62,-89.58,1
+273,11595,1969,6,26,WI,Town of Fennimore,,Grant County,,2.0,2,2,0,42.97,-90.58,1
+274,11596,1969,6,26,WI,Town of Delton,Town of Fairfield,Sauk County,Sauk County,0.1,1,0,0,43.53,-89.77,1
+275,11597,1969,6,26,WI,Town of Sumpter,,Sauk County,,1.0,1,0,0,43.37,-89.75,1
+276,11598,1969,6,26,WI,Town of Black Creek,Town of Pittsfield,Outagamie County,Brown County,15.3,3,1,0,44.5,-88.4,1
+277,11603,1969,6,26,WI,,Town of Holway,Jackson County,Taylor County,47.5,2,2,0,44.43,-91.13,1
+278,11604,1969,6,26,WI,Town of Fifield,Town of Presque Isle,Price County,Vilas County,33.2,1,1,0,45.88,-90.28,1
+279,11605,1969,6,26,WI,Town of Lac du Flambeau,Watersmeet Township,Vilas County,Gogebic County,28.9,2,0,0,45.95,-89.87,1
+280,11606,1969,6,26,WI,,,Rock County,,0.5,1,0,0,42.7,-89.0,1
+281,11618,1969,6,29,WI,Town of Potosi,,Grant County,,1.0,1,0,0,42.77,-90.7,1
+282,11621,1969,6,29,WI,Town of Shullsburg,Town of Wiota,Lafayette County,Lafayette County,10.4,2,0,0,42.6,-90.23,1
+283,11625,1969,6,29,WI,Town of Waterford,,Racine County,Milwaukee County,13.1,2,0,0,42.83,-88.2,1
+284,11628,1969,6,29,WI,Town of Moscow,Town of Perry,Iowa County,Dane County,3.8,2,0,0,42.9,-89.87,1
+285,11637,1969,6,4,WI,Town of Cassville,Town of Cassville,Grant County,Grant County,4.1,2,0,0,42.77,-91.0,1
+286,11638,1969,6,4,WI,,Town of Willow Springs,Grant County,Lafayette County,24.4,2,0,0,42.83,-90.57,1
+287,11642,1969,6,4,WI,,Town of Deerfield,Dane County,Dane County,4.9,2,0,0,43.07,-89.17,1
+288,11644,1969,6,5,WI,Town of Long Lake,Town of Cedar Lake,Washburn County,Barron County,8.3,1,0,0,45.7,-91.75,1
+289,11678,1969,7,15,WI,Town of Turtle Lake,Town of Clinton,Barron County,Barron County,6.1,1,4,0,45.38,-92.12,1
+290,11687,1969,7,15,WI,Town of Clifton,,Pierce County,,1.0,0,0,0,44.83,-92.75,1
+292,11728,1969,7,2,WI,Town of Union,Town of Lebanon,Waupaca County,Waupaca County,4.3,0,0,0,44.5,-88.9,1
+293,11729,1969,7,2,WI,Town of Luxemburg,Town of West Kewaunee,Kewaunee County,Kewaunee County,6.9,1,0,0,44.57,-87.75,1
+294,11757,1969,8,11,WI,,,Milwaukee County,,0.3,1,153,0,43.0,-88.02,1
+295,11894,1970,10,9,WI,Town of Janesville,Town of Dunkirk,Rock County,Dane County,14.4,2,1,0,42.72,-89.03,1
+296,11913,1970,12,1,WI,Town of Hull,Town of Hull,Portage County,Portage County,2.7,1,0,0,44.58,-89.58,1
+297,11914,1970,12,1,WI,Town of Auburndale,,Wood County,,2.0,2,0,0,44.52,-90.0,1
+298,11915,1970,12,1,WI,Town of Dale,Town of Center,Outagamie County,Outagamie County,13.1,3,0,0,44.33,-88.65,1
+299,11916,1970,12,1,WI,Town of Iola,Town of Richmond,Waupaca County,Shawano County,31.9,2,0,0,44.53,-89.22,1
+300,11918,1970,12,3,WI,Town of Lebanon,Town of Lebanon,Dodge County,Dodge County,3.0,1,0,0,43.23,-88.57,1
+301,12013,1970,4,22,WI,,,Brown County,Brown County,3.6,2,2,0,44.47,-88.07,1
+302,12014,1970,4,22,WI,,,Brown County,,7.2,2,1,0,44.45,-88.03,1
+303,12015,1970,4,22,WI,Town of Casco,Town of Forestville,Kewaunee County,Door County,11.2,2,2,0,44.58,-87.62,1
+304,12016,1970,4,22,WI,Town of Eaton,Town of Luxemburg,Brown County,Kewaunee County,7.2,1,0,0,44.45,-87.8,1
+305,12017,1970,4,22,WI,,Town of Clay Banks,Kewaunee County,Door County,9.5,2,1,0,44.6,-87.45,1
+306,12061,1970,4,29,WI,Town of Hay River,Town of Dallas,Dunn County,Barron County,9.5,1,0,0,45.07,-91.92,1
+307,12137,1970,5,21,WI,,,,,2.0,0,0,0,44.58,-88.0,1
+308,12176,1970,5,9,WI,Town of West Point,,Columbia County,,1.0,1,1,0,43.3,-89.67,1
+309,12180,1970,5,9,WI,Town of Bloomfield,Town of Bloomfield,Walworth County,Walworth County,4.9,1,0,0,42.52,-88.4,1
+310,12269,1970,6,17,WI,Town of Saratoga,,Wood County,,0.1,0,0,0,44.33,-89.8,1
+311,12331,1970,7,14,WI,Town of Dupont,,Waupaca County,,0.5,1,0,0,44.67,-88.87,1
+312,12332,1970,7,14,WI,Town of Wagner,,Marinette County,,0.5,1,0,0,45.33,-87.77,1
+313,12352,1970,7,18,WI,Town of Rock Elm,,Pierce County,,1.0,0,0,0,44.73,-92.28,1
+314,12364,1970,7,27,WI,,Town of Saukville,Washington County,Ozaukee County,0.1,0,0,0,43.43,-88.05,1
+315,12370,1970,7,30,WI,,,Brown County,,1.0,0,0,0,44.63,-88.12,1
+316,12390,1970,7,7,WI,Town of Pine Grove,,Portage County,,2.0,2,0,0,44.32,-89.52,1
+317,12392,1970,7,7,WI,Town of Summit,Town of Summit,Douglas County,Douglas County,5.1,1,0,0,46.42,-92.28,1
+318,12393,1970,7,7,WI,Town of Oma,,Iron County,Vilas County,37.9,3,0,0,46.25,-89.97,1
+319,12467,1970,9,21,WI,Town of Lincoln,,Eau Claire County,,2.0,2,0,0,44.7,-91.22,1
+320,12508,1970,9,9,WI,Town of Potosi,Town of Belmont,Grant County,Lafayette County,15.7,2,0,0,42.68,-90.67,1
+321,12512,1970,9,9,WI,Town of Jamestown,Town of Smelser,Grant County,Grant County,7.8,1,0,0,42.57,-90.65,1
+323,12546,1971,10,30,WI,Town of Lima,,Grant County,,1.0,1,0,0,42.82,-90.47,1
+324,12559,1971,11,1,WI,,,Rock County,Rock County,3.0,2,1,0,42.52,-89.05,1
+325,12888,1971,5,18,WI,Town of Adams,Town of Hancock,Adams County,Waushara County,15.9,1,5,0,43.97,-89.77,1
+326,12892,1971,5,18,WI,,,Grant County,,2.0,1,0,0,42.8,-90.82,1
+327,12893,1971,5,18,WI,Town of Jamestown,,Grant County,,2.0,1,0,0,42.53,-90.55,1
+328,13034,1971,6,13,WI,Town of Winchester,,Winnebago County,,0.3,1,0,0,44.18,-88.7,1
+329,13055,1971,6,18,WI,,,Dane County,,1.0,1,0,0,42.87,-89.53,1
+330,13056,1971,6,18,WI,Town of Grover,Town of Peshtigo,Marinette County,Marinette County,4.3,1,0,0,45.1,-87.8,1
+331,13058,1971,6,18,WI,Town of Jefferson,,Jefferson County,Jefferson County,4.3,1,1,0,43.02,-88.7,1
+332,13088,1971,6,23,WI,Town of Bashaw,,Washburn County,,1.0,1,0,0,45.77,-91.92,1
+333,13089,1971,6,23,WI,Town of Estella,Town of Arthur,Chippewa County,Chippewa County,4.1,1,0,0,45.12,-91.18,1
+334,13091,1971,6,24,WI,Town of Hawkins,,Rusk County,,0.5,1,0,0,45.52,-90.7,1
+335,13093,1971,6,24,WI,,Town of Wauzeka,Crawford County,Crawford County,4.7,1,4,0,43.05,-91.13,1
+336,13094,1971,6,24,WI,,Town of Scott,Grant County,Crawford County,34.2,1,0,0,42.9,-91.1,1
+337,13095,1971,6,24,WI,Town of Jefferson,,Jefferson County,,2.0,1,0,0,42.97,-88.8,1
+338,13108,1971,6,1,WI,,Town of Cadiz,Lafayette County,Lafayette County,23.6,1,0,0,42.57,-90.35,1
+339,13140,1971,6,4,WI,Town of Kinnickinnic,Town of Hammond,Saint Croix County,Saint Croix County,3.8,1,0,0,44.95,-92.5,1
+340,13174,1971,6,6,WI,Town of Nekimi,Town of Black Wolf,Winnebago County,Winnebago County,3.8,1,0,0,43.95,-88.58,1
+341,13177,1971,6,7,WI,,,Grant County,Grant County,4.3,1,0,0,42.92,-91.1,1
+342,13180,1971,6,7,WI,Town of Waterville,,Pepin County,,1.0,1,0,0,44.62,-92.05,1
+343,13243,1971,7,18,WI,Town of Melrose,,Jackson County,,1.0,2,0,0,44.12,-91.0,1
+344,13245,1971,7,18,WI,Town of Springfield,Town of Seymour,Saint Croix County,Eau Claire County,38.5,2,2,1,45.02,-92.2,1
+345,13258,1971,7,21,WI,Town of Bass Lake,Town of Stone Lake,Washburn County,Washburn County,6.5,1,0,0,45.93,-91.65,1
+346,13265,1971,7,25,WI,Town of Seymour,,Lafayette County,,1.0,1,0,0,42.68,-90.22,1
+347,13315,1971,7,8,WI,Town of Rudolph,,Wood County,,2.0,1,0,0,44.45,-89.83,1
+348,13405,1971,9,28,WI,,,Dunn County,Dunn County,5.2,2,1,0,44.82,-92.02,1
+349,13406,1971,9,28,WI,Town of Edson,,Chippewa County,Marathon County,49.6,3,5,0,44.92,-91.03,1
+350,13407,1971,9,28,WI,,Town of Stephenson,Marathon County,Marinette County,78.4,3,0,0,45.05,-89.6,1
+351,13413,1971,9,4,WI,,,Dane County,,0.5,1,0,0,42.88,-89.08,1
+352,13415,1971,9,9,WI,Town of South Lancaster,,Grant County,,1.0,1,0,0,42.8,-90.7,1
+353,13716,1972,5,14,WI,Town of La Prairie,Town of Harmony,Rock County,Rock County,2.7,1,0,0,42.65,-88.97,1
+354,13796,1972,5,1,WI,Town of South Lancaster,,Grant County,,0.5,0,0,0,42.85,-90.72,1
+355,13842,1972,6,13,WI,Town of Dayton,,Richland County,,2.0,1,0,0,43.32,-90.53,1
+356,13843,1972,6,13,WI,Town of Fairfield,,Sauk County,,2.0,1,0,0,43.5,-89.62,1
+357,13952,1972,7,14,WI,Town of Empire,Town of Taycheedah,Fond du Lac County,Fond du Lac County,1.3,1,0,0,43.78,-88.38,1
+358,13954,1972,7,14,WI,,,Waukesha County,Milwaukee County,34.0,1,0,0,43.03,-88.53,1
+359,13955,1972,7,14,WI,Town of Mukwonago,,Waukesha County,Waukesha County,13.9,1,0,0,42.93,-88.33,1
+360,13956,1972,7,14,WI,,Town of Burlington,Walworth County,Racine County,14.1,1,0,0,42.72,-88.55,1
+361,13960,1972,7,16,WI,Town of Trempealeau,Town of Holland,Trempealeau County,La Crosse County,4.3,1,0,0,44.07,-91.38,1
+362,13974,1972,7,19,WI,Town of Lake Mills,,Jefferson County,,2.0,1,3,0,43.08,-88.88,1
+363,13983,1972,7,20,WI,Town of Green Bay,Town of Red River,Brown County,Kewaunee County,3.6,1,0,0,44.63,-87.77,1
+364,14058,1972,8,11,WI,Town of Forest,Town of Forest,Richland County,Richland County,3.8,1,0,0,43.55,-90.62,1
+365,14070,1972,8,21,WI,Town of Kossuth,,Manitowoc County,,12.1,1,0,0,44.22,-87.75,1
+366,14124,1972,9,16,WI,Town of Freedom,Ingallston Township,Forest County,Menominee County,66.2,2,0,0,45.45,-88.75,1
+367,14125,1972,9,16,WI,Town of Freedom,Town of Wagner,Forest County,Marinette County,53.1,2,0,0,45.45,-88.75,1
+368,14132,1972,9,20,WI,Town of Elk,Town of Worcester,Price County,Price County,13.1,2,0,0,45.67,-90.45,1
+369,14133,1972,9,20,WI,Town of Shullsburg,,Lafayette County,,1.0,1,0,0,42.55,-90.22,1
+370,14134,1972,9,20,WI,Town of Seven Mile Creek,,Juneau County,,2.0,1,0,0,43.77,-90.05,1
+371,14135,1972,9,20,WI,,,Dane County,,0.5,1,0,0,43.27,-89.62,1
+372,14136,1972,9,20,WI,Town of Princeton,Town of Brooklyn,Green Lake County,Green Lake County,3.3,1,0,0,43.85,-89.08,1
+373,14144,1972,9,28,WI,,Town of Benton,Grant County,Lafayette County,0.1,1,0,0,42.53,-90.43,1
+374,14145,1972,9,28,WI,,,Green County,,2.2,1,0,0,42.6,-89.63,1
+375,14146,1972,9,28,WI,Town of East Troy,,Walworth County,,1.5,2,0,0,42.77,-88.42,1
+376,14147,1972,9,28,WI,Town of Norway,,Racine County,,1.0,2,0,0,42.8,-88.15,1
+377,14184,1973,10,9,WI,Town of Georgetown,,Polk County,,1.0,1,0,0,45.48,-92.28,1
+378,14377,1973,3,11,WI,Town of Pleasant Springs,,Dane County,,0.5,1,0,0,42.95,-89.22,1
+379,14378,1973,3,11,WI,Town of Calumet,,Fond du Lac County,,2.0,1,0,0,43.92,-88.27,1
+380,14850,1973,5,9,WI,Town of Rockland,Town of Cato,Manitowoc County,Manitowoc County,2.3,1,0,0,44.12,-87.98,1
+381,14917,1973,6,18,WI,Town of Bern,,Marathon County,,2.0,1,0,0,45.05,-90.1,1
+382,14974,1973,6,26,WI,Town of Muscoda,Town of Arena,Grant County,Iowa County,24.0,1,2,0,43.18,-90.45,1
+383,15010,1973,6,2,WI,,,Trempealeau County,,1.0,1,0,0,44.5,-91.22,1
+384,15035,1973,6,3,WI,Town of Amberg,Town of Beecher,Marinette County,Marinette County,4.5,1,0,0,45.52,-87.98,1
+385,15074,1973,6,8,WI,Town of Worcester,,Price County,,2.0,1,0,0,45.67,-90.38,1
+386,15079,1973,7,12,WI,,Town of Plum Lake,Vilas County,Vilas County,19.5,1,0,0,46.17,-89.83,1
+387,15080,1973,7,12,WI,Town of Jacksonport,Town of Jacksonport,Door County,Door County,0.1,1,0,0,44.98,-87.25,1
+388,15081,1973,7,12,WI,Town of Freedom,,Outagamie County,,1.0,1,0,0,44.38,-88.37,1
+389,15115,1973,7,26,WI,,,Barron County,,0.3,1,0,0,45.53,-92.02,1
+390,15122,1973,7,30,WI,Town of Lyndon,,Sheboygan County,,0.3,1,0,0,43.72,-87.93,1
+391,15187,1973,8,30,WI,,,Waukesha County,,0.5,0,0,0,43.17,-88.5,1
+392,15201,1973,8,8,WI,,Town of Balsam Lake,Polk County,Polk County,8.2,1,0,0,45.37,-92.63,1
+393,15203,1973,8,8,WI,Town of Bloomer,Town of Bloomer,Chippewa County,Chippewa County,3.6,1,0,0,45.12,-91.47,1
+394,15443,1974,4,12,WI,Town of Johnson,Town of Bern,Marathon County,Marathon County,0.1,2,0,0,45.03,-90.17,1
+395,15444,1974,4,12,WI,,Town of Bartelme,Shawano County,Shawano County,10.7,2,1,0,44.83,-89.17,1
+396,15495,1974,4,21,WI,Town of Metomen,Town of Oshkosh,Fond du Lac County,Winnebago County,26.0,4,35,0,43.75,-88.83,1
+397,15496,1974,4,21,WI,Town of Chester,Town of Eden,Dodge County,Fond du Lac County,22.2,3,0,0,43.55,-88.75,1
+398,15499,1974,4,21,WI,Town of Stephenson,Town of Middle Inlet,Marinette County,Marinette County,2.7,2,0,0,45.28,-88.07,1
+399,15500,1974,4,21,WI,Town of Burnett,Town of Centerville,Dodge County,Manitowoc County,58.6,3,18,2,43.5,-88.75,1
+400,15810,1974,5,21,WI,,,Dane County,Dane County,2.3,1,0,0,43.05,-89.32,1
+401,15887,1974,6,14,WI,Town of New Lyme,Town of Lafayette,Monroe County,Monroe County,9.0,1,0,0,44.13,-90.78,1
+402,15888,1974,6,14,WI,Town of Gillett,,Oconto County,,0.2,1,0,0,44.88,-88.32,1
+403,15925,1974,6,20,WI,Town of Lake Mills,,Jefferson County,,0.5,1,0,0,43.1,-88.93,1
+404,16055,1974,6,9,WI,Town of Leola,,Adams County,,1.0,1,0,0,44.17,-89.6,1
+405,16056,1974,6,9,WI,Town of Pine Grove,,Portage County,,2.5,1,0,0,44.32,-89.52,1
+406,16058,1974,6,9,WI,Town of Seymour,Town of Sigel,Eau Claire County,Chippewa County,3.3,1,0,0,44.85,-91.23,1
+407,16060,1974,6,9,WI,Town of Somers,,Racine County,,2.0,1,0,0,42.65,-87.9,1
+408,16199,1974,8,30,WI,Town of Wells,,Monroe County,,0.3,0,0,0,43.88,-90.82,1
+409,16529,1975,4,17,WI,Town of Leola,,Adams County,,0.1,0,0,0,44.2,-89.63,1
+410,16977,1975,6,4,WI,Town of Fulton,,Rock County,,0.2,1,0,0,42.78,-89.12,1
+411,16978,1975,6,4,WI,Town of Bristol,Town of Bristol,Dane County,Dane County,2.3,3,0,0,43.23,-89.23,1
+412,17112,1975,8,24,WI,Town of Sampson,Town of True,Chippewa County,Rusk County,34.2,2,6,0,45.27,-91.45,1
+413,17114,1975,8,24,WI,Town of Douglas,,Marquette County,,1.0,1,0,0,43.65,-89.55,1
+414,17115,1975,8,25,WI,,,Milwaukee County,,0.1,1,0,0,43.03,-87.93,1
+415,17116,1975,8,25,WI,,,Milwaukee County,,0.2,2,0,0,42.98,-87.95,1
+416,17123,1975,8,28,WI,Town of Dovre,,Barron County,,1.5,1,0,0,45.3,-91.65,1
+417,17440,1976,4,15,WI,Town of Otsego,Town of Burnett,Columbia County,Dodge County,25.2,1,0,0,43.42,-89.22,1
+418,17739,1976,6,12,WI,,,Eau Claire County,,1.0,2,0,0,44.83,-91.48,1
+419,17745,1976,6,12,WI,,,Portage County,,0.2,2,0,0,44.45,-89.28,1
+420,17746,1976,6,12,WI,Town of Alban,,Portage County,,0.3,1,0,0,44.68,-89.25,1
+421,17757,1976,6,13,WI,Town of Seneca,Town of Hull,Wood County,Portage County,24.6,1,2,0,44.38,-89.93,1
+422,17758,1976,6,13,WI,,,Portage County,,0.3,2,0,0,44.45,-89.52,1
+423,17759,1976,6,13,WI,Town of Harrison,Town of Antigo,Marathon County,Langlade County,21.3,1,0,0,45.03,-89.33,1
+424,17760,1976,6,13,WI,Town of Oneida,,Outagamie County,,0.5,1,0,0,44.48,-88.3,1
+425,17761,1976,6,13,WI,Town of Gillett,,Oconto County,,0.2,1,0,0,44.88,-88.25,1
+426,17762,1976,6,13,WI,,Town of Peck,Lincoln County,Langlade County,10.8,1,0,0,45.17,-89.5,1
+427,17767,1976,6,15,WI,Town of Edson,,Chippewa County,,0.3,1,0,0,44.93,-91.02,1
+428,17918,1976,7,30,WI,,,Dane County,,0.1,2,0,0,43.23,-89.45,1
+429,18237,1977,4,2,WI,,,Waukesha County,Milwaukee County,9.3,2,2,0,43.07,-88.22,1
+430,18429,1977,5,31,WI,Town of Oak Grove,,Dodge County,,2.0,1,0,0,43.37,-88.7,1
+431,18430,1977,5,31,WI,Town of Moundville,,Marquette County,,0.1,1,0,0,43.65,-89.45,1
+432,18619,1977,6,5,WI,Town of Elba,Town of Clyman,Dodge County,Dodge County,8.2,1,0,0,43.33,-88.93,1
+433,18622,1977,6,5,WI,Town of Rosendale,,Fond du Lac County,Waukesha County,69.5,3,8,0,43.82,-88.73,1
+434,18702,1977,7,30,WI,Town of Clear Lake,Town of Turtle Lake,Saint Croix County,Barron County,9.1,3,0,0,45.17,-92.22,1
+435,18703,1977,7,30,WI,Town of Woodmohr,Town of Birch Creek,Chippewa County,Chippewa County,19.0,4,20,0,45.1,-91.53,1
+436,18704,1977,7,30,WI,Town of Prairie Lake,Town of Stanley,Barron County,Barron County,6.6,1,0,0,45.37,-91.75,1
+437,18705,1977,7,30,WI,Town of Cleveland,Town of Hawkins,Chippewa County,Rusk County,34.5,2,8,1,45.18,-91.22,1
+438,18706,1977,7,30,WI,Town of Brillion,Town of Glenmore,Calumet County,Brown County,11.8,1,0,0,44.23,-88.1,1
+439,18744,1977,8,13,WI,Town of Oak Grove,,Dodge County,,0.1,0,0,0,43.4,-88.7,1
+440,18780,1977,8,31,WI,Town of Eau Pleine,,Marathon County,Marathon County,31.8,4,10,0,44.78,-90.1,1
+441,18789,1977,8,4,WI,,,Milwaukee County,,0.1,0,0,0,43.03,-87.98,1
+442,18813,1977,8,6,WI,Town of Seymour,,Eau Claire County,,0.1,1,1,0,44.85,-91.42,1
+443,18886,1977,9,9,WI,Town of Oakland,,Douglas County,,0.1,0,0,0,46.53,-91.92,1
+444,19062,1978,4,5,WI,Town of Beloit,,Rock County,,0.7,1,0,0,42.5,-89.07,1
+445,19297,1978,5,8,WI,Town of Luxemburg,,Kewaunee County,,0.1,0,0,0,44.55,-87.73,1
+446,19298,1978,5,8,WI,Town of Luxemburg,,Kewaunee County,,0.1,0,0,0,44.52,-87.67,1
+447,19336,1978,6,17,WI,Town of Beaver Dam,Town of Theresa,Dodge County,Dodge County,16.5,2,0,0,43.5,-88.77,1
+448,19357,1978,6,20,WI,,Town of Waterford,Walworth County,Racine County,20.3,1,0,0,42.63,-88.63,1
+449,19435,1978,6,7,WI,Town of Kossuth,,Manitowoc County,,0.1,0,0,0,44.23,-87.75,1
+450,19494,1978,7,20,WI,Town of Albany,,Green County,,0.5,0,0,0,42.7,-89.43,1
+451,19542,1978,7,1,WI,,,Vernon County,,0.1,1,0,0,43.55,-90.88,1
+452,19543,1978,7,1,WI,Town of Franklin,,Vernon County,,0.1,1,0,0,43.53,-90.87,1
+453,19544,1978,7,1,WI,Town of Viroqua,,Vernon County,,0.1,1,0,0,43.57,-90.9,1
+454,19582,1978,7,5,WI,,Town of Arcadia,Buffalo County,Trempealeau County,11.1,1,2,0,44.32,-91.58,1
+455,19612,1978,8,15,WI,Town of Delavan,,Walworth County,,0.1,0,0,0,42.63,-88.58,1
+456,19727,1979,10,3,WI,Town of Ellsworth,,Pierce County,,2.5,2,0,0,44.72,-92.45,1
+457,19966,1979,5,10,WI,,,Monroe County,,0.1,2,0,0,43.98,-90.5,1
+458,19974,1979,5,18,WI,Town of New Haven,,Adams County,,0.1,1,0,0,43.67,-89.63,1
+459,20082,1979,6,16,WI,Town of Gillett,Town of Lena,Oconto County,Oconto County,15.2,2,0,0,44.88,-88.3,1
+460,20083,1979,6,16,WI,,Town of Bridge Creek,Trempealeau County,Eau Claire County,17.6,1,0,0,44.58,-91.47,1
+461,20084,1979,6,16,WI,Town of Birch,,Lincoln County,,0.1,1,0,0,45.38,-89.62,1
+462,20085,1979,6,16,WI,Town of Birch,,Lincoln County,,0.1,1,0,0,45.35,-89.58,1
+463,20115,1979,6,19,WI,Town of Hallie,,Chippewa County,,0.1,1,0,0,44.93,-91.38,1
+464,20120,1979,6,20,WI,Town of Omro,,Winnebago County,,0.1,1,2,0,44.02,-88.65,1
+465,20121,1979,6,20,WI,Town of Goodman,,Marinette County,,0.1,1,1,0,45.63,-88.35,1
+466,20122,1979,6,20,WI,,,Racine County,,0.1,1,1,0,42.7,-87.9,1
+467,20226,1979,6,9,WI,,,Green County,,2.5,2,5,0,42.6,-89.63,1
+468,20329,1979,7,3,WI,,,Crawford County,,0.1,0,3,0,43.35,-91.1,1
+469,20330,1979,7,3,WI,,,Crawford County,,0.1,0,0,0,43.27,-90.97,1
+470,20436,1979,8,29,WI,Town of Orange,,Juneau County,,0.1,1,1,0,43.92,-90.23,1
+471,20454,1979,8,4,WI,Town of Manitowoc Rapids,,Manitowoc County,,0.1,1,0,0,44.08,-87.75,1
+472,20468,1979,8,9,WI,Town of Lewiston,,Columbia County,,0.1,0,0,0,43.63,-89.65,1
+473,20469,1979,8,9,WI,Town of Douglas,,Marquette County,,0.1,0,0,0,43.65,-89.58,1
+474,20470,1979,8,9,WI,Town of Harris,,Marquette County,,0.1,0,0,0,43.88,-89.48,1
+475,20471,1979,8,9,WI,,,Monroe County,,0.1,0,0,0,43.83,-90.4,1
+476,20472,1979,8,9,WI,Town of Hillsboro,Town of Woodland,Vernon County,Sauk County,2.7,2,0,0,43.65,-90.37,1
+477,20473,1979,8,9,WI,,,Calumet County,,0.1,2,0,1,44.07,-88.3,1
+478,20474,1979,8,9,WI,,,Brown County,,0.1,1,0,0,44.53,-87.98,1
+479,20475,1979,8,9,WI,Town of Chester,,Dodge County,,0.1,0,0,0,43.63,-88.7,1
+480,20476,1979,8,9,WI,Town of Chester,,Dodge County,,0.1,0,0,0,43.63,-88.68,1
+481,20477,1979,8,9,WI,Town of Beaver Dam,,Dodge County,,0.1,0,0,0,43.5,-88.83,1
+482,20478,1979,8,9,WI,Town of Clyman,,Dodge County,,0.1,0,0,0,43.32,-88.72,1
+483,20479,1979,8,9,WI,,,Dodge County,,0.1,0,0,0,43.35,-88.6,1
+484,20480,1979,8,9,WI,Town of Watertown,,Jefferson County,,0.1,1,0,0,43.17,-88.68,1
+485,20553,1979,9,8,WI,Town of Hawthorne,,Douglas County,,0.1,1,0,0,46.53,-91.83,1
+486,20736,1980,4,7,WI,Town of Preston,,Trempealeau County,,0.5,0,0,0,44.3,-91.25,1
+487,20737,1980,4,7,WI,Town of Westford,,Dodge County,,1.2,3,4,0,43.48,-88.97,1
+488,20738,1980,4,7,WI,Town of Westford,Town of Burnett,Dodge County,Dodge County,11.5,2,16,0,43.47,-88.95,1
+489,20739,1980,4,7,WI,Town of Lowell,Town of Burnett,Dodge County,Dodge County,10.2,2,0,0,43.35,-88.78,1
+490,20740,1980,4,7,WI,Town of Theresa,Town of Barton,Dodge County,Washington County,6.1,2,2,0,43.43,-88.45,1
+491,20965,1980,5,30,WI,Town of Richmond,,Shawano County,,2.0,1,0,0,44.77,-88.68,1
+492,20966,1980,5,30,WI,Town of Oconto,,Oconto County,,1.0,1,0,0,44.88,-87.88,1
+493,20967,1980,5,30,WI,Town of Black Creek,Town of Black Creek,Outagamie County,Outagamie County,2.7,1,0,0,44.47,-88.48,1
+494,21001,1980,5,9,WI,Town of Garfield,,Polk County,,0.1,0,0,0,45.28,-92.42,1
+495,21016,1980,6,14,WI,Town of Union,Town of Union,Waupaca County,Waupaca County,5.1,1,0,0,44.52,-88.98,1
+496,21017,1980,6,14,WI,Town of Pine Lake,,Oneida County,,1.5,1,3,0,45.67,-89.38,1
+497,21018,1980,6,14,WI,Town of Pine Lake,,Oneida County,,0.1,0,0,0,45.72,-89.4,1
+498,21172,1980,6,5,WI,Town of Greenfield,,La Crosse County,Clayton County,70.2,2,0,0,43.75,-91.07,1
+499,21173,1980,6,5,WI,Town of Bergen,Town of Kickapoo,Vernon County,Vernon County,26.9,3,1,0,43.67,-91.22,1
+500,21178,1980,6,5,WI,Town of Metomen,Town of Waupun,Fond du Lac County,Fond du Lac County,8.7,1,0,0,43.78,-88.77,1
+501,21179,1980,6,5,WI,,Town of Ixonia,Jefferson County,Jefferson County,6.2,2,0,0,43.2,-88.7,1
+502,21180,1980,6,5,WI,Town of Washington,,Green County,,0.1,1,0,0,42.75,-89.6,1
+503,21181,1980,6,5,WI,Town of Watertown,,Jefferson County,Waukesha County,10.7,3,0,0,43.13,-88.77,1
+504,21182,1980,6,6,WI,,,Walworth County,,0.3,2,0,0,42.82,-88.57,1
+505,21183,1980,6,6,WI,Town of Norway,,Racine County,,0.3,1,0,0,42.83,-88.17,1
+506,21195,1980,6,7,WI,Town of Cato,,Manitowoc County,,0.2,2,0,0,44.07,-87.88,1
+507,21240,1980,7,15,WI,,,Eau Claire County,,1.0,3,10,1,44.83,-91.52,1
+508,21241,1980,7,15,WI,Town of Lincoln,,Eau Claire County,,0.3,1,0,0,44.77,-91.27,1
+509,21242,1980,7,15,WI,,,Chippewa County,,0.2,2,5,1,44.87,-91.48,1
+510,21243,1980,7,15,WI,Town of Glenwood,Town of Tiffany,Saint Croix County,Dunn County,0.1,2,12,1,45.08,-92.17,1
+511,21244,1980,7,15,WI,,,Chippewa County,,0.1,1,0,0,44.92,-91.43,1
+512,21245,1980,7,15,WI,Town of Wheaton,,Chippewa County,,0.1,0,0,0,44.92,-91.45,1
+513,21246,1980,7,15,WI,Town of Otter Creek,Town of Bridge Creek,Eau Claire County,Eau Claire County,2.7,2,0,0,44.62,-91.18,1
+514,21247,1980,7,15,WI,Town of Lafayette,,Chippewa County,,0.1,0,0,0,44.92,-91.25,1
+515,21248,1980,7,15,WI,Town of Worden,,Clark County,,0.1,1,0,0,44.93,-90.87,1
+516,21249,1980,7,15,WI,Town of Pleasant Valley,,Eau Claire County,,0.1,1,0,0,44.7,-91.48,1
+517,21257,1980,7,19,WI,Town of Shanagolden,,Ashland County,,2.0,1,0,0,46.12,-90.63,1
+518,21261,1980,7,19,WI,Town of Adams,,Adams County,,2.0,2,0,0,43.92,-89.87,1
+519,21277,1980,7,29,WI,,,Columbia County,,0.1,1,0,0,43.53,-89.32,1
+520,21278,1980,7,29,WI,Town of Lowville,,Columbia County,,0.1,1,0,0,43.43,-89.25,1
+521,21279,1980,7,29,WI,,,Waukesha County,,0.1,1,0,0,42.87,-88.25,1
+522,21293,1980,7,5,WI,Town of Cato,,Manitowoc County,,0.1,1,0,0,44.07,-87.88,1
+523,21348,1980,8,19,WI,Town of Clifton,,Grant County,,0.8,1,0,0,42.9,-90.52,1
+524,21371,1980,8,4,WI,,,Milwaukee County,,0.1,2,0,0,43.17,-88.02,1
+525,21372,1980,8,4,WI,,,Fond du Lac County,,0.4,1,0,0,43.77,-88.45,1
+526,21381,1980,8,7,WI,Town of Shields,Town of Lebanon,Dodge County,Dodge County,6.6,1,0,0,43.22,-88.78,1
+527,21403,1980,9,20,WI,Town of Hutchins,,Shawano County,,0.5,1,0,0,45.0,-89.03,1
+528,21419,1980,9,3,WI,Town of Amnicon,Town of Cloverland,Douglas County,Douglas County,9.9,2,0,0,46.58,-91.88,1
+529,21611,1981,4,3,WI,Town of Theresa,,Dodge County,,0.1,1,0,0,43.45,-88.45,1
+530,21612,1981,4,4,WI,,,Washington County,,1.8,4,53,3,43.43,-88.2,1
+531,21615,1981,4,4,WI,Town of New Holstein,,Calumet County,,0.1,2,6,0,43.92,-88.08,1
+532,21829,1981,6,13,WI,Town of Minoqua,,Oneida County,,0.1,1,0,0,45.82,-89.72,1
+533,21830,1981,6,13,WI,Town of Minoqua,,Oneida County,,0.1,1,0,0,45.82,-89.72,1
+534,21831,1981,6,13,WI,Town of Plum Lake,Town of Plum Lake,Vilas County,Vilas County,0.1,1,0,0,46.02,-89.53,1
+535,21832,1981,6,13,WI,Town of Three Lakes,Town of Three Lakes,Oneida County,Oneida County,0.1,2,0,0,45.8,-89.17,1
+536,21839,1981,6,14,WI,Town of Gilman,,Pierce County,,0.5,2,0,0,44.85,-92.25,1
+537,21848,1981,6,15,WI,,,Dane County,,1.0,2,0,0,43.08,-89.22,1
+538,21849,1981,6,15,WI,Town of Decatur,,Green County,,0.1,0,0,0,42.62,-89.45,1
+539,21850,1981,6,15,WI,Town of Chester,,Dodge County,,0.1,1,0,0,43.57,-88.73,1
+540,21851,1981,6,15,WI,,,Jefferson County,Waukesha County,28.7,2,3,0,42.88,-88.93,1
+541,21927,1981,6,23,WI,,,La Crosse County,,2.0,1,0,0,43.9,-91.08,1
+542,22033,1981,7,14,WI,Town of Woodmohr,,Chippewa County,,0.1,1,0,0,45.05,-91.42,1
+543,22049,1981,7,20,WI,Town of Clayton,,Winnebago County,,0.1,1,0,0,44.17,-88.62,1
+544,22050,1981,7,20,WI,Town of Hubbard,,Dodge County,,0.1,0,0,0,43.45,-88.6,1
+545,22052,1981,7,20,WI,,,Milwaukee County,,0.9,1,0,0,42.87,-87.87,1
+546,22073,1981,7,24,WI,Town of Hammond,,Saint Croix County,,0.3,0,0,0,44.97,-92.38,1
+547,22149,1981,8,29,WI,Town of Lima,,Sheboygan County,,0.1,0,0,0,43.67,-87.83,1
+548,22173,1981,8,3,WI,Town of Balsam Lake,,Polk County,,0.1,0,0,0,45.38,-92.53,1
+549,22174,1981,8,3,WI,Town of Osceola,,Polk County,,0.1,0,0,0,45.35,-92.52,1
+550,22422,1982,3,30,WI,Town of Armenia,Town of Linwood,Juneau County,Portage County,28.0,1,2,0,44.2,-90.0,1
+551,22693,1982,5,15,WI,,,Waukesha County,,2.0,1,0,0,43.07,-88.15,1
+553,22736,1982,5,17,WI,Town of Holland,Town of Gale,La Crosse County,Trempealeau County,12.0,1,0,0,43.98,-91.42,1
+554,22739,1982,5,17,WI,,,Columbia County,,0.1,0,0,0,43.55,-89.1,1
+555,22901,1982,5,6,WI,Town of Ellington,Town of Black Creek,Outagamie County,Outagamie County,9.0,2,0,0,44.37,-88.58,1
+556,23125,1982,7,14,WI,Town of Elba,,Dodge County,,0.1,1,0,0,43.27,-88.97,1
+557,23129,1982,7,15,WI,Town of Plover,,Marathon County,,0.7,1,0,0,44.92,-89.32,1
+558,23155,1982,7,25,WI,,,Jackson County,,2.0,1,0,0,44.22,-90.95,1
+559,23252,1982,9,12,WI,Town of Washington,Town of Flambeau,Rusk County,Rusk County,12.0,2,0,0,45.37,-91.2,1
+560,23254,1982,9,12,WI,Town of Washington,Town of Seymour,Eau Claire County,Eau Claire County,5.0,2,0,0,44.77,-91.5,1
+561,23258,1982,9,12,WI,,,Dunn County,,0.5,1,0,0,44.88,-91.92,1
+562,23260,1982,9,12,WI,Town of Dunn,,Dunn County,,0.5,2,0,0,44.77,-91.93,1
+563,23261,1982,9,12,WI,Town of Wheaton,Town of Tilden,Chippewa County,Chippewa County,10.0,1,0,0,44.9,-91.63,1
+564,23262,1982,9,12,WI,,Town of Seymour,Eau Claire County,Eau Claire County,5.0,2,0,0,44.8,-91.55,1
+565,23263,1982,9,12,WI,Town of Estella,,Chippewa County,,0.5,1,0,0,45.17,-91.13,1
+566,23902,1983,6,15,WI,,,Fond du Lac County,,0.1,0,0,0,43.6,-88.28,1
+567,23970,1983,6,30,WI,Town of Ashland,,Ashland County,,0.1,0,0,0,46.4,-90.78,1
+568,23973,1983,6,30,WI,,,Pepin County,,0.1,0,0,0,44.43,-92.15,1
+569,23974,1983,6,30,WI,,,Grant County,,0.1,0,0,0,42.83,-90.92,1
+570,24047,1983,7,19,WI,Town of Reseburg,,Clark County,,1.0,2,0,0,44.85,-90.8,1
+571,24048,1983,7,19,WI,,,Calumet County,,2.0,1,0,0,44.07,-88.3,1
+572,24049,1983,7,19,WI,Town of Ashippun,,Dodge County,,0.1,0,0,0,43.22,-88.52,1
+573,24089,1983,7,3,WI,,,Vilas County,,0.5,1,0,0,45.93,-89.27,1
+574,24091,1983,7,3,WI,Town of Barnes,Town of Iron River,Bayfield County,Bayfield County,3.0,1,2,0,46.38,-91.52,1
+575,24092,1983,7,3,WI,Town of Iron River,,Bayfield County,,0.3,0,0,0,46.57,-91.37,1
+576,24093,1983,7,3,WI,,,Ashland County,,0.3,0,0,0,46.58,-90.88,1
+577,24094,1983,7,3,WI,Town of Otter Creek,Town of Bridge Creek,Eau Claire County,Eau Claire County,8.0,2,0,0,44.63,-91.25,1
+578,24095,1983,7,3,WI,,,Eau Claire County,,0.5,2,0,0,44.82,-91.48,1
+579,24097,1983,7,3,WI,Town of Beaver,Town of Frankfort,Clark County,Marathon County,12.0,2,0,0,44.85,-90.45,1
+580,24100,1983,7,3,WI,Town of Cross,,Buffalo County,,0.3,0,0,0,44.25,-91.58,1
+581,24101,1983,7,3,WI,Town of Marion,Town of Adams,Juneau County,Adams County,6.0,1,0,0,43.83,-89.97,1
+582,24102,1983,7,3,WI,Town of Cutler,,Juneau County,,1.0,3,8,0,44.08,-90.23,1
+583,24103,1983,7,3,WI,Town of Lindina,,Juneau County,,0.3,0,0,0,43.8,-90.12,1
+584,24104,1983,7,3,WI,Town of Springville,,Adams County,,0.3,0,0,0,43.78,-89.78,1
+585,24105,1983,7,3,WI,,,Shawano County,,0.5,1,0,0,44.93,-89.2,1
+586,24106,1983,7,3,WI,Town of New Haven,,Adams County,,0.5,0,0,0,43.67,-89.63,1
+587,24107,1983,7,3,WI,Town of Sherry,,Wood County,,0.3,0,0,0,44.52,-89.95,1
+588,24108,1983,7,3,WI,,,Iowa County,,0.5,4,0,0,42.97,-90.13,1
+589,24109,1983,7,3,WI,Town of Kildare,,Juneau County,,0.3,0,0,0,43.72,-89.9,1
+590,24110,1983,7,3,WI,,,Marquette County,,0.3,0,0,0,43.78,-89.57,1
+591,24111,1983,7,3,WI,,,Marquette County,,0.3,0,0,0,43.78,-89.57,1
+592,24112,1983,7,3,WI,,,Marquette County,,0.3,1,0,0,43.78,-89.57,1
+593,24113,1983,7,3,WI,,,Rock County,,0.3,1,0,0,42.52,-89.03,1
+594,24114,1983,7,3,WI,Town of Norway,,Racine County,,0.3,1,0,0,42.8,-88.02,1
+595,24134,1983,8,16,WI,Town of Fremont,,Clark County,,0.1,0,0,0,44.65,-90.57,1
+596,24165,1983,8,21,WI,Town of Trenton,,Dodge County,,0.1,0,0,0,43.57,-88.83,1
+597,24239,1984,10,16,WI,Town of Summit,Town of Necedah,Juneau County,Juneau County,17.0,2,3,0,43.77,-90.08,1
+598,24240,1984,10,16,WI,Town of Metomen,,Fond du Lac County,,0.5,1,0,0,43.72,-88.8,1
+599,24481,1984,4,26,WI,Town of Bone Lake,,Polk County,,0.5,1,0,0,45.57,-92.37,1
+600,24496,1984,4,27,WI,Town of Saratoga,,Wood County,,1.0,0,0,0,44.3,-89.77,1
+601,24497,1984,4,27,WI,Town of Eileen,,Bayfield County,,0.3,0,0,0,46.5,-91.02,1
+602,24498,1984,4,27,WI,Town of New Haven,,Adams County,,2.0,1,0,0,43.73,-89.63,1
+603,24499,1984,4,27,WI,Town of Buena Vista,Town of Buena Vista,Portage County,Portage County,5.5,2,0,0,44.37,-89.53,1
+604,24500,1984,4,27,WI,Town of Little Rice,Town of Plum Lake,Oneida County,Vilas County,29.0,3,8,1,45.67,-89.82,1
+605,24502,1984,4,27,WI,Town of Ackley,Town of Neva,Langlade County,Langlade County,7.5,2,1,0,45.2,-89.22,1
+606,24503,1984,4,27,WI,Town of Union,Town of Menominee,Waupaca County,Menominee County,32.0,3,0,0,44.53,-88.92,1
+607,24504,1984,4,27,WI,Town of Poygan,Town of Oneida,Winnebago County,Outagamie County,27.5,4,19,1,44.08,-88.75,1
+608,24505,1984,4,27,WI,Town of Genesee,,Waukesha County,Waukesha County,6.5,4,14,1,42.98,-88.37,1
+609,24507,1984,4,27,WI,,,Washington County,,0.4,0,0,0,43.27,-88.17,1
+610,24848,1984,6,17,WI,,,Buffalo County,,1.0,0,0,0,44.32,-91.92,1
+611,24875,1984,6,22,WI,Town of York,,Green County,,1.0,0,0,0,42.78,-89.82,1
+612,24901,1984,6,26,WI,,Town of Hewitt,Marathon County,Marathon County,8.0,1,0,0,45.1,-89.63,1
+613,24903,1984,6,26,WI,Town of Grant,Town of Pella,Shawano County,Shawano County,4.0,1,0,0,44.72,-88.88,1
+614,24904,1984,6,26,WI,Town of Washington,,Sauk County,Sauk County,20.0,0,0,0,43.47,-90.08,1
+615,24982,1984,6,7,WI,,Town of Withee,Chippewa County,Clark County,12.0,2,0,0,44.97,-90.93,1
+616,24986,1984,6,7,WI,Town of Worcester,,Price County,,1.0,1,0,0,45.67,-90.37,1
+617,24987,1984,6,7,WI,Town of Belmont,Town of Mineral Point,Lafayette County,Iowa County,11.0,2,0,0,42.73,-90.33,1
+618,24988,1984,6,7,WI,Town of Ridgeway,,Iowa County,Dane County,36.0,5,200,9,42.97,-89.98,1
+619,24989,1984,6,8,WI,,Town of Courtland,Dane County,Columbia County,18.0,2,0,0,43.25,-89.33,1
+620,24990,1984,6,8,WI,,,Columbia County,Columbia County,16.0,2,0,0,43.33,-89.37,1
+621,24991,1984,6,8,WI,,Town of Mackford,Columbia County,Green Lake County,29.0,3,1,0,43.45,-89.23,1
+622,24992,1984,6,8,WI,Town of Hampden,Town of Fountain Prairie,Columbia County,Columbia County,9.0,1,0,0,43.3,-89.15,1
+623,24993,1984,6,8,WI,Town of Calamus,Town of Burnett,Dodge County,Dodge County,11.0,2,1,0,43.43,-88.93,1
+624,25008,1984,6,9,WI,Town of Albany,,Green County,,0.2,0,0,0,42.7,-89.43,1
+625,25012,1984,7,10,WI,Town of Germantown,Town of Strongs Prairie,Juneau County,Adams County,4.0,2,0,0,43.97,-89.97,1
+626,25013,1984,7,10,WI,Town of Wayne,,Lafayette County,,0.1,0,0,0,42.6,-89.88,1
+627,25024,1984,7,14,WI,Town of Peshtigo,,Marinette County,,0.1,0,0,0,45.03,-87.73,1
+628,25041,1984,7,23,WI,Town of Westford,,Dodge County,,2.5,1,0,0,43.55,-88.93,1
+629,25112,1984,8,7,WI,,,Saint Croix County,,0.1,0,0,0,44.95,-92.38,1
+630,25137,1984,9,24,WI,Town of Cassel,Town of Stettin,Marathon County,Marathon County,12.0,2,0,0,44.88,-89.93,1
+631,25408,1985,5,11,WI,Town of Mackford,,Green Lake County,,2.0,1,1,0,43.72,-88.98,1
+632,25409,1985,5,11,WI,Town of Ripon,,Fond du Lac County,,0.1,1,0,0,43.87,-88.78,1
+633,25465,1985,5,26,WI,Town of Dover,,Racine County,,0.3,0,0,0,42.75,-88.2,1
+635,25504,1985,5,30,WI,Town of Clifton,Town of Dodgeville,Grant County,Iowa County,16.0,2,0,0,42.92,-90.45,1
+636,25505,1985,5,30,WI,Town of Brigham,,Iowa County,Dane County,21.0,2,0,0,42.92,-89.82,1
+637,25506,1985,5,30,WI,Town of Sioux Creek,Town of Sampson,Barron County,Chippewa County,11.0,1,0,0,45.27,-91.7,1
+638,25583,1985,6,16,WI,Town of Brooklyn,Town of Brooklyn,Washburn County,Washburn County,5.0,1,0,0,46.03,-91.9,1
+639,25641,1985,6,8,WI,Town of Lake,Town of Monico,Price County,Oneida County,68.0,3,42,2,45.93,-90.47,1
+640,25642,1985,6,8,WI,Town of Nasewaupee,,Door County,Door County,5.0,2,0,0,44.8,-87.47,1
+641,25692,1985,7,4,WI,,Town of Leon,Waushara County,Waushara County,5.0,0,0,0,44.05,-89.1,1
+642,25705,1985,8,12,WI,Town of Washburn,,Clark County,,1.2,1,0,0,44.47,-90.47,1
+643,25706,1985,8,12,WI,Town of Richfield,,Wood County,Wood County,10.0,2,14,0,44.57,-90.17,1
+644,25707,1985,8,12,WI,,Town of Germantown,Monroe County,Juneau County,22.0,2,22,2,43.78,-90.37,1
+645,25708,1985,8,12,WI,Town of Richford,,Waushara County,,0.5,0,0,0,44.03,-89.43,1
+646,25756,1985,8,17,WI,,,Waukesha County,Milwaukee County,15.0,1,0,0,43.18,-88.32,1
+647,26277,1986,6,11,WI,,Town of Osceola,Fond du Lac County,Fond du Lac County,8.0,2,0,0,43.6,-88.35,1
+648,26311,1986,6,21,WI,Town of Worcester,,Price County,,0.5,1,0,0,45.8,-90.3,1
+649,26327,1986,6,26,WI,Town of Sparta,Town of Sparta,Monroe County,Monroe County,5.5,2,0,0,43.93,-90.88,1
+650,26402,1986,7,11,WI,,,Dane County,,0.8,1,0,0,43.07,-89.42,1
+651,26411,1986,7,12,WI,Town of Ixonia,,Jefferson County,,0.2,0,0,0,43.17,-88.58,1
+652,26414,1986,7,12,WI,Town of Lowell,,Dodge County,,0.1,0,0,0,43.32,-88.78,1
+653,26415,1986,7,12,WI,Town of Rubicon,,Dodge County,,0.1,0,0,0,43.32,-88.5,1
+654,26435,1986,7,24,WI,Town of Saint Germain,,Vilas County,,0.2,1,0,0,45.92,-89.53,1
+655,26478,1986,7,4,WI,Town of Niagra,Harris Township,Marinette County,Menominee County,24.3,3,12,0,45.73,-88.0,1
+656,26479,1986,7,4,WI,Town of Niagra,Faithorn Township,Marinette County,Menominee County,8.0,3,0,0,45.73,-88.0,1
+657,26481,1986,7,4,WI,Town of Cassian,,Oneida County,,1.5,2,0,0,45.73,-89.63,1
+658,26594,1986,9,26,WI,Town of Reseburg,,Clark County,,0.5,1,0,0,44.93,-90.8,1
+659,26595,1986,9,26,WI,Town of Winter,,Sawyer County,,0.5,0,0,0,45.68,-90.82,1
+660,26597,1986,9,28,WI,Town of Cold Spring,Town of Palmyra,Jefferson County,Jefferson County,9.0,2,1,0,42.87,-88.73,1
+661,26621,1986,9,3,WI,Town of Chetek,Town of Sumner,Barron County,Barron County,4.0,2,0,0,45.32,-91.63,1
+662,26884,1987,5,29,WI,,,Saint Croix County,,0.1,0,0,0,44.95,-92.38,1
+663,26932,1987,6,17,WI,Town of Eastman,,Crawford County,,0.1,0,0,0,43.17,-91.08,1
+664,26990,1987,6,28,WI,Town of Frankfort,,Pepin County,,0.6,1,0,0,44.58,-92.08,1
+665,27055,1987,7,12,WI,Town of Kossuth,,Manitowoc County,,0.2,1,0,0,44.18,-87.72,1
+666,27085,1987,7,20,WI,Town of Rusk,,Burnett County,,0.1,0,0,0,45.85,-92.07,1
+667,27096,1987,7,21,WI,Town of Emmet,,Dodge County,,0.1,0,0,0,43.23,-88.77,1
+668,27118,1987,7,26,WI,Town of Rhine,,Sheboygan County,,0.2,1,0,0,43.85,-88.02,1
+669,27142,1987,7,2,WI,,,Marathon County,,0.2,1,0,0,44.83,-89.32,1
+670,27153,1987,7,6,WI,Town of Richmond,,Saint Croix County,,0.1,0,0,0,45.05,-92.6,1
+671,27156,1987,7,6,WI,,,Waukesha County,,0.3,1,0,0,43.08,-88.27,1
+672,27213,1987,8,14,WI,,,Winnebago County,,0.2,1,0,0,44.2,-88.45,1
+673,27221,1987,8,16,WI,Town of Wayne,,Lafayette County,,0.1,1,0,0,42.53,-89.93,1
+674,27222,1987,8,16,WI,,,Waukesha County,,1.5,1,1,0,43.0,-88.37,1
+675,27223,1987,8,16,WI,,,Racine County,,0.1,0,0,0,42.77,-88.22,1
+676,27224,1987,8,16,WI,,,Racine County,,0.1,0,0,0,42.68,-87.95,1
+677,27271,1987,9,10,WI,Town of McKinley,,Polk County,,0.1,0,0,0,45.58,-92.17,1
+678,27648,1988,5,8,WI,Town of Jefferson,Town of Grant,Monroe County,Monroe County,27.0,2,0,0,43.75,-90.77,1
+679,27655,1988,5,8,WI,Town of Harrison,,Grant County,,0.5,1,0,0,42.72,-90.68,1
+680,27656,1988,5,8,WI,,,Grant County,,1.5,1,0,0,42.82,-90.87,1
+681,27657,1988,5,8,WI,Town of Little Grant,,Grant County,Grant County,10.0,1,0,0,42.9,-90.87,1
+682,27658,1988,5,8,WI,Town of Mount Hope,Town of Fennimore,Grant County,Grant County,10.0,2,0,0,42.98,-90.85,1
+683,27659,1988,5,8,WI,Town of Lima,,Grant County,,0.5,1,0,0,42.8,-90.5,1
+684,27660,1988,5,8,WI,Town of Shullsburg,,Lafayette County,Lafayette County,16.0,3,0,0,42.58,-90.23,1
+685,27661,1988,5,8,WI,Town of Monticello,Town of Wiota,Lafayette County,Lafayette County,9.0,1,0,0,42.55,-90.12,1
+686,27663,1988,5,8,WI,Town of Liberty,Town of Wingville,Grant County,Grant County,7.5,2,0,0,42.93,-90.58,1
+687,27664,1988,5,8,WI,Town of Boscobel,,Grant County,,1.2,1,0,0,43.15,-90.67,1
+688,27666,1988,5,8,WI,Town of Eagle,Town of Westford,Richland County,Richland County,20.0,2,0,0,43.28,-90.45,1
+689,27668,1988,5,8,WI,Town of Moscow,,Iowa County,,0.8,1,0,0,42.88,-89.88,1
+690,27669,1988,5,8,WI,,,Dane County,Dane County,7.0,2,1,0,43.17,-89.33,1
+691,27670,1988,5,8,WI,Town of Plymouth,Town of Lindina,Juneau County,Juneau County,5.0,1,1,0,43.75,-90.2,1
+692,27671,1988,5,8,WI,Town of Lodi,,Columbia County,,2.0,1,0,0,43.32,-89.52,1
+693,27672,1988,5,8,WI,Town of Seven Mile Creek,,Juneau County,,0.7,1,0,0,43.73,-90.02,1
+694,27674,1988,5,8,WI,Town of Union,Town of Lake Mills,Rock County,Jefferson County,27.0,2,0,0,42.8,-89.35,1
+695,27675,1988,5,8,WI,Town of Otsego,Town of Springvale,Columbia County,Columbia County,5.0,1,0,0,43.43,-89.23,1
+696,27676,1988,5,8,WI,Town of Oxford,,Marquette County,,1.1,1,0,0,43.77,-89.57,1
+697,27678,1988,5,8,WI,Town of Marion,Town of Mount Morris,Waushara County,Waushara County,5.0,1,0,0,44.05,-89.25,1
+698,27679,1988,5,8,WI,Town of Green Valley,Town of Rib Falls,Marathon County,Marathon County,13.0,2,2,0,44.73,-89.95,1
+699,27680,1988,5,8,WI,Town of Buena Vista,,Portage County,,1.0,0,0,0,44.37,-89.53,1
+700,27681,1988,5,8,WI,Town of Chester,,Dodge County,,0.5,0,0,0,43.55,-88.7,1
+701,27684,1988,5,8,WI,,,Waukesha County,,0.1,0,0,0,43.1,-88.35,1
+702,27718,1988,6,22,WI,Town of Herman,,Dodge County,,2.0,1,0,0,43.45,-88.47,1
+703,27775,1988,7,16,WI,Town of Delavan,,Walworth County,,0.1,1,0,0,42.58,-88.58,1
+704,27816,1988,7,29,WI,,,Vilas County,,0.2,1,0,0,45.92,-89.25,1
+705,27862,1988,8,13,WI,Town of Mason,,Bayfield County,,0.1,1,0,0,46.45,-91.07,1
+706,27900,1988,8,1,WI,Town of Hazelhurst,,Oneida County,,0.1,0,0,0,45.75,-89.72,1
+707,27901,1988,8,1,WI,Town of Saint Germain,,Vilas County,,1.0,1,0,0,45.92,-89.5,1
+708,27902,1988,8,1,WI,,,Vilas County,,0.2,0,0,0,45.9,-89.22,1
+709,27908,1988,8,3,WI,Town of Marengo,Town of Marengo,Ashland County,Ashland County,4.0,0,0,0,46.3,-90.92,1
+710,27911,1988,8,4,WI,,Town of Franklin,Manitowoc County,Manitowoc County,4.0,1,0,0,44.15,-87.95,1
+711,27974,1988,9,19,WI,Town of Oasis,,Waushara County,,0.1,0,0,0,44.22,-89.47,1
+712,27976,1988,9,19,WI,Town of Wien,,Marathon County,,0.1,0,0,0,44.92,-89.98,1
+713,28374,1989,5,24,WI,Town of Quincy,,Adams County,,0.5,0,0,0,43.95,-89.93,1
+714,28381,1989,5,24,WI,Town of Seneca,,Green Lake County,,0.1,0,0,0,43.97,-89.03,1
+715,28383,1989,5,24,WI,Town of Delmar,,Chippewa County,,0.1,0,0,0,45.02,-91.0,1
+716,28388,1989,5,24,WI,Town of Nekimi,,Winnebago County,,1.2,1,0,0,43.97,-88.55,1
+717,28390,1989,5,24,WI,Town of Stockbridge,,Calumet County,,0.3,1,0,0,44.07,-88.25,1
+718,28391,1989,5,24,WI,Town of Gibson,,Manitowoc County,,0.2,0,0,0,44.32,-87.75,1
+719,28392,1989,5,24,WI,Town of Marshfield,,Fond du Lac County,,0.2,0,0,0,43.83,-88.23,1
+720,28394,1989,5,24,WI,Town of Trenton,,Dodge County,,1.5,1,0,0,43.57,-88.83,1
+721,28395,1989,5,24,WI,Kekoskee,,Dodge County,,2.2,1,0,0,43.53,-88.5,1
+722,28396,1989,5,24,WI,,,Milwaukee County,,0.1,0,0,0,43.03,-87.97,1
+723,28529,1989,6,14,WI,,,Dane County,,0.2,1,0,0,43.07,-89.48,1
+724,28530,1989,6,14,WI,,,Dane County,,0.2,1,0,0,43.17,-89.2,1
+725,28531,1989,6,14,WI,,,Dane County,,0.2,0,0,0,43.2,-89.4,1
+726,28532,1989,6,14,WI,Town of Sun Prairie,,Dane County,,0.1,0,0,0,43.2,-89.17,1
+727,28576,1989,6,26,WI,Town of Washington,,Sauk County,,0.3,2,0,0,43.42,-90.12,1
+728,28577,1989,6,26,WI,,,Sauk County,,0.2,1,4,0,43.58,-89.78,1
+729,28601,1989,6,30,WI,,,Barron County,,0.1,0,0,0,45.55,-92.03,1
+730,29473,1990,6,12,WI,,,Pierce County,,0.5,1,1,0,44.7,-92.55,1
+731,29475,1990,6,12,WI,Town of Johnson,,Marathon County,,0.1,1,0,0,44.97,-90.12,1
+732,29655,1990,6,2,WI,,,Fond du Lac County,,1.0,2,1,0,43.78,-88.45,1
+733,29656,1990,6,2,WI,,,Walworth County,,0.2,1,0,0,42.77,-88.55,1
+734,29974,1990,9,11,WI,Town of Stanfold,,Barron County,,1.5,2,0,0,45.5,-91.88,1
+735,29975,1990,9,11,WI,Town of Stanfold,,Barron County,,0.5,1,0,0,45.53,-92.0,1
+736,29976,1990,9,11,WI,Town of Sumner,Town of Sumner,Barron County,Barron County,3.0,2,0,0,45.43,-91.65,1
+737,29977,1990,9,11,WI,Town of Oak Grove,,Barron County,,0.5,1,0,0,45.6,-91.77,1
+738,30016,1990,9,9,WI,Town of Nelson,Town of Arcadia,Buffalo County,Trempealeau County,30.0,1,1,0,44.42,-92.0,1
+739,30186,1991,3,27,WI,Town of Brooklyn,,Green County,Jefferson County,32.0,2,5,1,42.83,-89.4,1
+740,30445,1991,4,8,WI,Town of Potosi,,Grant County,,0.7,0,0,0,42.67,-90.72,1
+741,30633,1991,5,22,WI,,Town of Janesville,Rock County,Rock County,4.0,1,0,0,42.67,-89.02,1
+742,30634,1991,5,22,WI,,,Dane County,,0.1,0,0,0,43.1,-89.18,1
+743,30723,1991,5,30,WI,,,Trempealeau County,,0.1,0,0,0,44.37,-91.33,1
+744,30825,1991,6,14,WI,Town of Harding,,Lincoln County,,0.5,1,0,0,45.23,-89.85,1
+745,30910,1991,6,27,WI,Town of Minoqua,Town of Minoqua,Oneida County,Oneida County,6.0,2,0,0,45.78,-89.97,1
+746,31064,1991,7,1,WI,,Town of Jackson,Washington County,Washington County,4.0,1,1,0,43.23,-88.12,1
+747,31079,1991,7,7,WI,Town of Sugar Creek,,Walworth County,,0.1,0,0,0,42.68,-88.62,1
+748,31143,1991,9,14,WI,,,Shawano County,,0.1,0,0,0,44.8,-88.32,1
+749,31186,1992,10,8,WI,Town of Kildare,,Juneau County,,2.0,1,0,0,43.75,-89.93,1
+750,31187,1992,10,8,WI,,,Buffalo County,,0.5,0,0,0,44.58,-91.68,1
+751,31190,1992,10,8,WI,Town of Dayton,,Waupaca County,,0.7,1,0,0,44.25,-89.17,1
+752,31192,1992,10,8,WI,Town of Lanark,,Portage County,,2.0,1,0,0,44.37,-89.23,1
+753,31500,1992,4,20,WI,Town of Arpin,Town of Lincoln,Wood County,Wood County,9.5,1,0,0,44.53,-90.07,1
+754,31502,1992,4,20,WI,,,Vernon County,,2.0,1,0,0,43.62,-90.35,1
+755,31593,1992,5,16,WI,Town of Hackett,Town of Emery,Price County,Price County,10.0,1,0,0,45.6,-90.35,1
+756,31594,1992,5,16,WI,Town of Eau Pleine,,Portage County,,1.2,1,0,0,44.67,-89.75,1
+757,31599,1992,5,16,WI,Town of Buena Vista,Town of Buena Vista,Portage County,Portage County,11.0,2,0,0,44.37,-89.57,1
+758,31600,1992,5,16,WI,Town of Harrison,,Waupaca County,,1.5,1,0,0,44.62,-89.17,1
+759,31601,1992,5,16,WI,,Town of Wrightstown,Outagamie County,Brown County,5.0,1,0,0,44.27,-88.27,1
+760,31822,1992,6,17,WI,Town of York,,Green County,,1.0,1,0,0,42.85,-89.73,1
+761,31823,1992,6,17,WI,,,Dane County,Dane County,16.0,3,30,0,42.88,-89.53,1
+762,31826,1992,6,17,WI,Town of New Denmark,,Brown County,,0.1,0,0,0,44.37,-87.82,1
+763,32163,1992,7,19,WI,Town of Johnson,,Marathon County,,0.2,1,0,0,44.95,-90.12,1
+764,32357,1992,8,29,WI,Town of Big Flats,Town of Richfield,Adams County,Adams County,5.0,1,0,0,44.12,-89.73,1
+765,32358,1992,8,29,WI,Town of Hancock,Town of Poy Sippi,Waushara County,Waushara County,28.0,3,30,1,44.07,-89.52,1
+766,32386,1992,8,9,WI,Town of Frog Creek,Town of Lenroot,Washburn County,Sawyer County,4.0,1,0,0,46.12,-91.62,1
+767,32387,1992,8,9,WI,Town of Hayward,,Sawyer County,,0.5,1,0,0,46.03,-91.55,1
+768,32398,1992,9,16,WI,Town of Ashland,Town of Morse,Ashland County,Ashland County,6.5,0,0,0,46.35,-90.68,1
+769,32418,1992,9,26,WI,Town of Moundville,,Marquette County,,0.5,0,0,0,43.65,-89.47,1
+770,32419,1992,9,26,WI,,,Marquette County,,0.5,0,0,0,43.97,-89.22,1
+771,32420,1992,9,26,WI,Town of Berlin,,Green Lake County,,0.2,0,0,0,43.97,-88.92,1
+772,32429,1992,9,2,WI,Town of Sugar Creek,,Walworth County,,0.5,1,0,0,42.65,-88.63,1
+773,32458,1992,9,7,WI,Town of Shields,,Marquette County,,0.1,0,0,0,43.83,-89.27,1
+774,32459,1992,9,7,WI,Town of St. Marie,Town of Rushford,Green Lake County,Winnebago County,8.5,2,1,0,43.9,-89.03,1
+775,32959,1993,6,17,WI,Town of Green Lake,,Green Lake County,,1.0,1,0,0,43.73,-88.98,1
+776,32971,1993,6,19,WI,Town of Jamestown,Town of Jamestown,Grant County,Grant County,2.0,3,0,0,42.52,-90.55,1
+777,32972,1993,6,19,WI,Town of Smelser,,Grant County,,0.1,0,0,0,42.68,-90.48,1
+778,32973,1993,6,19,WI,Town of Smelser,,Grant County,,1.0,0,0,0,42.63,-90.47,1
+779,32974,1993,6,19,WI,Town of Smelser,,Lafayette County,,0.1,0,0,0,42.67,-90.42,1
+780,33036,1993,6,26,WI,Town of Sharon,Town of Walworth,Walworth County,Walworth County,5.0,0,0,0,42.52,-88.7,1
+781,33037,1993,6,26,WI,Town of Wiota,,Lafayette County,,0.1,0,0,0,42.67,-89.87,1
+782,33038,1993,6,26,WI,,,Kenosha County,,1.5,0,0,0,42.53,-88.25,1
+783,33168,1993,6,7,WI,Town of Kingston,,Green Lake County,,0.1,0,0,0,43.67,-89.17,1
+784,33169,1993,6,7,WI,Town of Montello,,Marquette County,,0.1,0,0,0,43.8,-89.3,1
+785,33173,1993,6,8,WI,,Town of Coon,Vernon County,Vernon County,11.0,1,0,0,43.65,-91.1,1
+786,33182,1993,6,8,WI,Town of New Chester,,Adams County,,1.5,0,0,0,43.83,-89.63,1
+787,33188,1993,6,8,WI,Town of Adams,,Adams County,,1.0,0,0,0,43.98,-89.72,1
+788,33189,1993,6,8,WI,Town of Adams,,Adams County,,1.5,0,0,0,43.98,-89.72,1
+789,33190,1993,6,8,WI,Town of Westfield,Town of Crystal Lake,Marquette County,Marquette County,10.0,1,0,0,43.82,-89.52,1
+790,33193,1993,6,8,WI,Town of Oxford,,Marquette County,,1.0,0,0,0,43.77,-89.52,1
+791,33196,1993,6,8,WI,Town of Moundville,,Marquette County,,0.1,0,0,0,43.68,-89.47,1
+792,33197,1993,6,8,WI,Town of Buffalo,Town of Berlin,Marquette County,Green Lake County,28.0,2,0,0,43.65,-89.32,1
+793,33200,1993,6,8,WI,Town of Lincoln,,Adams County,,2.0,0,0,0,43.9,-89.67,1
+794,33201,1993,6,8,WI,Town of Lincoln,,Adams County,,0.5,0,0,0,43.95,-89.63,1
+795,33203,1993,6,8,WI,Town of Brooklyn,,Green Lake County,,0.3,0,0,0,43.87,-89.08,1
+796,33206,1993,6,8,WI,Town of Kingston,,Green Lake County,Green Lake County,4.0,0,0,0,43.68,-89.15,1
+797,33212,1993,6,8,WI,Town of Utica,,Winnebago County,,0.1,0,0,0,43.92,-88.72,1
+798,33220,1993,6,8,WI,Town of Seneca,Town of Warren,Green Lake County,Waushara County,8.0,0,0,0,43.98,-89.17,1
+799,33222,1993,6,8,WI,,Town of Sun Prairie,Dane County,Dane County,4.0,0,0,0,43.17,-89.22,1
+800,33223,1993,6,8,WI,Town of Crystal Lake,Town of Warren,Marquette County,Waushara County,12.0,0,0,0,43.98,-89.25,1
+801,33224,1993,6,8,WI,Town of Aurora,Town of Aurora,Waushara County,Waushara County,6.0,0,0,0,44.03,-88.98,1
+802,33226,1993,6,8,WI,Town of Berlin,,Green Lake County,,0.1,0,0,0,43.97,-88.98,1
+803,33362,1993,7,27,WI,Town of Bridge Creek,,Eau Claire County,,0.2,0,0,0,44.73,-91.12,1
+804,33420,1993,7,5,WI,Town of Bloomfield,,Walworth County,,0.5,1,0,0,42.5,-88.35,1
+805,33457,1993,7,8,WI,,,Grant County,,0.2,1,0,0,42.8,-90.87,1
+806,33459,1993,7,8,WI,Town of Lima,,Grant County,,0.5,1,0,0,42.78,-90.48,1
+807,33588,1993,8,9,WI,Town of Fifield,,Price County,,0.2,0,0,0,45.82,-90.32,1
+808,33589,1993,8,9,WI,Town of Emery,,Price County,,0.5,1,0,0,45.68,-90.18,1
+809,33590,1993,8,9,WI,Town of Lynne,,Oneida County,,0.2,0,0,0,45.57,-90.0,1
+810,33595,1993,9,13,WI,,,Barron County,,0.3,1,0,0,45.53,-92.03,1
+811,33597,1993,9,13,WI,Town of Georgetown,,Price County,,0.3,1,0,0,45.58,-90.58,1
+812,33896,1994,4,24,WI,Town of Montpelier,,Kewaunee County,,0.1,0,0,0,44.5,-87.7,1
+813,33897,1994,4,24,WI,Town of Little Falls,,Monroe County,,0.5,1,0,0,44.1,-90.83,1
+814,33931,1994,4,26,WI,Town of Sheridan,Town of Prairie Farm,Dunn County,Barron County,4.0,1,0,0,45.17,-91.98,1
+815,33933,1994,4,26,WI,Town of Sumner,Town of Doyle,Barron County,Barron County,4.0,2,0,0,45.42,-91.62,1
+816,33935,1994,4,26,WI,Town of Ogema,Town of Prentice,Price County,Price County,12.0,2,0,0,45.4,-90.37,1
+817,33946,1994,4,26,WI,,,Vilas County,Vilas County,4.5,1,0,0,46.07,-89.25,1
+818,34162,1994,5,30,WI,Town of Cady,,Saint Croix County,,1.0,1,0,0,44.95,-92.25,1
+819,34163,1994,5,30,WI,Town of Crandon,Town of Laona,Forest County,Forest County,12.0,2,3,0,45.55,-88.93,1
+820,34237,1994,6,12,WI,Town of Patch Grove,Town of Mount Hope,Grant County,Grant County,5.0,1,0,0,42.95,-90.95,1
+821,34348,1994,6,27,WI,Town of Dairyland,,Douglas County,,1.0,1,0,0,46.2,-92.18,1
+822,34350,1994,6,27,WI,Town of Wascott,Town of Solon Springs,Douglas County,Douglas County,4.0,1,0,0,46.22,-92.0,1
+823,34351,1994,6,27,WI,Town of Bear Lake,,Barron County,,0.2,0,0,0,45.63,-91.82,1
+824,34491,1994,7,19,WI,Town of Almena,Town of Cumberland,Barron County,Barron County,8.0,1,0,0,45.45,-92.08,1
+825,34559,1994,7,4,WI,,Town of Paris,Grant County,Grant County,3.0,1,0,0,42.63,-90.6,1
+826,34560,1994,7,4,WI,Town of Wiota,,Lafayette County,,0.5,1,0,0,42.63,-89.85,1
+827,34561,1994,7,4,WI,,,Sauk County,Sauk County,8.0,2,0,0,43.3,-89.75,1
+828,34562,1994,7,4,WI,,,Waupaca County,,0.1,0,0,0,44.27,-88.87,1
+829,34563,1994,7,4,WI,,,Dane County,,0.1,0,0,0,42.95,-89.38,1
+830,34569,1994,7,5,WI,Town of Cooperstown,Town of Cooperstown,Manitowoc County,Manitowoc County,3.5,4,2,0,44.28,-87.82,1
+831,34570,1994,7,5,WI,Town of Cooperstown,,Manitowoc County,,1.0,2,0,0,44.3,-87.8,1
+832,34582,1994,7,6,WI,Town of Princeton,,Green Lake County,,0.1,0,0,0,43.82,-89.17,1
+833,34584,1994,7,6,WI,,,Green Lake County,,0.1,0,0,0,43.97,-88.95,1
+834,34585,1994,7,6,WI,Town of Berlin,,Green Lake County,,1.0,1,0,0,43.97,-88.92,1
+835,34587,1994,7,7,WI,Town of St. Marie,,Green Lake County,,0.1,0,0,0,43.88,-89.12,1
+836,34597,1994,7,8,WI,,,Marathon County,,0.2,1,0,0,44.82,-89.3,1
+837,34598,1994,7,8,WI,Town of Aniwa,,Shawano County,,0.2,1,0,0,44.97,-89.17,1
+838,34674,1994,8,27,WI,Town of Beaver,,Polk County,,0.3,1,0,0,45.42,-92.22,1
+839,34675,1994,8,27,WI,Town of Pleasant Valley,Town of Lincoln,Eau Claire County,Eau Claire County,10.0,3,25,2,44.65,-91.42,1
+840,34676,1994,8,27,WI,Town of Monroe,Town of Rome,Adams County,Adams County,10.5,3,22,2,44.1,-89.92,1
+841,34677,1994,8,27,WI,Town of Hancock,,Waushara County,,1.5,1,0,0,44.13,-89.52,1
+842,34678,1994,8,27,WI,Town of Newton,Town of Marion,Marquette County,Waushara County,10.0,2,0,0,43.9,-89.37,1
+843,34679,1994,8,27,WI,Town of Wausaukee,Town of Wausaukee,Marinette County,Marinette County,4.0,1,0,0,45.35,-87.95,1
+844,34680,1994,8,27,WI,Town of Seven Mile Creek,Town of Kildare,Juneau County,Juneau County,5.5,1,3,0,43.73,-90.01,1
+845,34681,1994,8,27,WI,Town of Princeton,Town of Warren,Green Lake County,Waushara County,10.0,2,0,0,43.88,-89.17,1
+846,34682,1994,8,27,WI,Town of Dell Prairie,,Adams County,,0.1,0,0,0,43.72,-89.82,1
+847,34723,1994,9,13,WI,,,Jackson County,,2.0,1,0,0,44.22,-91.0,1
+848,35590,1995,6,28,WI,,,La Crosse County,,0.3,0,0,0,43.88,-91.23,1
+849,35591,1995,6,29,WI,Town of Franklin,,Kewaunee County,,0.1,0,0,0,44.33,-87.67,1
+850,35788,1995,7,14,WI,,,Vilas County,Vilas County,3.5,1,0,0,46.07,-89.08,1
+851,35934,1995,8,16,WI,Town of Lowell,,Dodge County,,0.2,0,0,0,43.28,-88.85,1
+852,35935,1995,8,16,WI,Town of Dellona,,Sauk County,,0.1,0,0,0,43.58,-89.88,1
+853,36001,1995,9,6,WI,Town of Ogema,Town of Knox,Price County,Price County,8.0,1,1,0,45.48,-90.3,1
+854,36002,1995,9,6,WI,Town of Edson,,Chippewa County,,0.1,0,0,0,44.93,-91.0,1
+855,36416,1996,4,25,WI,Town of Pensaukee,Town of Pensaukee,Oconto County,Oconto County,0.1,0,0,0,44.82,-87.95,1
+856,36682,1996,6,11,WI,Town of Chilton,Town of Chilton,Calumet County,Calumet County,0.1,0,0,0,44.08,-88.23,1
+858,36698,1996,6,17,WI,,,Sauk County,Sauk County,0.1,0,0,0,43.28,-89.8,1
+859,36699,1996,6,17,WI,Town of West Point,Town of West Point,Columbia County,Columbia County,0.5,1,0,0,43.32,-89.72,1
+860,36859,1996,7,18,WI,Town of Bradley,Town of Bradley,Lincoln County,Lincoln County,3.0,1,0,0,45.45,-89.75,1
+861,36860,1996,7,18,WI,Town of Seneca,Town of St. Marie,Green Lake County,Green Lake County,2.0,1,0,0,43.92,-89.07,1
+862,36861,1996,7,18,WI,,Town of New Holstein,Calumet County,Calumet County,6.4,2,1,1,43.95,-88.27,1
+863,36862,1996,7,18,WI,Town of Oakfield,Town of Eden,Fond du Lac County,Fond du Lac County,13.3,5,12,0,43.7,-88.62,1
+864,36863,1996,7,18,WI,Town of Calumet,Town of New Holstein,Fond du Lac County,Calumet County,1.2,0,0,0,43.92,-88.22,1
+865,36864,1996,7,18,WI,Town of Calumet,Town of Calumet,Calumet County,Calumet County,0.1,0,0,0,43.95,-88.17,1
+866,36865,1996,7,18,WI,,,Fond du Lac County,Fond du Lac County,0.6,0,0,0,43.68,-88.55,1
+867,36866,1996,7,18,WI,Town of Eldorado,Town of Eldorado,Fond du Lac County,Fond du Lac County,0.2,0,0,0,43.83,-88.55,1
+868,36867,1996,7,18,WI,Town of Eden,Town of Eden,Fond du Lac County,Fond du Lac County,0.1,0,0,0,43.62,-88.4,1
+869,36868,1996,7,18,WI,Town of Scott,Town of Scott,Sheboygan County,Sheboygan County,0.9,1,0,0,43.58,-88.13,1
+870,36869,1996,7,18,WI,,Town of Port Washington,Ozaukee County,Ozaukee County,7.6,1,0,0,43.48,-87.95,1
+871,36870,1996,7,18,WI,Town of Port Washington,,Ozaukee County,Ozaukee County,0.8,0,0,0,43.42,-87.85,1
+872,36921,1996,7,24,WI,,,Kenosha County,Kenosha County,7.0,0,0,0,42.52,-88.18,1
+873,37074,1996,8,7,WI,Town of Halsey,Town of Cassel,Marathon County,Marathon County,2.5,2,0,0,45.07,-90.07,1
+874,37075,1996,8,7,WI,Town of Rietbrock,Town of Rietbrock,Marathon County,Marathon County,0.2,1,0,0,44.98,-90.07,1
+875,37076,1996,8,7,WI,Town of Sharon,Town of Sharon,Portage County,Portage County,0.4,1,0,0,44.68,-89.42,1
+876,37895,1997,6,15,WI,,,Dunn County,Dunn County,1.0,2,0,0,44.77,-92.03,1
+877,37972,1997,6,24,WI,,,Dunn County,Dunn County,0.1,1,0,0,44.9,-91.92,1
+878,38048,1997,7,16,WI,Town of Hewitt,Town of Hewitt,Lincoln County,Marathon County,3.4,2,0,0,45.12,-89.47,1
+879,38049,1997,7,16,WI,Town of Hewitt,Town of Hewitt,Marathon County,Marathon County,0.1,0,0,0,45.03,-89.48,1
+880,38050,1997,7,16,WI,Town of Plover,Town of Plover,Marathon County,Marathon County,0.2,0,0,0,45.0,-89.37,1
+881,38051,1997,7,16,WI,,,Marathon County,Marathon County,0.2,1,0,0,44.93,-89.4,1
+882,38052,1997,7,16,WI,,,Marathon County,Marathon County,0.2,0,0,0,44.82,-89.25,1
+883,38053,1997,7,16,WI,Town of Hancock,Town of Hancock,Waushara County,Waushara County,0.1,0,0,0,44.13,-89.52,1
+884,38061,1997,7,18,WI,Town of Sharon,Town of Sharon,Walworth County,Walworth County,0.1,0,0,0,42.52,-88.77,1
+885,38113,1997,7,25,WI,,,Dane County,Dane County,1.0,1,0,0,43.18,-89.48,1
+886,38114,1997,7,25,WI,,,Dane County,Dane County,2.7,1,1,0,43.15,-89.4,1
+887,38157,1997,7,1,WI,Town of Willard,Town of Willard,Rusk County,Rusk County,1.0,1,1,0,45.32,-91.17,1
+888,38203,1997,7,5,WI,Town of Hay River,Town of Tainter,Dunn County,Dunn County,5.0,1,0,0,45.03,-91.93,1
+889,38328,1997,9,19,WI,,,Jefferson County,Jefferson County,0.1,0,0,0,43.08,-88.9,1
+890,38610,1998,3,29,WI,Town of Maxville,Town of Maxville,Buffalo County,Buffalo County,4.0,0,0,0,44.55,-92.0,1
+891,38618,1998,3,29,WI,Town of Wilson,Town of Bradley,Lincoln County,Lincoln County,4.5,0,0,0,45.47,-89.8,1
+892,38844,1998,5,12,WI,Town of Sioux Creek,Town of Sioux Creek,Barron County,Barron County,6.0,0,0,0,45.25,-91.78,1
+893,38846,1998,5,12,WI,Town of Round Lake,Town of Round Lake,Sawyer County,Sawyer County,3.0,0,0,0,46.03,-91.03,1
+894,38850,1998,5,12,WI,Town of Spider Lake,Town of Spider Lake,Sawyer County,Sawyer County,3.0,0,0,0,46.08,-91.1,1
+895,38851,1998,5,12,WI,Town of Gordon,Town of Gordon,Ashland County,Ashland County,2.0,0,0,0,46.17,-90.92,1
+896,38882,1998,5,15,WI,Town of Canton,Town of Lima,Buffalo County,Pepin County,8.0,3,6,0,44.57,-91.83,1
+897,38883,1998,5,15,WI,Town of Lima,Town of Elk Mound,Pepin County,Dunn County,18.0,1,1,0,44.68,-91.78,1
+898,38886,1998,5,15,WI,Town of Hamilton,Town of Hamilton,La Crosse County,La Crosse County,2.0,0,1,0,43.9,-91.15,1
+899,38887,1998,5,15,WI,Town of Benton,Town of Kendall,Lafayette County,Lafayette County,20.0,2,11,0,42.55,-90.4,1
+900,38992,1998,5,30,WI,Town of Murry,Town of Murry,Rusk County,Rusk County,0.1,0,0,0,45.58,-91.27,1
+901,38993,1998,5,30,WI,Town of Hubbard,Town of Hubbard,Rusk County,Rusk County,0.1,0,0,0,45.57,-91.1,1
+902,38994,1998,5,30,WI,Town of Catawba,Town of Catawba,Price County,Price County,3.0,0,0,0,45.5,-90.53,1
+903,38995,1998,5,30,WI,,,Price County,Price County,2.0,0,0,0,45.53,-90.53,1
+904,39005,1998,5,30,WI,Town of Red Cedar,Town of Spring Brook,Dunn County,Dunn County,1.0,2,8,0,44.88,-91.77,1
+905,39006,1998,5,31,WI,Town of Bergen,Town of Bergen,Marathon County,Marathon County,0.2,0,0,0,44.77,-89.78,1
+906,39007,1998,5,31,WI,,Town of Stockbridge,Calumet County,Calumet County,1.4,1,0,0,44.07,-88.3,1
+907,39253,1998,6,16,WI,Town of Coloma,Town of Coloma,Waushara County,Waushara County,0.1,0,0,0,44.05,-89.57,1
+908,39282,1998,6,18,WI,Town of Sterling,Town of Christiana,Vernon County,Vernon County,1.5,1,0,0,43.47,-91.07,1
+909,39283,1998,6,18,WI,Town of South Lancaster,Town of South Lancaster,Grant County,Grant County,0.1,0,1,0,42.85,-90.72,1
+910,39341,1998,6,25,WI,Town of Center,Town of Janesville,Rock County,Rock County,2.5,2,0,0,42.75,-89.18,1
+911,39623,1998,8,23,WI,,,Winnebago County,Winnebago County,0.1,0,0,0,44.2,-88.45,1
+912,39626,1998,8,23,WI,Town of Egg Harbor,Town of Jacksonport,Door County,Door County,5.1,3,2,0,45.02,-87.33,1
+913,39628,1998,8,23,WI,,,Douglas County,Douglas County,0.1,0,0,0,46.58,-91.72,1
+914,40580,1999,5,5,WI,,,Lincoln County,Lincoln County,0.1,0,0,0,45.47,-89.75,1
+915,40728,1999,6,30,WI,Town of Doyle,Town of Doyle,Barron County,Barron County,0.1,0,0,0,45.5,-91.55,1
+916,40831,1999,6,5,WI,,,Saint Croix County,Saint Croix County,0.5,0,0,0,45.17,-92.75,1
+917,40833,1999,6,5,WI,Town of Beaver Brook,,Washburn County,Washburn County,3.5,0,0,0,45.73,-91.82,1
+918,40844,1999,6,5,WI,Town of Hawkins,Town of Hawkins,Rusk County,Rusk County,0.3,0,0,0,45.42,-90.72,1
+919,40878,1999,6,6,WI,,,Jefferson County,Jefferson County,0.1,0,0,0,43.08,-88.9,1
+920,40881,1999,6,6,WI,,,Waukesha County,Waukesha County,0.2,1,0,0,42.92,-88.25,1
+921,40991,1999,7,8,WI,,Town of Naples,Buffalo County,Buffalo County,10.0,1,3,0,44.48,-91.8,1
+922,40995,1999,7,9,WI,Town of Eureka,Town of Eureka,Polk County,Polk County,0.1,0,0,0,45.5,-92.55,1
+923,40997,1999,7,9,WI,,,Polk County,Polk County,0.5,0,0,0,45.45,-92.45,1
+924,41071,1999,8,3,WI,Town of Wood,Town of Wood,Wood County,Wood County,0.1,0,0,0,44.45,-90.2,1
+925,41458,2000,3,8,WI,,,Milwaukee County,Milwaukee County,1.7,1,16,0,42.95,-87.9,1
+926,41608,2000,5,12,WI,Town of Eaton,Town of Eaton,Manitowoc County,Manitowoc County,0.1,0,0,0,44.03,-88.02,1
+927,41941,2000,6,1,WI,Town of Little Falls,Town of Lafayette,Monroe County,Monroe County,4.5,1,0,0,44.05,-90.88,1
+928,41942,2000,6,1,WI,Town of Clearfield,Town of Lisbon,Juneau County,Juneau County,6.5,1,0,0,43.92,-90.17,1
+929,41943,2000,6,1,WI,Town of Willow Springs,Town of Willow Springs,Lafayette County,Lafayette County,0.5,1,0,0,42.77,-90.18,1
+930,41944,2000,6,1,WI,Town of Hubbard,,Dodge County,Washington County,17.0,2,0,0,43.4,-88.63,1
+931,41946,2000,6,1,WI,Town of Oakfield,Town of Oakfield,Fond du Lac County,Fond du Lac County,0.1,0,0,0,43.65,-88.58,1
+932,41990,2000,7,13,WI,Town of Forestville,Town of Forestville,Door County,Door County,0.1,0,0,0,44.7,-87.48,1
+933,42069,2000,7,26,WI,,,Saint Croix County,Saint Croix County,0.1,0,0,0,44.97,-92.65,1
+934,42072,2000,7,26,WI,Town of Bergen,Town of Hamburg,Vernon County,Vernon County,0.5,0,0,0,43.68,-91.15,1
+935,42074,2000,7,27,WI,Town of Grover,Town of Grover,Marinette County,Marinette County,0.4,0,0,0,45.1,-87.85,1
+936,42075,2000,7,27,WI,Town of Peshtigo,Town of Peshtigo,Marinette County,Marinette County,0.1,0,0,0,45.05,-87.78,1
+937,42088,2000,7,2,WI,,,Milwaukee County,Milwaukee County,6.8,1,0,0,42.9,-87.98,1
+938,42112,2000,7,8,WI,Town of Clam Falls,Town of Siren,Polk County,Burnett County,0.6,0,0,0,45.72,-92.3,1
+939,42115,2000,7,9,WI,Town of Ridgeville,Town of Sheldon,Monroe County,Monroe County,0.9,1,0,0,43.82,-90.58,1
+940,42124,2000,8,14,WI,Town of Woodruff,Town of Woodruff,Oneida County,Oneida County,0.1,0,0,0,45.82,-89.6,1
+941,42125,2000,8,14,WI,Town of Luck,Town of Luck,Polk County,Polk County,0.2,0,0,0,45.58,-92.45,1
+942,42153,2000,8,5,WI,Town of Albany,Town of Albany,Green County,Green County,0.1,0,0,0,42.77,-89.33,1
+943,42879,2001,5,1,WI,Town of Grantsburg,Town of Grantsburg,Burnett County,Burnett County,1.5,0,0,0,45.8,-92.75,1
+944,42881,2001,5,1,WI,Town of Ellsworth,Town of Ellsworth,Pierce County,Pierce County,0.1,0,0,0,44.75,-92.47,1
+945,42887,2001,5,1,WI,Town of Minoqua,Town of Woodruff,Oneida County,Oneida County,1.5,1,0,0,45.87,-89.7,1
+946,42955,2001,6,11,WI,,,Buffalo County,Buffalo County,1.5,0,0,0,44.5,-91.88,1
+947,42958,2001,6,11,WI,Town of Metomen,Town of Metomen,Fond du Lac County,Fond du Lac County,0.2,0,0,0,43.72,-88.88,1
+948,42959,2001,6,11,WI,Town of Fox Lake,Town of Trenton,Dodge County,Dodge County,8.0,1,0,0,43.62,-88.9,1
+949,42960,2001,6,11,WI,Town of Rubicon,,Dodge County,Washington County,6.3,1,0,0,43.35,-88.47,1
+950,43053,2001,6,18,WI,Town of Wood River,Town of Evergreen,Burnett County,Washburn County,34.0,3,16,2,45.78,-92.65,1
+951,43323,2001,8,18,WI,Town of Sumner,Town of Sumner,Trempealeau County,Trempealeau County,0.2,0,0,0,44.55,-91.27,1
+952,43338,2001,8,25,WI,,,Racine County,Racine County,4.5,1,0,0,42.67,-88.0,1
+953,43431,2001,9,6,WI,Town of Schoepke,Town of Schoepke,Oneida County,Oneida County,0.5,0,0,0,45.5,-89.12,1
+954,43437,2001,9,7,WI,Town of Lafayette,Town of Lafayette,Monroe County,Monroe County,0.3,0,1,0,44.05,-90.78,1
+955,43793,2002,4,18,WI,Town of Wilson,Town of Wilson,Lincoln County,Lincoln County,0.1,0,0,0,45.53,-89.78,1
+956,43794,2002,4,18,WI,Town of King,Town of King,Lincoln County,Lincoln County,0.1,0,0,0,45.53,-89.63,1
+957,43795,2002,4,18,WI,Town of Pelican,Town of Pelican,Oneida County,Oneida County,0.1,0,0,0,45.63,-89.33,1
+958,43797,2002,4,18,WI,Town of Catawba,Town of Catawba,Price County,Price County,0.1,0,0,0,45.55,-90.47,1
+959,43803,2002,4,18,WI,Town of Wien,Town of Mosinee,Marathon County,Marathon County,14.0,1,0,0,44.93,-90.02,1
+960,43804,2002,4,18,WI,Town of Mosinee,Town of Mosinee,Marathon County,Marathon County,0.1,0,0,0,44.85,-89.68,1
+961,43936,2002,5,26,WI,Town of Arcadia,Town of Arcadia,Trempealeau County,Trempealeau County,0.1,0,0,0,44.25,-91.52,1
+962,44046,2002,5,6,WI,Town of Wolf River,Town of Winneconne,Winnebago County,Winnebago County,4.0,0,0,0,44.17,-88.78,1
+963,44047,2002,5,6,WI,Town of Oshkosh,Town of Oshkosh,Winnebago County,Winnebago County,0.1,0,0,0,44.1,-88.55,1
+964,44162,2002,6,25,WI,,,Clark County,Clark County,0.3,1,2,0,44.95,-90.32,1
+965,44236,2002,7,30,WI,Town of Harding,Town of Harding,Lincoln County,Lincoln County,1.2,0,0,0,45.28,-89.83,1
+966,44237,2002,7,30,WI,Town of Merrill,Town of Schley,Lincoln County,Lincoln County,9.0,0,0,0,45.25,-89.68,1
+967,44238,2002,7,30,WI,Town of Mosinee,,Marathon County,Marathon County,2.2,0,0,0,44.78,-89.73,1
+968,44239,2002,7,30,WI,Town of Schley,Town of Schley,Lincoln County,Lincoln County,0.1,0,0,0,45.27,-89.57,1
+969,44272,2002,8,13,WI,Town of Sumner,Town of Cold Spring,Jefferson County,Jefferson County,4.5,0,0,0,42.92,-88.88,1
+970,44279,2002,8,21,WI,Town of Oakfield,Town of Lamartine,Fond du Lac County,Fond du Lac County,0.6,0,0,0,43.72,-88.57,1
+971,44382,2002,9,30,WI,Town of Chelsea,Town of Chelsea,Taylor County,Taylor County,0.5,0,0,0,45.27,-90.35,1
+972,44383,2002,9,30,WI,Town of York,Town of York,Clark County,Clark County,0.2,0,0,0,44.63,-90.5,1
+975,44389,2002,9,30,WI,Town of Tomahawk,Town of Wilson,Lincoln County,Lincoln County,3.0,2,0,0,45.47,-89.9,1
+976,44390,2002,9,2,WI,Town of Flambeau,Town of Lawrence,Rusk County,Rusk County,16.0,3,27,0,45.47,-91.13,1
+977,44391,2002,9,2,WI,Town of Aurora,Town of Hammel,Taylor County,Taylor County,17.0,2,0,0,45.18,-90.82,1
+978,44392,2002,9,2,WI,Town of Johnson,Town of Johnson,Marathon County,Marathon County,0.2,0,0,0,45.03,-90.18,1
+979,44393,2002,9,2,WI,,,Marathon County,Marathon County,5.0,1,1,0,45.03,-89.72,1
+980,44394,2002,9,2,WI,Town of Metomen,Town of Metomen,Fond du Lac County,Fond du Lac County,0.1,0,0,0,43.75,-88.77,1
+981,44395,2002,9,2,WI,Town of Empire,Town of Empire,Fond du Lac County,Fond du Lac County,0.3,1,0,0,43.72,-88.37,1
+982,44748,2003,5,10,WI,Town of Seymour,Town of Belmont,Lafayette County,Lafayette County,7.8,1,1,0,42.68,-90.4,1
+983,44751,2003,5,10,WI,Town of Mineral Point,Town of Moscow,Iowa County,Iowa County,8.6,1,0,0,42.85,-90.1,1
+984,44922,2003,5,30,WI,Town of Dunn,,Dane County,Dane County,3.1,0,0,0,42.98,-89.33,1
+985,44923,2003,5,30,WI,Town of Jefferson,Town of Avon,Green County,Rock County,10.1,1,0,0,42.55,-89.5,1
+986,45549,2003,6,8,WI,Town of Utica,Town of Utica,Winnebago County,Winnebago County,0.1,0,0,0,43.98,-88.63,1
+987,45550,2003,6,8,WI,,,Winnebago County,Winnebago County,0.5,0,0,0,43.98,-88.45,1
+988,45551,2003,6,8,WI,,,Calumet County,Calumet County,0.4,0,0,0,43.97,-88.38,1
+989,45552,2003,6,8,WI,Town of Richfield,Town of Richfield,Wood County,Wood County,0.1,0,0,0,44.58,-90.18,1
+990,45553,2003,6,8,WI,Town of Empire,Town of Empire,Fond du Lac County,Fond du Lac County,30.0,0,0,0,43.77,-88.4,1
+991,45709,2003,7,6,WI,Town of Burnett,Town of Burnett,Dodge County,Dodge County,0.1,0,0,0,43.47,-88.65,1
+992,45710,2003,7,6,WI,Kekoskee,Kekoskee,Dodge County,Dodge County,0.1,0,0,0,43.53,-88.58,1
+993,45712,2003,7,6,WI,Town of Kewaskum,Town of Kewaskum,Washington County,Washington County,0.8,1,0,0,43.55,-88.32,1
+994,45713,2003,7,6,WI,Town of Theresa,Town of Theresa,Dodge County,Dodge County,0.1,0,0,0,43.5,-88.42,1
+995,45780,2003,8,3,WI,Town of Rantoul,Town of Rantoul,Calumet County,Calumet County,0.4,1,0,0,44.12,-88.1,1
+996,46161,2004,4,18,WI,Town of Anderson,Town of Anderson,Burnett County,Burnett County,1.0,0,0,0,45.65,-92.75,1
+997,46162,2004,4,18,WI,Town of Trade Lake,Town of West Sweden,Burnett County,Polk County,3.0,0,0,0,45.68,-92.6,1
+998,46455,2004,5,23,WI,Town of Cato,Town of Cato,Manitowoc County,Manitowoc County,0.1,0,0,0,44.15,-87.92,1
+999,46459,2004,5,23,WI,Town of Dunkirk,Town of Fulton,Dane County,Rock County,1.0,0,0,0,42.9,-89.15,1
+1000,46460,2004,5,23,WI,,,Dane County,Dane County,1.3,0,0,0,43.23,-89.32,1
+1001,46461,2004,5,23,WI,Town of Columbus,Town of Columbus,Columbia County,Columbia County,0.1,0,0,0,43.37,-89.08,1
+1002,46945,2004,6,23,WI,Town of Springfield,Town of Albion,Jackson County,Jackson County,5.0,1,0,0,44.33,-91.12,1
+1003,46946,2004,6,23,WI,Town of Albion,Town of Albion,Jackson County,Jackson County,4.0,1,0,0,44.32,-91.03,1
+1004,46947,2004,6,23,WI,Town of Knapp,Town of Lincoln,Jackson County,Monroe County,4.5,1,3,0,44.17,-90.53,1
+1005,46948,2004,6,23,WI,Town of Germantown,Town of New Haven,Juneau County,Adams County,18.0,1,13,0,43.88,-89.98,1
+1006,46950,2004,6,23,WI,Town of Almond,Town of Almond,Portage County,Portage County,1.5,1,0,0,44.3,-89.42,1
+1007,46951,2004,6,23,WI,,,Portage County,Portage County,0.1,0,0,0,44.48,-89.55,1
+1008,46952,2004,6,23,WI,Town of Belmont,Town of Lind,Portage County,Waupaca County,10.0,2,0,0,44.28,-89.25,1
+1009,46953,2004,6,23,WI,Town of Harris,Town of Montello,Marquette County,Marquette County,11.0,2,0,0,43.82,-89.48,1
+1010,46955,2004,6,23,WI,,,Dane County,Dane County,0.1,0,0,0,43.2,-89.37,1
+1011,46957,2004,6,23,WI,Town of Green Lake,Town of Lomira,Green Lake County,Dodge County,33.3,3,0,0,43.72,-89.03,1
+1012,46958,2004,6,23,WI,,,Dane County,Dane County,7.8,1,0,0,43.07,-89.53,1
+1013,46959,2004,6,23,WI,Town of Mackford,Town of Trenton,Green Lake County,Dodge County,7.6,3,1,1,43.67,-88.95,1
+1014,46960,2004,6,23,WI,,,Outagamie County,Outagamie County,3.5,1,0,0,44.28,-88.27,1
+1015,46961,2004,6,23,WI,,,Washington County,Washington County,7.6,1,0,0,43.53,-88.37,1
+1016,46962,2004,6,23,WI,Town of Jackson,Town of Jackson,Washington County,Washington County,0.1,0,0,0,43.37,-88.13,1
+1017,46963,2004,6,23,WI,Town of Cold Spring,,Jefferson County,Walworth County,7.8,1,0,0,42.87,-88.75,1
+1018,46964,2004,6,23,WI,,,Brown County,Brown County,0.1,0,0,0,44.52,-88.02,1
+1019,47062,2004,7,11,WI,Town of Nokomis,Town of Nokomis,Oneida County,Oneida County,0.2,0,0,0,45.58,-89.77,1
+1020,47063,2004,7,11,WI,Town of Cassian,Town of Cassian,Oneida County,Oneida County,0.1,0,0,0,45.7,-89.65,1
+1021,47065,2004,7,11,WI,Town of Birch,Town of Birch,Lincoln County,Lincoln County,0.1,0,0,0,45.35,-89.67,1
+1022,47066,2004,7,11,WI,Town of Wilson,Town of Wilson,Lincoln County,Lincoln County,0.1,0,0,0,45.47,-89.85,1
+1023,47067,2004,7,11,WI,Town of Wilson,Town of Wilson,Lincoln County,Lincoln County,0.1,0,0,0,45.47,-89.85,1
+1024,47068,2004,7,11,WI,Town of Wilson,Town of Wilson,Lincoln County,Lincoln County,0.1,0,0,0,45.47,-89.82,1
+1025,47069,2004,7,11,WI,Town of Watertown,Town of Watertown,Jefferson County,Jefferson County,0.1,0,0,0,43.15,-88.75,1
+1026,47070,2004,7,11,WI,Town of Bristol,Town of Bristol,Dane County,Dane County,0.1,0,0,0,43.25,-89.17,1
+1027,47089,2004,7,13,WI,Town of Cato,Town of Liberty,Manitowoc County,Manitowoc County,4.2,1,0,0,44.1,-87.88,1
+1028,47109,2004,7,16,WI,Town of Dekorra,Town of Lowville,Columbia County,Columbia County,0.5,0,0,0,43.47,-89.33,1
+1029,47155,2004,7,6,WI,Town of Jefferson,Town of Spring Grove,Green County,Green County,2.0,0,0,0,42.57,-89.52,1
+1030,47563,2004,9,5,WI,,Town of Hartland,Pierce County,Pierce County,1.0,0,0,0,44.65,-92.52,1
+1031,47567,2004,9,5,WI,Town of Vance Creek,Town of Vance Creek,Barron County,Barron County,0.3,0,0,0,45.27,-92.1,1
+1032,47958,2005,3,30,WI,,,Dane County,Dane County,0.2,0,0,0,43.18,-89.42,1
+1033,48200,2005,5,6,WI,,,Winnebago County,Fond du Lac County,2.5,0,0,0,43.95,-88.42,1
+1034,48201,2005,5,6,WI,,,Calumet County,Calumet County,0.2,0,0,0,43.95,-88.37,1
+1035,48223,2005,6,10,WI,Town of Mosinee,Town of Mosinee,Marathon County,Marathon County,0.1,0,0,0,44.78,-89.78,1
+1036,48224,2005,6,10,WI,Town of Winneconne,Town of Winneconne,Winnebago County,Winnebago County,0.1,0,0,0,44.13,-88.72,1
+1037,48225,2005,6,10,WI,Town of Larrabee,Town of Larrabee,Waupaca County,Waupaca County,0.1,0,0,0,44.62,-88.78,1
+1038,48233,2005,6,10,WI,,,Winnebago County,Winnebago County,0.1,0,0,0,44.0,-88.48,1
+1039,48234,2005,6,10,WI,,,Winnebago County,Winnebago County,0.1,0,0,0,44.02,-88.48,1
+1040,48235,2005,6,10,WI,,,Winnebago County,Winnebago County,0.1,0,0,0,44.02,-88.48,1
+1041,48238,2005,6,11,WI,Town of Glenwood,Town of Glenwood,Saint Croix County,Saint Croix County,0.3,0,0,0,45.1,-92.27,1
+1042,48239,2005,6,11,WI,,Town of Clear Lake,Polk County,Polk County,2.5,0,0,0,45.25,-92.27,1
+1043,48240,2005,6,11,WI,Town of River Falls,Town of River Falls,Pierce County,Pierce County,1.0,0,0,0,44.82,-92.58,1
+1044,48241,2005,6,11,WI,Town of Clinton,Town of Cumberland,Barron County,Barron County,5.0,1,0,0,45.45,-92.02,1
+1045,48242,2005,6,11,WI,Town of Kinnickinnic,Town of Hammond,Saint Croix County,Saint Croix County,8.0,1,0,0,44.92,-92.55,1
+1046,48243,2005,6,11,WI,,,Saint Croix County,Saint Croix County,0.5,0,0,0,45.12,-92.33,1
+1047,48276,2005,6,13,WI,Town of Cicero,Town of Cicero,Outagamie County,Outagamie County,0.2,0,0,0,44.52,-88.42,1
+1048,48414,2005,6,4,WI,Town of Aurora,Town of Aurora,Waushara County,Waushara County,0.2,0,0,0,44.05,-88.98,1
+1049,48415,2005,6,4,WI,Town of Poy Sippi,Town of Poy Sippi,Waushara County,Waushara County,0.1,0,0,0,44.12,-88.93,1
+1050,48419,2005,6,4,WI,Town of Eaton,Town of Mayville,Clark County,Clark County,17.0,1,0,0,44.73,-90.53,1
+1051,48420,2005,6,4,WI,Town of Wien,Town of Wien,Marathon County,Marathon County,1.2,0,0,0,44.92,-90.05,1
+1052,48421,2005,6,4,WI,Town of Johnson,Town of Bern,Marathon County,Marathon County,1.3,0,0,0,45.03,-90.1,1
+1053,48422,2005,6,4,WI,Town of Medford,Town of Medford,Taylor County,Taylor County,0.2,0,0,0,45.17,-90.4,1
+1054,48425,2005,6,4,WI,Town of Rietbrock,Town of Rietbrock,Marathon County,Marathon County,0.1,0,0,0,44.98,-90.08,1
+1055,48427,2005,6,4,WI,Town of Cassel,Town of Cassel,Marathon County,Marathon County,0.1,0,0,0,44.92,-89.9,1
+1056,48445,2005,6,4,WI,Town of Norrie,Town of Norrie,Marathon County,Marathon County,0.1,0,0,0,44.93,-89.32,1
+1057,48446,2005,6,4,WI,Town of Aurora,Town of Aurora,Taylor County,Taylor County,0.3,0,0,0,45.17,-90.83,1
+1058,48454,2005,6,5,WI,Town of Lake,Town of Lake,Price County,Price County,0.1,0,0,0,45.95,-90.48,1
+1059,48481,2005,6,7,WI,Town of Crystal Lake,Town of Crystal Lake,Barron County,Barron County,1.0,0,0,0,45.48,-92.1,1
+1060,48482,2005,6,7,WI,Town of Clinton,Town of Clinton,Barron County,Barron County,2.0,0,0,0,45.47,-92.03,1
+1061,48484,2005,6,7,WI,Town of Rusk,Town of Rusk,Burnett County,Burnett County,0.1,0,0,0,45.82,-92.08,1
+1062,48488,2005,6,7,WI,Town of Howard,Town of Tilden,Chippewa County,Chippewa County,5.5,0,0,0,45.0,-91.6,1
+1063,48522,2005,6,9,WI,,,Winnebago County,Winnebago County,3.0,0,0,0,43.97,-88.48,1
+1064,48529,2005,6,9,WI,,,Calumet County,Calumet County,0.1,0,0,0,44.1,-88.35,1
+1065,48577,2005,7,25,WI,Town of Lima,Town of Lima,Rock County,Rock County,2.0,1,0,0,42.82,-88.92,1
+1066,48695,2005,8,18,WI,Town of Trempealeau,Town of Trempealeau,Trempealeau County,Trempealeau County,0.1,0,0,0,44.07,-91.55,1
+1067,48696,2005,8,18,WI,Town of Harmony,Town of Jefferson,Vernon County,Vernon County,1.2,1,1,0,43.63,-91.03,1
+1068,48697,2005,8,18,WI,Town of Liberty,Town of Henrietta,Vernon County,Richland County,20.0,2,3,0,43.52,-90.77,1
+1069,48698,2005,8,18,WI,Town of Muscoda,,Grant County,Richland County,4.0,1,0,0,43.18,-90.45,1
+1070,48699,2005,8,18,WI,Town of Oakdale,Town of Necedah,Monroe County,Juneau County,10.0,1,0,0,43.98,-90.42,1
+1071,48700,2005,8,18,WI,Town of Muscoda,Town of Muscoda,Grant County,Grant County,0.1,0,0,0,43.17,-90.47,1
+1072,48701,2005,8,18,WI,Town of Clyde,Town of Spring Green,Iowa County,Sauk County,6.5,1,0,0,43.13,-90.2,1
+1073,48702,2005,8,18,WI,Town of Spring Green,Town of Spring Green,Sauk County,Sauk County,1.9,1,0,0,43.17,-90.08,1
+1074,48703,2005,8,18,WI,Town of Honey Creek,Town of Lodi,Sauk County,Columbia County,14.5,2,0,0,43.37,-89.9,1
+1075,48704,2005,8,18,WI,Town of Springville,Town of Quincy,Adams County,Adams County,0.8,1,0,0,43.78,-89.82,1
+1076,48705,2005,8,18,WI,Town of Merrimac,,Sauk County,Sauk County,1.0,0,0,0,43.37,-89.65,1
+1077,48706,2005,8,18,WI,Town of Newton,Town of Newton,Marquette County,Marquette County,5.5,1,0,0,43.9,-89.47,1
+1078,48707,2005,8,18,WI,Town of Arlington,Town of Arlington,Columbia County,Columbia County,0.1,0,0,0,43.38,-89.48,1
+1079,48708,2005,8,18,WI,,Town of Sumner,Dane County,Jefferson County,18.6,3,23,1,42.92,-89.43,1
+1080,48709,2005,8,18,WI,,,Dane County,Dane County,2.0,0,0,0,43.23,-89.53,1
+1081,48710,2005,8,18,WI,Town of Crystal Lake,Town of Dakota,Marquette County,Waushara County,2.0,0,0,0,43.98,-89.33,1
+1082,48711,2005,8,18,WI,Town of Christiana,Town of Christiana,Dane County,Dane County,1.6,1,0,0,42.95,-89.05,1
+1083,48712,2005,8,18,WI,Town of Sumner,Town of Sumner,Jefferson County,Jefferson County,0.5,0,0,0,42.93,-88.97,1
+1084,48713,2005,8,18,WI,Town of Sumner,Town of Sumner,Jefferson County,Jefferson County,0.7,1,0,0,42.93,-88.95,1
+1085,48714,2005,8,18,WI,Town of Sumner,Town of Sumner,Jefferson County,Jefferson County,1.2,1,0,0,42.93,-88.93,1
+1086,48715,2005,8,18,WI,Town of Koshkonong,,Jefferson County,Jefferson County,1.4,1,0,0,42.92,-88.87,1
+1087,48716,2005,8,18,WI,Town of Mukwa,Town of Mukwa,Waupaca County,Waupaca County,1.2,0,0,0,44.33,-88.78,1
+1088,48717,2005,8,18,WI,Town of Clayton,,Winnebago County,Winnebago County,4.0,0,0,0,44.18,-88.53,1
+1089,48718,2005,8,18,WI,Town of Koshkonong,Town of Koshkonong,Jefferson County,Jefferson County,3.0,1,0,0,42.87,-88.9,1
+1090,48719,2005,8,18,WI,Town of Koshkonong,Town of Koshkonong,Jefferson County,Jefferson County,0.2,0,0,0,42.9,-88.8,1
+1091,48720,2005,8,18,WI,Town of Rockland,Town of Rockland,Brown County,Brown County,1.0,1,0,0,44.37,-88.05,1
+1092,48721,2005,8,18,WI,Town of Newton,,Manitowoc County,,1.5,1,0,0,44.0,-87.72,1
+1093,48808,2005,9,13,WI,Town of Holland,Town of Holland,La Crosse County,La Crosse County,2.0,1,0,0,44.02,-91.25,1
+1094,48811,2005,9,13,WI,,,Brown County,Brown County,1.9,0,0,0,44.45,-88.05,1
+1095,49623,2006,5,24,WI,Town of Richland,Town of Richland,Richland County,Richland County,1.0,0,0,0,43.3,-90.38,1
+1096,49628,2006,5,24,WI,Town of Sumpter,Town of Sumpter,Sauk County,Sauk County,0.1,0,0,0,43.35,-89.75,1
+1097,49753,2006,6,18,WI,Town of Dunkirk,Town of Dunkirk,Dane County,Dane County,0.1,0,0,0,42.88,-89.27,1
+1098,49754,2006,6,18,WI,Town of Rubicon,Town of Hartford,Dodge County,Washington County,5.8,1,1,0,43.32,-88.45,1
+1099,49802,2006,6,24,WI,,,Calumet County,Calumet County,0.1,0,0,0,44.18,-88.35,1
+1100,49828,2006,6,6,WI,,,Iowa County,Iowa County,0.2,0,0,0,43.13,-90.05,1
+1101,49829,2006,6,6,WI,Town of Newport,Town of Dekorra,Columbia County,Columbia County,16.9,1,0,0,43.63,-89.7,1
+1102,49830,2006,6,6,WI,Town of Ridgeway,Town of Brigham,Iowa County,Iowa County,2.7,0,0,0,43.07,-90.03,1
+1103,49831,2006,6,6,WI,Town of Brigham,Town of Brigham,Iowa County,Iowa County,0.5,0,0,0,43.02,-89.93,1
+1104,49895,2006,7,3,WI,,,Fond du Lac County,Fond du Lac County,0.1,0,0,0,43.68,-88.8,1
+1105,49930,2006,8,23,WI,Town of Honey Creek,Town of Honey Creek,Sauk County,Sauk County,0.1,0,0,0,43.3,-89.93,1
+1106,49950,2006,8,26,WI,,,Rock County,Rock County,0.1,0,0,0,42.55,-88.95,1
+1107,50062,2006,9,23,WI,,,Saint Croix County,Saint Croix County,0.1,0,0,0,45.02,-92.62,1
+1108,50161,2007,10,8,WI,Town of Fifield,Town of Fifield,Price County,Price County,0.1,0,0,0,45.88,-90.42,1
+1109,50392,2007,3,31,WI,Town of Potosi,Town of Potosi,Grant County,Grant County,0.25,0,0,0,42.69,-90.68,1
+1110,50662,2007,5,26,WI,Town of Milltown,Town of Milltown,Polk County,Polk County,1.0,0,0,0,45.51,-92.49,1
+1111,50663,2007,5,26,WI,Town of Smelser,Town of Smelser,Grant County,Grant County,0.3,0,0,0,42.62,-90.46,1
+1112,50947,2007,6,1,WI,Town of Monticello,Town of Monticello,Lafayette County,Lafayette County,0.1,0,0,0,42.52,-90.22,1
+1113,50948,2007,6,1,WI,Town of Shullsburg,Town of Shullsburg,Lafayette County,Lafayette County,0.23,0,0,0,42.58,-90.17,1
+1114,50952,2007,6,2,WI,Town of Polk,Town of Polk,Washington County,Washington County,0.01,0,0,0,43.29,-88.19,1
+1115,50963,2007,6,3,WI,Town of Cedarburg,Town of Cedarburg,Ozaukee County,Ozaukee County,0.45,1,0,0,43.34,-88.07,1
+1116,50965,2007,6,3,WI,Town of Potosi,Town of Potosi,Grant County,Grant County,0.25,0,0,0,42.66,-90.69,1
+1117,50967,2007,6,3,WI,,,Grant County,Grant County,0.2,0,0,0,42.68,-90.72,1
+1118,50968,2007,6,3,WI,Town of Potosi,Town of Potosi,Grant County,Grant County,0.25,0,0,0,42.65,-90.68,1
+1119,50974,2007,6,3,WI,Town of Waukechon,Town of Waukechon,Shawano County,Shawano County,0.1,0,0,0,44.76,-88.57,1
+1120,50987,2007,6,7,WI,,,Marathon County,Marathon County,7.3,2,0,0,44.78,-89.48,1
+1121,50989,2007,6,7,WI,Town of Seneca,Town of Seneca,Wood County,Wood County,0.04,0,0,0,44.37,-89.87,1
+1122,50990,2007,6,7,WI,Town of Hutchins,Town of Stephenson,Shawano County,Marinette County,40.0,3,3,0,45.01,-89.0,1
+1123,50991,2007,6,7,WI,Town of Amberg,Town of Amberg,Marinette County,Marinette County,3.0,1,0,0,45.45,-87.99,1
+1124,50993,2007,6,7,WI,Town of Grover,Town of Porterfield,Marinette County,Marinette County,3.6,1,1,0,45.1,-87.89,1
+1125,51163,2007,9,27,WI,,,Racine County,Racine County,0.25,0,0,0,42.77,-88.0,1
+1126,51310,2008,1,7,WI,,,Walworth County,Kenosha County,10.78,3,5,0,42.55,-88.33,1
+1127,51311,2008,1,7,WI,Town of Somers,,Kenosha County,Kenosha County,2.48,1,0,0,42.62,-87.87,1
+1128,51766,2008,4,25,WI,Town of Dekorra,Town of Randolph,Columbia County,Columbia County,21.09,1,0,0,43.46,-89.42,1
+1129,51767,2008,4,25,WI,Town of Pacific,Town of Pacific,Columbia County,Columbia County,0.24,0,0,0,43.48,-89.37,1
+1130,51768,2008,4,25,WI,Town of Randolph,Town of Mackford,Columbia County,Green Lake County,7.08,0,0,0,43.63,-89.07,1
+1131,52111,2008,5,25,WI,,Town of Farmington,Saint Croix County,Saint Croix County,1.06,0,0,0,45.2,-92.76,1
+1132,52114,2008,5,25,WI,Town of New Haven,Town of Vance Creek,Dunn County,Barron County,3.51,0,0,0,45.19,-92.13,1
+1133,52124,2008,5,25,WI,,,Marathon County,Marathon County,0.05,0,0,0,44.74,-89.63,1
+1134,52362,2008,6,12,WI,Town of Lima,,Grant County,,0.25,0,0,0,42.84,-90.51,1
+1135,52365,2008,6,12,WI,Town of Randolph,Town of Randolph,Columbia County,Columbia County,5.34,0,0,0,43.56,-89.12,1
+1136,52366,2008,6,12,WI,Town of Kingston,,Green Lake County,Green Lake County,0.24,0,0,0,43.67,-89.04,1
+1137,52368,2008,6,12,WI,Town of Adams,Town of Adams,Green County,Green County,1.61,1,0,0,42.7,-89.79,1
+1138,52369,2008,6,12,WI,Town of New Glarus,,Green County,Dane County,12.25,1,0,0,42.8,-89.69,1
+1139,52370,2008,6,12,WI,Town of Albany,Town of Brooklyn,Green County,Green County,1.28,0,0,0,42.77,-89.51,1
+1140,52373,2008,6,12,WI,Town of Dunkirk,Town of Christiana,Dane County,Dane County,2.56,0,0,0,42.93,-89.14,1
+1141,52374,2008,6,12,WI,Kekoskee,Town of Theresa,Dodge County,Dodge County,0.09,0,0,0,43.47,-88.53,1
+1142,52567,2008,6,6,WI,Town of Dover,Town of Norway,Racine County,Racine County,3.37,0,0,0,42.72,-88.14,1
+1143,52572,2008,6,7,WI,Town of Woodman,Town of Woodman,Grant County,Grant County,0.1,0,0,0,43.06,-90.9,1
+1144,52573,2008,6,7,WI,Town of New Haven,Town of Douglas,Adams County,Marquette County,5.11,1,0,0,43.69,-89.61,1
+1145,52574,2008,6,7,WI,Town of Wyocena,Town of Courtland,Columbia County,Columbia County,8.63,2,6,0,43.53,-89.26,1
+1146,52575,2008,6,7,WI,Town of Fountain Prairie,Town of Calamus,Columbia County,Dodge County,2.18,0,0,0,43.41,-89.02,1
+1147,52576,2008,6,7,WI,Town of Fountain Prairie,Town of Westford,Columbia County,Dodge County,2.88,1,0,0,43.49,-89.02,1
+1148,52577,2008,6,7,WI,Town of Franklin,Town of Franklin,Sauk County,Sauk County,0.38,0,0,0,43.26,-90.08,1
+1149,52578,2008,6,7,WI,,,Dane County,Dane County,0.45,0,0,0,43.09,-89.16,1
+1150,52579,2008,6,7,WI,Town of Bristol,Town of Bristol,Dane County,Dane County,0.21,0,0,0,43.21,-89.26,1
+1151,52581,2008,6,7,WI,,,Jefferson County,Jefferson County,0.14,0,0,0,43.08,-88.84,1
+1152,52586,2008,6,7,WI,,Town of Pleasant Springs,Dane County,Dane County,3.83,1,0,0,42.92,-89.25,1
+1153,52591,2008,6,7,WI,Town of Eagle,Town of Eagle,Waukesha County,Waukesha County,0.12,0,0,0,42.86,-88.48,1
+1154,52593,2008,6,7,WI,Town of Barre,Town of Bangor,La Crosse County,La Crosse County,6.0,1,0,0,43.84,-91.07,1
+1155,52594,2008,6,7,WI,Town of Franklin,Town of Franklin,Vernon County,Vernon County,0.39,0,0,0,43.48,-90.91,1
+1156,52618,2008,7,10,WI,Town of Kingston,Town of Kingston,Green Lake County,Green Lake County,1.15,1,0,0,43.65,-89.22,1
+1157,52619,2008,7,10,WI,Town of Trenton,Town of Trenton,Dodge County,Dodge County,1.02,1,0,0,43.61,-88.82,1
+1158,52632,2008,7,11,WI,Town of Lincoln,Town of Lincoln,Polk County,Polk County,0.1,0,0,0,45.32,-92.3227,1
+1159,52636,2008,7,16,WI,Town of Sheboygan Falls,Town of Sheboygan Falls,Sheboygan County,Sheboygan County,1.5,1,0,0,43.77,-87.84,1
+1160,52652,2008,7,19,WI,,,Winnebago County,Winnebago County,0.49,1,0,0,44.22,-88.52,1
+1161,52682,2008,7,29,WI,,,Marathon County,,0.1,0,0,0,45.1,-89.69,1
+1162,52683,2008,7,29,WI,,,Lincoln County,Lincoln County,0.24,0,0,0,45.12,-89.43,1
+1163,52684,2008,7,29,WI,Town of Rock,Town of Richfield,Wood County,Wood County,1.57,0,0,0,44.55,-90.2,1
+1164,52701,2008,7,7,WI,Town of Mackford,Town of Mackford,Green Lake County,Green Lake County,1.14,1,0,0,43.64,-88.99,1
+1165,53352,2009,4,26,WI,Town of Harrison,Town of Harrison,Grant County,Grant County,0.13,0,0,0,42.69,-90.63,1
+1166,53775,2009,6,18,WI,Town of Highland,Town of Highland,Iowa County,Iowa County,0.46,0,0,0,43.0644,-90.2818,1
+1167,53776,2009,6,19,WI,Town of Somers,Town of Somers,Kenosha County,Kenosha County,1.23,0,0,0,42.605,-87.9539,1
+1168,53818,2009,6,23,WI,Town of Milton,Town of Milton,Rock County,Rock County,0.84,0,0,0,42.7988,-88.9836,1
+1169,53906,2009,6,8,WI,Town of Mukwonago,,Waukesha County,Waukesha County,3.15,0,0,0,42.86,-88.363,1
+1170,53961,2009,7,24,WI,Town of Seymour,Town of Shullsburg,Lafayette County,Lafayette County,3.36,0,0,0,42.6301,-90.2683,1
+1171,53963,2009,7,24,WI,Town of Shullsburg,Town of White Oak Springs,Lafayette County,Lafayette County,4.16,0,0,0,42.5527,-90.3119,1
+1172,53971,2009,7,27,WI,Town of Utica,Town of Utica,Crawford County,Crawford County,4.04,1,0,0,43.37,-90.93,1
+1173,53972,2009,7,27,WI,,Town of Buffalo,Marquette County,Marquette County,9.56,1,0,0,43.7611,-89.3682,1
+1174,53975,2009,7,27,WI,Town of Wiota,Town of Gratiot,Lafayette County,Lafayette County,0.09,0,0,0,42.6084,-89.991,1
+1175,54058,2009,8,19,WI,Town of Ellsworth,Town of Ellsworth,Pierce County,Pierce County,0.23,0,0,0,44.677,-92.415,1
+1176,54059,2009,8,19,WI,,,Saint Croix County,Saint Croix County,0.39,0,0,0,44.9751,-92.69,1
+1177,54067,2009,8,19,WI,Town of Baldwin,Town of Baldwin,Saint Croix County,Saint Croix County,1.41,0,0,0,45.0585,-92.2979,1
+1178,54071,2009,8,19,WI,Town of New Haven,,Saint Croix County,Saint Croix County,1.66,0,0,0,45.1372,-92.2807,1
+1179,54100,2009,8,8,WI,,Town of Erin Prairie,Saint Croix County,Saint Croix County,5.0,1,0,0,45.0384,-92.675,1
+1180,54101,2009,8,8,WI,Town of Hammond,Town of Hammond,Saint Croix County,Saint Croix County,0.32,0,0,0,45.0265,-92.4661,1
+1181,54145,2010,10,26,WI,Town of Somers,,Racine County,Racine County,0.43,1,0,0,42.6638,-87.8996,1
+1182,54146,2010,10,26,WI,,,Racine County,Racine County,5.4,1,2,0,42.669,-87.8952,1
+1183,54228,2010,11,22,WI,Town of Walworth,Town of Linn,Walworth County,Walworth County,5.33,1,0,0,42.4951,-88.5695,1
+1184,54229,2010,11,22,WI,Town of Dover,Town of Dover,Kenosha County,Racine County,0.87,0,0,0,42.6625,-88.0884,1
+1185,54230,2010,11,22,WI,Town of Dover,,Racine County,Racine County,10.57,1,2,0,42.67,-88.0745,1
+1186,54499,2010,4,30,WI,Town of Berlin,Town of Berlin,Green Lake County,Green Lake County,2.0,1,0,0,43.9245,-88.9129,1
+1187,54501,2010,4,30,WI,Town of Montello,Town of Marquette,Marquette County,Green Lake County,9.12,0,0,0,43.7274,-89.3048,1
+1188,54502,2010,4,30,WI,Town of Buffalo,,Marquette County,Marquette County,6.33,0,0,0,43.7107,-89.2801,1
+1189,54837,2010,5,4,WI,Town of Winchester,Town of Winchester,Winnebago County,Winnebago County,0.7,1,0,0,44.195,-88.738,1
+1190,54838,2010,5,4,WI,Town of Winchester,Town of Clayton,Winnebago County,Winnebago County,3.4,0,0,0,44.17,-88.687,1
+1191,54954,2010,6,17,WI,Town of Grantsburg,Town of Grantsburg,Burnett County,Burnett County,0.77,1,0,0,45.7977,-92.7683,1
+1192,54956,2010,6,17,WI,Town of Grantsburg,Town of Grantsburg,Burnett County,Burnett County,0.31,0,0,0,45.806,-92.752,1
+1193,54957,2010,6,17,WI,Town of Lincoln,Town of Lincoln,Buffalo County,Buffalo County,2.28,1,0,0,44.32,-91.79,1
+1194,54987,2010,6,21,WI,Town of Darlington,Town of Wiota,Lafayette County,Lafayette County,2.22,1,0,0,42.6335,-90.0408,1
+1195,54988,2010,6,21,WI,,,Dane County,Dane County,0.16,1,0,0,43.1145,-89.6479,1
+1196,54992,2010,6,21,WI,Town of Sumner,Town of Sumner,Jefferson County,Jefferson County,1.32,1,0,0,42.898,-88.9835,1
+1197,54993,2010,6,21,WI,Town of Eagle,Town of Mukwonago,Waukesha County,Waukesha County,5.22,2,15,0,42.8679,-88.5031,1
+1198,54994,2010,6,21,WI,,,Waukesha County,Waukesha County,5.89,1,0,0,42.9102,-88.2148,1
+1199,55010,2010,6,23,WI,Town of Clayton,Town of Clayton,Crawford County,Crawford County,3.86,0,0,0,43.3361,-90.8286,1
+1200,55059,2010,6,27,WI,,,Racine County,Racine County,4.6,1,1,0,42.7031,-87.9153,1
+1201,55190,2010,7,14,WI,Town of Hammond,Town of Hammond,Saint Croix County,Saint Croix County,2.54,1,0,0,44.9837,-92.481,1
+1202,55194,2010,7,14,WI,,Town of Spring Lake,Pierce County,Pierce County,15.2,2,0,0,44.7705,-92.5756,1
+1203,55195,2010,7,14,WI,Town of Tiffany,Town of Tiffany,Dunn County,Dunn County,0.59,0,0,0,45.0532,-92.0812,1
+1204,55196,2010,7,14,WI,,Town of Spring Lake,Pierce County,Pierce County,6.1,2,0,0,44.7611,-92.3459,1
+1205,55197,2010,7,14,WI,Town of Garden Valley,Town of Sherwood,Jackson County,Clark County,30.77,1,0,0,44.4744,-90.9744,1
+1206,55198,2010,7,14,WI,Town of Hiles,Town of Hiles,Wood County,Wood County,0.26,0,0,0,44.411,-90.218,1
+1207,55212,2010,7,18,WI,,Town of Mosel,Sheboygan County,Sheboygan County,3.31,0,0,0,43.842,-87.8227,1
+1208,55233,2010,7,22,WI,,,Dane County,Dane County,1.53,1,0,0,43.2664,-89.5225,1
+1209,55234,2010,7,22,WI,Town of York,Town of York,Dane County,Dane County,3.0,0,0,0,43.2717,-89.0686,1
+1210,55236,2010,7,22,WI,Town of Medina,Town of Waterloo,Dane County,Jefferson County,5.74,0,0,0,43.1359,-89.0135,1
+1211,55237,2010,7,22,WI,,,Jefferson County,Jefferson County,0.1,0,0,0,43.058,-88.6484,1
+1212,55239,2010,7,22,WI,Town of Dunkirk,,Dane County,Dane County,4.18,1,0,0,42.8883,-89.1618,1
+1213,55240,2010,7,22,WI,Town of Koshkonong,Town of Koshkonong,Jefferson County,Jefferson County,2.77,0,0,0,42.8462,-88.9164,1
+1214,55242,2010,7,22,WI,Town of Koshkonong,Town of Cold Spring,Jefferson County,Jefferson County,3.9,0,0,0,42.8582,-88.8007,1
+1215,55243,2010,7,22,WI,Town of Blue Mounds,Town of Springdale,Dane County,Dane County,1.46,1,0,0,42.975,-89.7288,1
+1216,55244,2010,7,22,WI,,,Waukesha County,Waukesha County,1.0,2,0,0,42.8647,-88.2004,1
+1217,55245,2010,7,22,WI,,,Dane County,Dane County,0.22,0,0,0,42.9783,-89.5225,1
+1218,55278,2010,7,27,WI,Town of Gordon,Town of Gordon,Ashland County,Ashland County,0.93,2,0,0,46.2272,-90.63,1
+1219,55279,2010,7,27,WI,Town of Agenda,Town of Knight,Ashland County,Iron County,1.92,0,0,0,46.1,-90.38,1
+1220,55280,2010,7,27,WI,,,Polk County,Polk County,0.75,0,0,0,45.4534,-92.4615,1
+1221,55281,2010,7,27,WI,Town of Sherman,Town of Sherman,Iron County,Iron County,4.79,1,3,0,46.08,-90.22,1
+1222,55282,2010,7,27,WI,Town of Beaver,Town of Almena,Polk County,Barron County,3.35,1,0,0,45.4161,-92.1798,1
+1223,55283,2010,7,27,WI,Town of Prairie Lake,Town of Chetek,Barron County,Barron County,4.5,1,0,0,45.371,-91.7211,1
+1224,55309,2010,7,7,WI,Town of Springvale,Town of Courtland,Columbia County,Columbia County,4.23,1,0,0,43.5201,-89.1437,1
+1225,55338,2010,8,20,WI,Town of Wrightstown,Town of Wrightstown,Brown County,Brown County,1.28,1,0,0,44.2965,-88.078,1
+1226,55364,2010,8,7,WI,Town of Bone Lake,Town of Georgetown,Polk County,Polk County,2.77,0,1,0,45.5814,-92.3758,1
+1227,55365,2010,8,7,WI,Town of Lakeland,Town of Lakeland,Barron County,Barron County,3.18,1,0,0,45.5865,-91.9767,1
+1228,55399,2010,9,21,WI,,,Rock County,Rock County,0.42,0,0,0,42.562,-89.011,1
+1229,55674,2011,4,10,WI,Town of Otter Creek,Town of Otter Creek,Eau Claire County,Eau Claire County,1.58,1,0,0,44.63,-91.19,1
+1230,55675,2011,4,10,WI,Town of Bridge Creek,Town of Bridge Creek,Eau Claire County,Eau Claire County,0.74,1,0,0,44.69,-91.14,1
+1231,55676,2011,4,10,WI,Town of Hamburg,Town of Schley,Marathon County,Lincoln County,21.15,3,2,0,45.1113,-89.8858,1
+1232,55677,2011,4,10,WI,Town of Strongs Prairie,Town of Colburn,Adams County,Adams County,17.08,2,0,0,44.0216,-89.9549,1
+1233,55678,2011,4,10,WI,Town of Necedah,Town of Necedah,Juneau County,Juneau County,4.37,1,0,0,43.9954,-90.0936,1
+1234,55679,2011,4,10,WI,Town of Colburn,Town of Deerfield,Adams County,Waushara County,11.73,1,0,0,44.0754,-89.6184,1
+1235,55680,2011,4,10,WI,Town of Summit,Town of Parrish,Langlade County,Langlade County,5.3,1,0,0,45.3496,-89.3822,1
+1236,55681,2011,4,10,WI,Town of Springwater,Town of Hortonia,Waushara County,Outagamie County,27.68,1,0,0,44.1687,-89.1356,1
+1237,55682,2011,4,10,WI,Town of Argonne,,Forest County,Florence County,11.97,2,0,0,45.6386,-88.8233,1
+1238,55683,2011,4,10,WI,Town of Leon,Town of Winchester,Waushara County,Winnebago County,14.93,1,0,0,44.1327,-89.0045,1
+1239,55684,2011,4,10,WI,Town of Armstrong Creek,Town of Armstrong Creek,Forest County,Forest County,3.29,1,0,0,45.65,-88.5253,1
+1240,55685,2011,4,10,WI,Town of Berlin,Town of Berlin,Green Lake County,Green Lake County,1.83,0,0,0,43.9198,-88.913,1
+1241,55686,2011,4,10,WI,,,Outagamie County,Outagamie County,1.52,2,0,0,44.2578,-88.2881,1
+1242,55687,2011,4,10,WI,Town of Holland,Town of Wrightstown,Brown County,Brown County,1.2,1,0,0,44.2851,-88.1098,1
+1243,55688,2011,4,10,WI,Town of Stockbridge,Town of Stockbridge,Calumet County,Calumet County,1.67,1,0,0,44.0378,-88.3214,1
+1244,56561,2011,5,22,WI,Town of Flambeau,Town of Flambeau,Price County,Price County,3.29,1,0,0,45.777,-90.645,1
+1245,56572,2011,5,22,WI,Town of Cedar Lake,Town of Cedar Lake,Barron County,Barron County,1.98,1,0,0,45.6088,-91.6253,1
+1246,56577,2011,5,22,WI,,,La Crosse County,La Crosse County,3.35,2,0,0,43.7882,-91.2585,1
+1247,56579,2011,5,22,WI,Town of Bangor,,La Crosse County,Monroe County,8.18,1,0,0,43.89,-90.9351,1
+1248,56581,2011,5,22,WI,Town of Greenfield,Town of Buena Vista,Monroe County,Portage County,64.5,2,1,0,44.0429,-90.5657,1
+1249,56583,2011,5,22,WI,Town of Prentice,Town of Hackett,Price County,Price County,1.15,0,0,0,45.538,-90.4,1
+1250,56584,2011,5,22,WI,Town of Hackett,Town of Hackett,Price County,Price County,1.12,0,0,0,45.608,-90.333,1
+1251,56585,2011,5,22,WI,Town of Emery,Town of Emery,Price County,Price County,2.14,0,0,0,45.675,-90.256,1
+1252,56589,2011,5,22,WI,Town of Emery,Town of Emery,Price County,Price County,0.8,0,0,0,45.85,-90.076,1
+1253,56601,2011,5,22,WI,Town of Kingston,Town of Kingston,Green Lake County,Green Lake County,0.36,0,0,0,43.6582,-89.1851,1
+1254,56602,2011,5,22,WI,,Town of Green Lake,Green Lake County,Green Lake County,4.21,0,0,0,43.7153,-88.9926,1
+1255,56882,2011,6,19,WI,Town of Herman,Town of Herman,Dodge County,Dodge County,0.1,0,0,0,43.4497,-88.4407,1
+1256,56929,2011,6,21,WI,,Town of Mackford,Fond du Lac County,Green Lake County,2.61,1,0,0,43.6676,-88.8658,1
+1257,56930,2011,6,21,WI,Town of Mackford,Town of Green Lake,Green Lake County,Green Lake County,2.16,1,0,0,43.7028,-88.8852,1
+1258,56931,2011,6,21,WI,Town of Metomen,Town of Green Lake,Fond du Lac County,Green Lake County,0.87,1,0,0,43.7711,-88.8848,1
+1259,56932,2011,6,21,WI,Town of Green Lake,Town of Green Lake,Green Lake County,Green Lake County,1.64,1,0,0,43.7837,-88.8856,1
+1260,56984,2011,6,8,WI,,,Dane County,Dane County,17.15,0,0,0,42.98,-89.584,1
+1261,57029,2011,7,19,WI,Town of Johnstown,Town of Johnstown,Polk County,Polk County,0.87,0,0,0,45.5276,-92.2175,1
+1262,57067,2011,7,1,WI,Town of Solon Springs,Town of Solon Springs,Douglas County,Douglas County,2.93,2,0,0,46.3154,-91.8745,1
+1263,57111,2011,8,19,WI,Town of Wausaukee,Town of Wausaukee,Marinette County,Marinette County,7.9,1,0,1,45.4026,-87.987,1
+1264,57112,2011,8,19,WI,Town of Wausaukee,Town of Wagner,Marinette County,Marinette County,6.03,1,0,1,45.4026,-87.987,1
+1265,57114,2011,8,19,WI,Town of Wagner,Town of Wausaukee,Marinette County,Marinette County,1.58,0,0,0,45.3515,-87.8798,1
+1266,57118,2011,8,23,WI,Town of York,Town of Fremont,Clark County,Clark County,7.61,2,2,0,44.6875,-90.4707,1
+1267,57119,2011,8,23,WI,Town of Arpin,Town of Arpin,Wood County,Wood County,0.01,0,0,0,44.553,-90.0331,1
+1268,57120,2011,8,23,WI,Town of Seymour,Town of Seymour,Outagamie County,Outagamie County,0.23,0,0,0,44.5895,-88.4096,1
+1269,57121,2011,8,23,WI,,Town of Woodville,Calumet County,Calumet County,0.5,0,0,0,44.1826,-88.2541,1
+1270,57147,2011,8,8,WI,,,Dane County,Dane County,1.21,0,0,0,43.0672,-89.3659,1
+1271,57855,2012,5,24,WI,Town of Mosinee,,Marathon County,Marathon County,5.94,0,0,0,44.8689,-89.8053,1
+1272,57873,2012,5,27,WI,Town of Luck,Town of Luck,Polk County,Polk County,0.19,0,0,0,45.5922,-92.4596,1
+1273,58119,2012,8,9,WI,,,Douglas County,Douglas County,0.05,0,0,0,46.72,-92.05,1
+1274,58156,2012,9,4,WI,Town of Bloomington,Town of Bloomington,Grant County,Grant County,0.72,2,0,0,42.9089,-90.995,1
+1275,58226,2013,10,5,WI,Town of Moundville,Town of Moundville,Marquette County,Marquette County,1.78,0,0,0,43.7,-89.477,1
+1277,58911,2013,6,22,WI,Town of Leeds,Town of Otsego,Columbia County,Columbia County,3.22,1,0,0,43.3587,-89.3523,1
+1278,58988,2013,7,22,WI,Town of Otter Creek,Town of Otter Creek,Eau Claire County,Eau Claire County,0.29,0,0,0,44.662,-91.2045,1
+1279,58989,2013,7,22,WI,Town of Trempealeau,Town of Trempealeau,Trempealeau County,Trempealeau County,1.1,0,0,0,44.0418,-91.5535,1
+1280,59024,2013,7,9,WI,Town of Merrill,Town of Merrill,Lincoln County,Lincoln County,4.1,0,0,0,45.285,-89.692,1
+1281,59025,2013,7,9,WI,Town of Schley,Town of Peck,Lincoln County,Langlade County,9.52,0,0,0,45.264,-89.425,1
+1282,59031,2013,7,9,WI,Town of Pine Grove,Town of Pine Grove,Portage County,Portage County,0.16,0,0,0,44.259,-89.529,1
+1283,59032,2013,7,9,WI,Town of Little River,Town of Little River,Oconto County,Oconto County,1.58,0,0,0,44.942,-87.857,1
+1284,59042,2013,8,21,WI,Town of Goetz,Town of Goetz,Chippewa County,Chippewa County,1.2,0,0,0,44.9712,-91.2342,1
+1285,59068,2013,8,6,WI,Town of Mukwa,,Waupaca County,Outagamie County,9.79,1,2,0,44.349,-88.838,1
+1286,59069,2013,8,6,WI,Town of Mukwa,,Waupaca County,Outagamie County,13.07,2,0,0,44.383,-88.774,1
+1287,59070,2013,8,6,WI,Town of Center,Town of Wrightstown,Outagamie County,Brown County,19.15,1,0,0,44.345,-88.415,1
+1288,59071,2013,8,6,WI,Town of Grand Chute,Town of Brillion,Outagamie County,Calumet County,20.69,1,0,0,44.298,-88.46,1
+1289,59072,2013,8,6,WI,Town of Osborn,Town of Gibson,Outagamie County,Manitowoc County,33.1,1,0,0,44.371,-88.374,1
+1290,59073,2013,8,7,WI,Town of Eaton,Town of Franklin,Brown County,Kewaunee County,5.57,1,0,0,44.424,-87.775,1
+1291,59602,2014,6,16,WI,Town of Platteville,Town of Platteville,Grant County,Grant County,3.76,2,5,0,42.7376,-90.5188,1
+1292,59603,2014,6,16,WI,,,Grant County,Grant County,0.49,1,0,0,42.7521,-90.4731,1
+1293,59604,2014,6,16,WI,Town of Belmont,Town of Kendall,Lafayette County,Lafayette County,4.35,1,0,0,42.8054,-90.3731,1
+1294,59605,2014,6,16,WI,Town of Belmont,,Lafayette County,Iowa County,1.17,1,0,0,42.8119,-90.3672,1
+1295,59606,2014,6,16,WI,Town of Linden,Town of Linden,Iowa County,Iowa County,0.41,1,0,0,42.8208,-90.2636,1
+1296,59607,2014,6,16,WI,Town of York,Town of York,Green County,Green County,0.51,1,0,0,42.825,-89.7828,1
+1297,59608,2014,6,16,WI,Town of York,Town of York,Green County,Green County,0.4,1,0,0,42.8157,-89.7947,1
+1298,59609,2014,6,16,WI,,,Dane County,Dane County,0.96,3,0,0,43.0024,-89.5579,1
+1299,59610,2014,6,16,WI,,,Dane County,Dane County,0.22,2,0,0,43.0431,-89.4799,1
+1300,59611,2014,6,16,WI,,,Dane County,Dane County,1.49,1,0,0,43.0772,-89.3696,1
+1301,59612,2014,6,17,WI,,Town of Jefferson,Green County,Green County,6.78,1,0,0,42.5323,-89.6119,1
+1302,59632,2014,6,18,WI,Town of Black Earth,Town of Black Earth,Dane County,Dane County,0.16,0,0,0,43.1564,-89.7122,1
+1303,59684,2014,6,25,WI,Town of Albany,Town of Albany,Green County,Green County,0.33,0,0,0,42.74,-89.44,1
+1304,59693,2014,6,27,WI,Town of Elk Mound,Town of Colfax,Dunn County,Dunn County,7.02,1,0,0,44.9294,-91.7668,1
+1305,59707,2014,6,29,WI,Town of Fennimore,Town of Wingville,Grant County,Grant County,8.18,1,0,0,42.9988,-90.6404,1
+1306,59708,2014,6,29,WI,Town of Highland,Town of Arena,Iowa County,Iowa County,29.07,2,0,0,43.0123,-90.4216,1
+1307,59709,2014,6,29,WI,Town of Linden,Town of Dodgeville,Iowa County,Iowa County,5.05,2,0,0,42.9705,-90.2243,1
+1308,59711,2014,6,29,WI,,Town of Dunn,Dane County,Dane County,2.32,1,0,0,42.9541,-89.3773,1
+1309,59881,2014,7,27,WI,Town of Black Wolf,Town of Black Wolf,Winnebago County,Winnebago County,0.01,0,0,0,43.948,-88.495,1
+1310,59916,2014,7,7,WI,,Town of Clifton,Washington County,Pierce County,1.29,0,0,0,44.7987,-92.7831,1
+1311,59931,2014,8,11,WI,,,Ashland County,Ashland County,0.05,0,0,0,46.5843,-90.9227,1
+1312,59941,2014,8,18,WI,Town of Clayton,Town of Clayton,Winnebago County,Winnebago County,2.06,0,0,0,44.2299,-88.6176,1
+1313,60565,2015,5,17,WI,Town of Bartelme,,Shawano County,Shawano County,4.84,0,0,0,44.8705,-88.85,1
+1314,60686,2015,5,26,WI,Town of Washington,Town of Washington,Green County,Green County,0.05,0,0,0,42.7004,-89.6461,1
+1315,60862,2015,6,15,WI,Town of Glenmore,Town of Glenmore,Brown County,Brown County,0.35,0,0,0,44.399,-87.943,1
+1316,60869,2015,6,17,WI,Town of Hay River,Town of Hay River,Dunn County,Dunn County,0.21,0,0,0,45.0629,-91.9894,1
+1317,60871,2015,6,17,WI,Town of Black Brook,Town of Black Brook,Polk County,Polk County,0.1,0,0,0,45.2592,-92.3985,1
+1318,60915,2015,6,22,WI,Town of Marietta,Town of Marietta,Crawford County,Crawford County,1.32,0,0,0,43.1375,-90.8889,1
+1319,60916,2015,6,22,WI,Town of Scott,Town of Richwood,Crawford County,Richland County,7.39,0,0,0,43.213,-90.6927,1
+1320,61058,2015,7,13,WI,,,Richland County,Richland County,0.05,0,0,0,43.1812,-90.1957,1
+1321,61091,2015,7,18,WI,,Town of Dunn,Dunn County,Dunn County,5.25,1,0,0,44.7077,-92.0214,1
+1322,61095,2015,7,18,WI,,Town of Darien,Rock County,Walworth County,4.94,1,0,0,42.709,-88.8132,1
+1323,61129,2015,7,6,WI,Town of Dupont,Town of Dupont,Waupaca County,Waupaca County,0.75,1,0,0,44.6627,-88.9492,1
+1324,61130,2015,7,6,WI,Town of Pella,Town of Pella,Shawano County,Shawano County,0.08,0,0,0,44.7278,-88.7579,1
+1325,61134,2015,7,6,WI,Town of Gillett,Town of Gillett,Oconto County,Oconto County,2.25,0,0,0,44.8949,-88.2802,1
+1326,61155,2015,8,10,WI,,,Washington County,Washington County,0.98,0,0,0,43.2454,-88.0798,1
+1327,61170,2015,8,18,WI,,Town of Geneva,Walworth County,Walworth County,4.93,1,0,0,42.5881,-88.4311,1
+1328,61171,2015,8,18,WI,Town of Waterford,,Racine County,Waukesha County,2.47,1,0,0,42.832,-88.2669,1
+1329,61172,2015,8,18,WI,,,Waukesha County,Waukesha County,0.64,0,0,0,42.9785,-88.2559,1
+1330,61806,2016,5,27,WI,,Town of Metomen,Fond du Lac County,Fond du Lac County,4.5,1,0,0,43.7294,-88.7834,1
+1331,61880,2016,6,10,WI,Town of Center,Town of Grand Chute,Outagamie County,Outagamie County,1.42,0,0,0,44.3395,-88.4412,1
+1332,61903,2016,6,15,WI,Town of Stockbridge,Town of Stockbridge,Calumet County,Calumet County,0.69,-9,0,0,44.1085,-88.3383,1
+1333,61943,2016,6,26,WI,Town of Lebanon,Town of Lebanon,Waupaca County,Waupaca County,2.7,1,0,0,44.4902,-88.8254,1
+1334,61952,2016,6,30,WI,Town of Rietbrock,Town of Rietbrock,Marathon County,Marathon County,0.01,0,0,0,44.9746,-89.995,1
+1335,61962,2016,6,4,WI,Town of Wescott,Town of Wescott,Shawano County,Shawano County,0.01,0,0,0,44.83,-88.5096,1
+1336,61973,2016,7,11,WI,Town of Oma,Erwin Township,Iron County,Gogebic County,2.25,1,0,0,46.3618,-90.1578,1
+1337,61974,2016,7,11,WI,Town of Oma,Town of Oma,Iron County,Iron County,1.4,1,0,0,46.3618,-90.1578,1
+1338,61977,2016,7,12,WI,Town of Eagle Point,Town of Eagle Point,Chippewa County,Chippewa County,0.53,0,0,0,44.994,-91.37,1
+1339,62022,2016,7,27,WI,Town of Sioux Creek,Town of Sioux Creek,Barron County,Barron County,0.2,0,0,0,45.266,-91.6674,1
+1340,62048,2016,7,5,WI,Town of Rock Elm,Town of Union,Pierce County,Pierce County,0.33,0,0,0,44.6871,-92.2244,1
+1341,62049,2016,7,5,WI,Town of Frankfort,Town of Frankfort,Pepin County,Pepin County,3.31,1,0,0,44.566,-92.105,1
+1342,62050,2016,7,5,WI,Town of Lincoln,Town of Lincoln,Buffalo County,Buffalo County,0.74,1,0,0,44.3389,-91.7889,1
+1343,62051,2016,7,5,WI,Town of Lincoln,Town of Lincoln,Buffalo County,Buffalo County,0.45,1,0,0,44.3315,-91.7228,1
+1344,62052,2016,7,5,WI,Town of Sterling,Town of Sterling,Vernon County,Vernon County,0.83,0,0,0,43.4439,-91.0941,1
+1345,62103,2016,8,20,WI,,,Kewaunee County,Kewaunee County,0.7,0,0,0,44.4514,-87.5222,1
+1346,62161,2016,8,4,WI,Town of Hull,Town of Frankfort,Marathon County,Marathon County,4.35,1,0,0,44.916,-90.207,1
+1347,62264,2017,10,7,WI,,,Dane County,Dane County,9.7,0,0,0,43.0905,-89.3565,1
+1348,62700,2017,3,6,WI,Town of Barre,Town of Hamilton,La Crosse County,La Crosse County,2.6,1,0,0,43.8564,-91.1172,1
+1349,62978,2017,4,9,WI,Town of Stettin,Town of Stettin,Marathon County,Marathon County,0.44,1,0,0,44.979,-89.741,1
+1350,63014,2017,5,16,WI,Town of Clear Lake,Town of Ogema,Polk County,Price County,82.53,3,25,1,45.2529,-92.1619,1
+1351,63029,2017,5,16,WI,Town of Enterprise,Town of Parrish,Oneida County,Langlade County,0.33,0,0,0,45.4706,-89.3634,1
+1352,63038,2017,5,17,WI,Town of Gale,Town of Gale,Trempealeau County,Trempealeau County,1.06,1,0,0,44.0965,-91.192,1
+1353,63291,2017,6,12,WI,Town of Osceola,Town of Osceola,Fond du Lac County,Fond du Lac County,2.13,0,0,0,43.6604,-88.2283,1
+1354,63315,2017,6,14,WI,,,Shawano County,Shawano County,0.1,0,0,0,44.869,-88.749,1
+1355,63316,2017,6,14,WI,Town of Springwater,Town of Springwater,Waushara County,Waushara County,2.78,1,0,0,44.196,-89.207,1
+1356,63317,2017,6,14,WI,,Town of Grand Chute,Winnebago County,Outagamie County,8.02,1,0,0,44.236,-88.423,1
+1357,63318,2017,6,14,WI,Town of Grand Chute,Town of Center,Outagamie County,Outagamie County,2.83,0,0,0,44.31,-88.44,1
+1358,63319,2017,6,14,WI,Town of Deer Creek,Town of Maine,Outagamie County,Outagamie County,3.99,0,0,0,44.5479,-88.6628,1
+1359,63320,2017,6,14,WI,Town of Maine,Town of Lessor,Outagamie County,Shawano County,3.98,1,0,0,44.571,-88.509,1
+1360,63321,2017,6,14,WI,Town of Seymour,Town of Lessor,Outagamie County,Shawano County,5.08,1,0,0,44.5908,-88.4033,1
+1361,63322,2017,6,14,WI,Town of Maple Grove,Town of Angelica,Shawano County,Shawano County,5.8,1,0,0,44.647,-88.287,1
+1362,63323,2017,6,14,WI,Town of Morrison,Town of Morrison,Brown County,Brown County,1.21,0,0,0,44.29,-88.0,1
+1363,63324,2017,6,14,WI,Town of Maple Grove,Town of Angelica,Shawano County,Shawano County,3.05,0,0,0,44.646,-88.363,1
+1364,63378,2017,6,28,WI,Town of River Falls,Town of Gilman,Pierce County,Pierce County,11.35,1,0,0,44.8244,-92.4892,1
+1365,63381,2017,6,28,WI,Town of Daniels,Town of Siren,Burnett County,Burnett County,2.2,1,0,0,45.762,-92.426,1
+1366,63389,2017,6,28,WI,Town of Washington,Town of Washington,Green County,Green County,0.57,1,0,0,42.703,-89.621,1
+1367,63390,2017,6,28,WI,Town of Monroe,Town of Mount Pleasant,Green County,Green County,2.21,1,0,0,42.666,-89.621,1
+1368,63394,2017,6,28,WI,Town of Janesville,Town of Janesville,Rock County,Rock County,0.79,0,0,0,42.6865,-89.0993,1
+1369,63454,2017,7,12,WI,Town of Stockton,Town of Stockton,Portage County,Portage County,0.73,0,0,0,44.4884,-89.4276,1
+1370,63766,2018,10,3,WI,Town of Hutchins,Town of Hutchins,Shawano County,Shawano County,0.99,0,0,0,44.9865,-89.0458,1
+1371,64384,2018,5,9,WI,Town of Fennimore,Town of Hickory Grove,Grant County,Grant County,1.55,0,0,0,43.0307,-90.6464,1
+1372,64385,2018,5,9,WI,,,Washington County,Washington County,5.22,0,0,0,43.2091,-88.3449,1
+1373,64406,2018,6,16,WI,Town of Dekorra,Town of Dekorra,Columbia County,Columbia County,0.14,0,0,0,43.4359,-89.3507,1
+1374,64460,2018,6,26,WI,Town of Smelser,Town of Smelser,Grant County,Grant County,0.09,0,0,0,42.62,-90.51,1
+1375,64461,2018,6,26,WI,Town of Belmont,Town of Belmont,Lafayette County,Lafayette County,0.5,0,0,0,42.7752,-90.4105,1
+1376,64464,2018,6,26,WI,Town of Argyle,Town of Argyle,Lafayette County,Lafayette County,1.79,0,0,0,42.6984,-89.8875,1
+1377,64577,2018,7,20,WI,Town of Dakota,Town of Dakota,Waushara County,Waushara County,0.08,0,0,0,44.0624,-89.2517,1
+1378,64659,2018,8,20,WI,,,Walworth County,Walworth County,0.7,0,0,0,42.6275,-88.6283,1
+1379,64668,2018,8,27,WI,Town of La Grange,Town of Byron,Monroe County,Monroe County,5.12,1,0,0,44.0288,-90.4787,1
+1380,64669,2018,8,28,WI,Town of Douglas,Town of Oxford,Marquette County,Marquette County,0.65,1,0,0,43.7691,-89.5827,1
+1381,64670,2018,8,28,WI,,,Marquette County,Marquette County,1.78,1,0,0,43.7531,-89.4279,1
+1382,64671,2018,8,28,WI,Town of Marquette,Town of Marquette,Green Lake County,Green Lake County,3.12,1,0,0,43.7393,-89.2448,1
+1383,64672,2018,8,28,WI,Town of Marquette,Town of Marquette,Green Lake County,Green Lake County,2.09,0,0,0,43.7421,-89.0904,1
+1384,64673,2018,8,28,WI,Town of Metomen,Town of Waupun,Fond du Lac County,Fond du Lac County,4.57,1,0,0,43.6946,-88.8448,1
+1385,64674,2018,8,28,WI,Town of Waupun,Town of Waupun,Fond du Lac County,Fond du Lac County,0.62,0,0,0,43.7044,-88.7147,1
+1386,64675,2018,8,28,WI,Town of Waupun,Town of Oakfield,Fond du Lac County,Fond du Lac County,4.44,1,0,0,43.6823,-88.6637,1
+1387,64676,2018,8,28,WI,Town of Oakfield,Town of Oakfield,Fond du Lac County,Fond du Lac County,0.14,0,0,0,43.6395,-88.5528,1
+1388,64677,2018,8,28,WI,Town of Oakfield,,Fond du Lac County,Fond du Lac County,0.92,1,0,0,43.6397,-88.5031,1
+1389,64678,2018,8,28,WI,Town of Oakfield,Town of Oakfield,Fond du Lac County,Fond du Lac County,0.15,1,0,0,43.639,-88.4876,1
+1390,64679,2018,8,28,WI,Town of Lomira,Town of Oakfield,Dodge County,Fond du Lac County,3.91,2,0,0,43.6153,-88.5222,1
+1391,64680,2018,8,28,WI,Town of Lomira,Town of Lomira,Dodge County,Dodge County,2.68,1,0,0,43.6129,-88.4999,1
+1392,64681,2018,8,28,WI,Town of Eden,Town of Eden,Fond du Lac County,Fond du Lac County,2.83,1,0,0,43.6386,-88.4267,1
+1393,64682,2018,8,28,WI,Town of Eden,Town of Osceola,Fond du Lac County,Fond du Lac County,4.47,1,0,0,43.6579,-88.3394,1
+1394,64683,2018,8,28,WI,Town of Forest,Town of Osceola,Fond du Lac County,Fond du Lac County,4.01,1,0,0,43.7299,-88.25,1
+1395,64684,2018,8,28,WI,Town of Osceola,Town of Mitchell,Fond du Lac County,Sheboygan County,0.04,0,0,0,43.656,-88.1609,1
+1396,64685,2018,8,28,WI,Town of Schleswig,Town of Schleswig,Manitowoc County,Manitowoc County,0.98,1,0,0,43.951,-88.0424,1
+1397,64686,2018,8,28,WI,Town of Mitchell,Town of Lyndon,Sheboygan County,Sheboygan County,5.33,1,0,0,43.7012,-88.106,1
+1398,64687,2018,8,28,WI,Town of Wilson,Town of Wilson,Sheboygan County,Sheboygan County,0.3,0,0,0,43.6755,-87.7394,1
+1399,64710,2018,8,7,WI,Town of Anderson,Town of Anderson,Burnett County,Burnett County,0.01,0,0,0,45.71,-92.77,1
+1400,64714,2018,8,9,WI,Town of Deerfield,Town of Deerfield,Dane County,Dane County,0.7,0,0,0,43.058,-89.0775,1
+1401,64789,2018,9,20,WI,,,Pierce County,Pierce County,0.63,0,0,0,44.6433,-92.6262,1
+1402,64790,2018,9,20,WI,,Town of Ellsworth,Pierce County,Pierce County,1.67,0,0,0,44.7318,-92.4738,1
+1403,64889,2019,10,1,WI,Town of Sumner,Town of Koshkonong,Jefferson County,Jefferson County,7.14,0,0,0,42.9327,-88.9677,1
+1404,64890,2019,10,1,WI,Town of Sullivan,Town of Genesee,Jefferson County,Waukesha County,12.83,1,0,0,42.9935,-88.6273,1
+1405,65641,2019,5,24,WI,Town of Hamburg,Town of Hamburg,Vernon County,Vernon County,0.15,0,0,0,43.7224,-91.0805,1
+1406,65949,2019,6,14,WI,Town of Kennan,Town of Ogema,Price County,Price County,17.4,0,0,0,45.55,-90.67,1
+1407,66132,2019,7,16,WI,Town of Plainfield,Town of Plainfield,Waushara County,Waushara County,0.15,0,0,0,44.1736,-89.4987,1
+1408,66145,2019,7,18,WI,Town of Gordon,Town of Gordon,Douglas County,Douglas County,1.3,1,0,0,46.3076,-91.6082,1
+1409,66148,2019,7,18,WI,Town of Clinton,Town of Clinton,Vernon County,Vernon County,0.48,0,0,0,43.6952,-90.7599,1
+1410,66150,2019,7,19,WI,Town of Georgetown,Town of Georgetown,Polk County,Polk County,0.89,0,0,0,45.4928,-92.3098,1
+1411,66151,2019,7,19,WI,Town of Apple River,Town of Almena,Polk County,Barron County,13.9,1,0,0,45.4482,-92.3575,1
+1412,66152,2019,7,19,WI,Town of Wilson,Town of Wilson,Lincoln County,Lincoln County,6.52,0,0,0,45.551,-90.0356,1
+1413,66153,2019,7,19,WI,Town of Withee,Town of Withee,Clark County,Clark County,0.23,0,0,0,44.9599,-90.6797,1
+1414,66154,2019,7,19,WI,Town of Hixon,Town of Hixon,Clark County,Clark County,0.28,1,0,0,44.9858,-90.6116,1
+1415,66155,2019,7,19,WI,Town of Enterprise,Town of Pelican,Oneida County,Oneida County,5.42,0,0,0,45.5377,-89.3897,1
+1416,66156,2019,7,19,WI,Town of Bergen,Town of Guenther,Marathon County,Marathon County,8.97,1,0,0,44.7499,-89.7883,1
+1417,66157,2019,7,20,WI,Town of Gale,Town of Gale,Trempealeau County,Trempealeau County,0.86,0,0,0,44.0991,-91.183,1
+1418,66158,2019,7,20,WI,Town of Melrose,Town of Melrose,Jackson County,Jackson County,1.63,0,0,0,44.1071,-91.0826,1
+1419,66159,2019,7,20,WI,Town of Lind,Town of Royalton,Waupaca County,Waupaca County,7.55,1,0,0,44.3332,-89.0561,1
+1420,66160,2019,7,20,WI,Town of Weyauwega,Town of Weyauwega,Waupaca County,Waupaca County,1.35,0,0,0,44.3115,-88.9345,1
+1421,66161,2019,7,20,WI,Town of Mukwa,Town of Mukwa,Waupaca County,Waupaca County,1.3,0,0,0,44.3547,-88.761,1
+1422,66162,2019,7,20,WI,Town of Mukwa,Town of Liberty,Waupaca County,Outagamie County,6.24,1,0,0,44.3627,-88.7372,1
+1423,66163,2019,7,20,WI,Town of Greenville,Town of Ellington,Outagamie County,Outagamie County,3.51,1,0,0,44.3294,-88.5767,1
+1424,66164,2019,7,20,WI,Town of Grand Chute,Town of Grand Chute,Outagamie County,Outagamie County,0.72,0,0,0,44.3158,-88.4978,1
+1425,66165,2019,7,20,WI,,,Outagamie County,Outagamie County,1.11,0,0,0,44.3026,-88.2129,1
+1426,66182,2019,7,28,WI,Town of Georgetown,Town of Bone Lake,Polk County,Polk County,4.78,0,0,0,45.5195,-92.3955,1
+1427,66183,2019,7,28,WI,Town of Maple Grove,Town of Maple Grove,Barron County,Barron County,0.43,0,0,0,45.329,-91.7909,1
+1428,66196,2019,7,4,WI,Town of Big Bend,Town of Washington,Rusk County,Rusk County,7.59,0,0,0,45.3167,-91.3458,1
+1429,66299,2019,8,7,WI,,Town of Eaton,Brown County,Brown County,6.2,0,0,0,44.4952,-87.988,1
+1430,66338,2019,9,24,WI,Town of Elk Mound,Town of Wheaton,Dunn County,Chippewa County,6.97,3,3,0,44.8649,-91.6908,1
+1431,66341,2019,9,24,WI,Town of Eaton,Town of Eaton,Clark County,Clark County,4.69,1,0,0,44.711,-90.6427,1
+1432,66643,2020,3,28,WI,Town of Potosi,Town of South Lancaster,Grant County,Grant County,6.22,1,0,0,42.706,-90.7067,1
+1433,67101,2020,6,20,WI,Town of Winneconne,Town of Winneconne,Winnebago County,Winnebago County,0.24,0,0,0,44.1097,-88.6526,1
+1434,67102,2020,6,20,WI,Town of Winneconne,Town of Oshkosh,Winnebago County,Winnebago County,1.07,0,0,0,44.0848,-88.6582,1
+1435,67105,2020,6,20,WI,Town of Black Wolf,,Winnebago County,Winnebago County,3.37,0,0,0,43.9139,-88.4666,1
+1436,67209,2020,7,18,WI,,,Douglas County,Douglas County,0.42,1,0,0,46.6036,-91.6702,1
+1437,67210,2020,7,18,WI,Town of White River,Town of White River,Ashland County,Ashland County,0.6,1,0,0,46.4429,-90.9128,1
+1438,67214,2020,7,18,WI,,Town of Clifton,Washington County,Pierce County,6.23,0,0,0,44.8134,-92.7801,1
+1439,67215,2020,7,18,WI,Town of Unity,Town of Sumner,Trempealeau County,Trempealeau County,3.62,1,0,0,44.55,-91.2933,1
+1440,67221,2020,7,21,WI,Town of Clayton,Town of Clayton,Polk County,Polk County,0.19,0,0,0,45.3425,-92.224,1
+1441,67222,2020,7,21,WI,Town of Turtle Lake,Town of Turtle Lake,Barron County,Barron County,1.54,0,0,0,45.3397,-92.092,1
+1442,67223,2020,7,21,WI,Town of Otter Creek,Town of Otter Creek,Dunn County,Dunn County,0.09,0,0,0,45.1047,-91.8261,1
+1443,67224,2020,7,21,WI,Town of Wheaton,Town of Wheaton,Chippewa County,Chippewa County,3.45,0,0,0,44.9041,-91.5972,1
+1444,67225,2020,7,21,WI,Town of Sigel,Town of Arthur,Chippewa County,Chippewa County,2.9,0,0,0,44.9425,-91.1853,1
+1445,67285,2020,8,10,WI,Town of Waterloo,Town of Waterloo,Grant County,Grant County,0.55,0,0,0,42.694,-90.8312,1
+1446,67295,2020,8,10,WI,Town of Linn,,Walworth County,Walworth County,3.29,0,0,0,42.5568,-88.4463,1
+1448,67460,2020,8,9,WI,Town of Plum Lake,,Vilas County,Vilas County,6.18,1,0,0,46.0266,-89.4719,1
+1449,67461,2020,8,9,WI,Town of Cloverland,,Vilas County,Vilas County,5.89,1,0,0,45.906,-89.4044,1
+1450,67462,2020,8,9,WI,Town of Alvin,Stambaugh Township,Forest County,Iron County,4.59,1,0,0,45.982,-88.741,1
+1451,67463,2020,8,9,WI,Town of Alvin,Town of Tipler,Forest County,Florence County,3.56,1,0,0,45.982,-88.741,1
+1452,67490,2020,9,25,WI,Town of Morse,Town of Morse,Ashland County,Ashland County,0.8,0,0,0,46.34,-90.45,1
